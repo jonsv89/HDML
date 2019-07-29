@@ -1,0 +1,1371 @@
+Disease_1	Disease_2	Interaction
+acne	acute T cell leukemia	1
+acne	alopecia	-1
+acne	Alzheimer's disease	1
+acne	anogenital venereal wart	-1
+acne	aphthous stomatitis	1
+acne	arrhythmogenic right ventricular cardiomyopathy	-1
+acne	breast ductal carcinoma	1
+acne	childhood ependymoma	-1
+acne	chronic obstructive pulmonary disease	-1
+acne	colorectal cancer	-1
+acne	Cornelia de Lange syndrome	-1
+acne	Crohn's disease	1
+acne	dengue disease	1
+acne	dermatomyositis	1
+acne	glioblastoma multiforme	-1
+acne	hemophagocytic lymphohistiocytosis	1
+acne	hepatitis B	1
+acne	hepatoblastoma	-1
+acne	interstitial cystitis	1
+acne	interstitial lung disease	-1
+acne	kidney cancer	-1
+acne	Klinefelter's syndrome	1
+acne	lung neoplasms	1
+acne	mature t-cell lymphoma	-1
+acne	medulloblastoma	-1
+acne	mouth neoplasms	-1
+acne	myocardial infarction	1
+acne	myositis	1
+acne	neoplasm of pleura	1
+acne	non-small cell lung cancer	-1
+acne	ovarian cancer	1
+acne	peripheral artery disease	1
+acne	progeria	1
+acne	prostate cancer	-1
+acne	psoriasis	-1
+acne	rhabdoid cancer	1
+acne	rosacea	1
+acne	seborrheic keratosis	-1
+acne	skin disease	1
+acne	spina bifida	1
+acne	systemic lupus erythematosus	1
+acne	thyroid cancer	-1
+acne	tibial muscular dystrophy	1
+acne	trachoma	1
+acne	ulcerative colitis	1
+acute myeloid leukemia	juvenile myelomonocytic leukemia	-1
+acute myeloid leukemia	mature t-cell lymphoma	1
+acute myeloid leukemia	medulloblastoma	1
+acute T cell leukemia	adrenocortical carcinoma	-1
+acute T cell leukemia	arrhythmogenic right ventricular cardiomyopathy	-1
+acute T cell leukemia	atopic dermatitis	1
+acute T cell leukemia	chronic lymphocytic leukemia	1
+acute T cell leukemia	Cornelia de Lange syndrome	-1
+acute T cell leukemia	Crohn's disease	1
+acute T cell leukemia	hemophagocytic lymphohistiocytosis	1
+acute T cell leukemia	hepatitis B	1
+acute T cell leukemia	interstitial cystitis	1
+acute T cell leukemia	Klinefelter's syndrome	1
+acute T cell leukemia	lung neoplasms	1
+acute T cell leukemia	mature t-cell lymphoma	1
+acute T cell leukemia	mouth neoplasms	-1
+acute T cell leukemia	nasopharynx carcinoma	1
+acute T cell leukemia	neoplasm of pleura	1
+acute T cell leukemia	ovarian cancer	1
+acute T cell leukemia	progeria	1
+acute T cell leukemia	psoriasis	-1
+acute T cell leukemia	rosacea	1
+acute T cell leukemia	skin disease	1
+acute T cell leukemia	thyroid cancer	-1
+acute T cell leukemia	trachoma	1
+acute T cell leukemia	ulcerative colitis	1
+adrenocortical carcinoma	Alzheimer's disease	-1
+adrenocortical carcinoma	arrhythmogenic right ventricular cardiomyopathy	-1
+adrenocortical carcinoma	astrocytoma	-1
+adrenocortical carcinoma	atopic dermatitis	-1
+adrenocortical carcinoma	breast ductal carcinoma	-1
+adrenocortical carcinoma	cervical cancer	-1
+adrenocortical carcinoma	chronic lymphocytic leukemia	-1
+adrenocortical carcinoma	colorectal cancer	1
+adrenocortical carcinoma	dengue disease	1
+adrenocortical carcinoma	dermatomyositis	1
+adrenocortical carcinoma	hepatoblastoma	-1
+adrenocortical carcinoma	interstitial cystitis	1
+adrenocortical carcinoma	ischemia	1
+adrenocortical carcinoma	kidney cancer	1
+adrenocortical carcinoma	Klinefelter's syndrome	-1
+adrenocortical carcinoma	Leigh disease	-1
+adrenocortical carcinoma	leishmaniasis	1
+adrenocortical carcinoma	lung neoplasms	-1
+adrenocortical carcinoma	mature t-cell lymphoma	1
+adrenocortical carcinoma	medulloblastoma	1
+adrenocortical carcinoma	mouth neoplasms	1
+adrenocortical carcinoma	myocardial infarction	1
+adrenocortical carcinoma	nasopharynx carcinoma	-1
+adrenocortical carcinoma	neoplasm of pleura	-1
+adrenocortical carcinoma	non-small cell lung cancer	1
+adrenocortical carcinoma	oligodendroglioma	-1
+adrenocortical carcinoma	ovarian cancer	-1
+adrenocortical carcinoma	polycythemia vera	1
+adrenocortical carcinoma	rhabdoid cancer	-1
+adrenocortical carcinoma	rosacea	1
+adrenocortical carcinoma	spondyloarthropathy	1
+adrenocortical carcinoma	stomach cancer	1
+adrenocortical carcinoma	systemic lupus erythematosus	1
+adrenocortical carcinoma	tibial muscular dystrophy	1
+adrenocortical carcinoma	trachoma	1
+adrenocortical carcinoma	tuberculosis	-1
+adrenocortical carcinoma	uremia	1
+adrenocortical carcinoma	vitiligo	-1
+alopecia	Alzheimer's disease	-1
+alopecia	aphthous stomatitis	1
+alopecia	arrhythmogenic right ventricular cardiomyopathy	1
+alopecia	cervical cancer	1
+alopecia	Cornelia de Lange syndrome	1
+alopecia	Crohn's disease	-1
+alopecia	hemophagocytic lymphohistiocytosis	-1
+alopecia	hepatitis B	-1
+alopecia	Klinefelter's syndrome	-1
+alopecia	lung neoplasms	-1
+alopecia	mature t-cell lymphoma	1
+alopecia	myelofibrosis	-1
+alopecia	myocardial infarction	-1
+alopecia	non-small cell lung cancer	1
+alopecia	ovarian cancer	-1
+alopecia	progeria	-1
+alopecia	prostate cancer	1
+alopecia	psoriasis	1
+alopecia	rosacea	-1
+alopecia	seborrheic keratosis	1
+alopecia	Sjogren's syndrome	-1
+alopecia	systemic lupus erythematosus	-1
+alopecia	tibial muscular dystrophy	-1
+alopecia	Turner syndrome	-1
+alopecia	ulcerative colitis	-1
+alopecia	uremia	-1
+alopecia	vitiligo	1
+Alzheimer's disease	amyotrophic lateral sclerosis	-1
+Alzheimer's disease	anogenital venereal wart	1
+Alzheimer's disease	arrhythmogenic right ventricular cardiomyopathy	1
+Alzheimer's disease	astrocytoma	-1
+Alzheimer's disease	atrial fibrillation	1
+Alzheimer's disease	childhood ependymoma	1
+Alzheimer's disease	colorectal cancer	-1
+Alzheimer's disease	fatal familial insomnia	-1
+Alzheimer's disease	glioblastoma multiforme	1
+Alzheimer's disease	interstitial cystitis	-1
+Alzheimer's disease	interstitial lung disease	-1
+Alzheimer's disease	lung neoplasms	1
+Alzheimer's disease	mature t-cell lymphoma	-1
+Alzheimer's disease	mouth neoplasms	1
+Alzheimer's disease	non-small cell lung cancer	-1
+Alzheimer's disease	oligodendroglioma	-1
+Alzheimer's disease	ovarian cancer	1
+Alzheimer's disease	pilocytic astrocytoma	1
+Alzheimer's disease	progeria	-1
+Alzheimer's disease	psoriasis	-1
+Alzheimer's disease	rhabdoid cancer	-1
+Alzheimer's disease	sarcoidosis	1
+Alzheimer's disease	schizophrenia	1
+Alzheimer's disease	Sotos syndrome	1
+Alzheimer's disease	thyroid cancer	1
+Alzheimer's disease	trachoma	-1
+amyotrophic lateral sclerosis	atopic dermatitis	1
+amyotrophic lateral sclerosis	atrial fibrillation	-1
+amyotrophic lateral sclerosis	childhood ependymoma	1
+amyotrophic lateral sclerosis	colorectal cancer	1
+amyotrophic lateral sclerosis	dermatomyositis	-1
+amyotrophic lateral sclerosis	endometriosis	-1
+amyotrophic lateral sclerosis	fatal familial insomnia	1
+amyotrophic lateral sclerosis	glioblastoma multiforme	1
+amyotrophic lateral sclerosis	hemophagocytic lymphohistiocytosis	1
+amyotrophic lateral sclerosis	hepatitis B	1
+amyotrophic lateral sclerosis	hepatocellular carcinoma	-1
+amyotrophic lateral sclerosis	interstitial lung disease	1
+amyotrophic lateral sclerosis	Job's syndrome	1
+amyotrophic lateral sclerosis	leishmaniasis	1
+amyotrophic lateral sclerosis	lung neoplasms	-1
+amyotrophic lateral sclerosis	multiple myeloma	-1
+amyotrophic lateral sclerosis	osteoarthritis	-1
+amyotrophic lateral sclerosis	pilocytic astrocytoma	1
+amyotrophic lateral sclerosis	progeria	1
+amyotrophic lateral sclerosis	psoriasis	1
+amyotrophic lateral sclerosis	spina bifida	1
+amyotrophic lateral sclerosis	thyroid cancer	-1
+amyotrophic lateral sclerosis	trachoma	1
+amyotrophic lateral sclerosis	tuberculosis	-1
+amyotrophic lateral sclerosis	Turner syndrome	1
+amyotrophic lateral sclerosis	uremia	1
+anogenital venereal wart	aphthous stomatitis	-1
+anogenital venereal wart	cervical cancer	-1
+anogenital venereal wart	Crohn's disease	-1
+anogenital venereal wart	hemophagocytic lymphohistiocytosis	-1
+anogenital venereal wart	hepatitis B	-1
+anogenital venereal wart	hepatoblastoma	1
+anogenital venereal wart	hepatocellular carcinoma	1
+anogenital venereal wart	idiopathic pulmonary fibrosis	1
+anogenital venereal wart	interstitial cystitis	-1
+anogenital venereal wart	Job's syndrome	-1
+anogenital venereal wart	juvenile myelomonocytic leukemia	1
+anogenital venereal wart	mouth neoplasms	1
+anogenital venereal wart	myelofibrosis	1
+anogenital venereal wart	non-small cell lung cancer	-1
+anogenital venereal wart	ovarian cancer	1
+anogenital venereal wart	psoriasis	1
+anogenital venereal wart	rosacea	-1
+anogenital venereal wart	sarcoidosis	1
+anogenital venereal wart	schizophrenia	1
+anogenital venereal wart	skin disease	-1
+anogenital venereal wart	spondyloarthropathy	-1
+anogenital venereal wart	thyroid cancer	1
+anogenital venereal wart	trachoma	-1
+anogenital venereal wart	ulcerative colitis	-1
+aphthous stomatitis	arrhythmogenic right ventricular cardiomyopathy	-1
+aphthous stomatitis	astrocytoma	1
+aphthous stomatitis	cervical cancer	1
+aphthous stomatitis	childhood ependymoma	-1
+aphthous stomatitis	colorectal cancer	-1
+aphthous stomatitis	Crohn's disease	1
+aphthous stomatitis	dermatomyositis	1
+aphthous stomatitis	glioblastoma multiforme	-1
+aphthous stomatitis	glomerulonephritis	1
+aphthous stomatitis	interstitial cystitis	1
+aphthous stomatitis	juvenile myelomonocytic leukemia	1
+aphthous stomatitis	kidney cancer	-1
+aphthous stomatitis	mouth neoplasms	-1
+aphthous stomatitis	myositis	1
+aphthous stomatitis	nasopharynx carcinoma	1
+aphthous stomatitis	oligodendroglioma	1
+aphthous stomatitis	osteosarcoma	-1
+aphthous stomatitis	pancreatic carcinoma	1
+aphthous stomatitis	pilocytic astrocytoma	-1
+aphthous stomatitis	progeria	-1
+aphthous stomatitis	psoriasis	-1
+aphthous stomatitis	rosacea	1
+aphthous stomatitis	skin disease	1
+aphthous stomatitis	thyroid cancer	-1
+aphthous stomatitis	trachoma	1
+aphthous stomatitis	Turner syndrome	-1
+aphthous stomatitis	ulcerative colitis	1
+arrhythmogenic right ventricular cardiomyopathy	colorectal cancer	1
+arrhythmogenic right ventricular cardiomyopathy	Crohn's disease	-1
+arrhythmogenic right ventricular cardiomyopathy	dermatomyositis	-1
+arrhythmogenic right ventricular cardiomyopathy	glioblastoma multiforme	1
+arrhythmogenic right ventricular cardiomyopathy	hepatitis B	-1
+arrhythmogenic right ventricular cardiomyopathy	interstitial cystitis	-1
+arrhythmogenic right ventricular cardiomyopathy	Klinefelter's syndrome	-1
+arrhythmogenic right ventricular cardiomyopathy	mature t-cell lymphoma	-1
+arrhythmogenic right ventricular cardiomyopathy	mitochondrial complex II deficiency	-1
+arrhythmogenic right ventricular cardiomyopathy	mouth neoplasms	1
+arrhythmogenic right ventricular cardiomyopathy	myocardial infarction	-1
+arrhythmogenic right ventricular cardiomyopathy	oligodendroglioma	1
+arrhythmogenic right ventricular cardiomyopathy	ovarian cancer	-1
+arrhythmogenic right ventricular cardiomyopathy	psoriasis	1
+arrhythmogenic right ventricular cardiomyopathy	rhabdoid cancer	-1
+arrhythmogenic right ventricular cardiomyopathy	rosacea	-1
+arrhythmogenic right ventricular cardiomyopathy	seborrheic keratosis	1
+arrhythmogenic right ventricular cardiomyopathy	skin disease	-1
+arrhythmogenic right ventricular cardiomyopathy	systemic lupus erythematosus	-1
+arrhythmogenic right ventricular cardiomyopathy	thyroid cancer	1
+arrhythmogenic right ventricular cardiomyopathy	tibial muscular dystrophy	-1
+arrhythmogenic right ventricular cardiomyopathy	trachoma	-1
+arrhythmogenic right ventricular cardiomyopathy	ulcerative colitis	-1
+astrocytoma	atopic dermatitis	1
+astrocytoma	atrial fibrillation	1
+astrocytoma	cervical cancer	1
+astrocytoma	childhood ependymoma	-1
+astrocytoma	chronic lymphocytic leukemia	1
+astrocytoma	colorectal cancer	-1
+astrocytoma	dengue disease	-1
+astrocytoma	endometriosis	1
+astrocytoma	glioblastoma multiforme	-1
+astrocytoma	glomerulonephritis	1
+astrocytoma	hemophagocytic lymphohistiocytosis	-1
+astrocytoma	hepatoblastoma	1
+astrocytoma	ischemia	-1
+astrocytoma	Job's syndrome	-1
+astrocytoma	kidney cancer	-1
+astrocytoma	leishmaniasis	-1
+astrocytoma	medulloblastoma	-1
+astrocytoma	multiple myeloma	1
+astrocytoma	myelofibrosis	-1
+astrocytoma	myocardial infarction	-1
+astrocytoma	nasopharynx carcinoma	1
+astrocytoma	neoplasm of pleura	1
+astrocytoma	oligodendroglioma	1
+astrocytoma	osteosarcoma	-1
+astrocytoma	ovarian cancer	1
+astrocytoma	pancreatic carcinoma	1
+astrocytoma	pilocytic astrocytoma	-1
+astrocytoma	polycythemia vera	-1
+astrocytoma	rhabdoid cancer	1
+astrocytoma	schizophrenia	-1
+astrocytoma	sickle cell anemia	-1
+astrocytoma	skin disease	1
+astrocytoma	Sotos syndrome	-1
+astrocytoma	spondyloarthropathy	-1
+astrocytoma	stomach cancer	-1
+astrocytoma	systemic lupus erythematosus	-1
+astrocytoma	tibial muscular dystrophy	-1
+astrocytoma	trachoma	-1
+astrocytoma	tuberculosis	1
+astrocytoma	uremia	-1
+astrocytoma	vitiligo	1
+atopic dermatitis	chronic lymphocytic leukemia	1
+atopic dermatitis	chronic obstructive pulmonary disease	1
+atopic dermatitis	dengue disease	-1
+atopic dermatitis	glioblastoma multiforme	1
+atopic dermatitis	glomerulonephritis	1
+atopic dermatitis	hemophagocytic lymphohistiocytosis	-1
+atopic dermatitis	hepatitis C	-1
+atopic dermatitis	idiopathic pulmonary fibrosis	1
+atopic dermatitis	interstitial cystitis	1
+atopic dermatitis	Job's syndrome	-1
+atopic dermatitis	kidney cancer	-1
+atopic dermatitis	mitochondrial complex II deficiency	1
+atopic dermatitis	neoplasm of pleura	1
+atopic dermatitis	oligodendroglioma	1
+atopic dermatitis	osteosarcoma	-1
+atopic dermatitis	ovarian cancer	1
+atopic dermatitis	pancreatic carcinoma	1
+atopic dermatitis	pilocytic astrocytoma	1
+atopic dermatitis	progeria	1
+atopic dermatitis	rhabdoid cancer	-1
+atopic dermatitis	sarcoidosis	1
+atopic dermatitis	spina bifida	1
+atopic dermatitis	spondyloarthropathy	-1
+atopic dermatitis	thalassemia	1
+atopic dermatitis	tibial muscular dystrophy	-1
+atopic dermatitis	tuberculosis	1
+atopic dermatitis	uremia	1
+atopic dermatitis	vitiligo	1
+atrial fibrillation	dermatomyositis	1
+atrial fibrillation	hepatocellular carcinoma	1
+atrial fibrillation	interstitial lung disease	-1
+atrial fibrillation	ischemia	-1
+atrial fibrillation	Job's syndrome	-1
+atrial fibrillation	Leigh disease	1
+atrial fibrillation	mature t-cell lymphoma	-1
+atrial fibrillation	multiple myeloma	1
+atrial fibrillation	neoplasm of pleura	-1
+atrial fibrillation	oligodendroglioma	1
+atrial fibrillation	peripheral artery disease	1
+atrial fibrillation	polycythemia vera	-1
+atrial fibrillation	progeria	-1
+atrial fibrillation	rosacea	-1
+atrial fibrillation	spondyloarthropathy	-1
+atrial fibrillation	thyroid cancer	1
+atrial fibrillation	tibial muscular dystrophy	-1
+atrial fibrillation	trachoma	-1
+Behcet's disease	dengue disease	1
+Behcet's disease	Job's syndrome	1
+breast cancer	breast ductal carcinoma	1
+breast ductal carcinoma	colorectal cancer	-1
+breast ductal carcinoma	interstitial cystitis	1
+breast ductal carcinoma	lung neoplasms	1
+breast ductal carcinoma	nasopharynx carcinoma	1
+breast ductal carcinoma	neoplasm of pleura	1
+breast ductal carcinoma	non-small cell lung cancer	-1
+breast ductal carcinoma	psoriasis	-1
+breast ductal carcinoma	rosacea	1
+breast ductal carcinoma	skin disease	1
+breast ductal carcinoma	thyroid cancer	-1
+breast ductal carcinoma	trachoma	1
+cervical cancer	childhood ependymoma	-1
+cervical cancer	colorectal cancer	-1
+cervical cancer	dengue disease	-1
+cervical cancer	endometriosis	1
+cervical cancer	glioblastoma multiforme	-1
+cervical cancer	glomerulonephritis	1
+cervical cancer	hemophagocytic lymphohistiocytosis	-1
+cervical cancer	hepatitis B	-1
+cervical cancer	hepatoblastoma	1
+cervical cancer	hepatocellular carcinoma	1
+cervical cancer	interstitial cystitis	1
+cervical cancer	ischemia	-1
+cervical cancer	Job's syndrome	-1
+cervical cancer	juvenile myelomonocytic leukemia	1
+cervical cancer	kidney cancer	-1
+cervical cancer	leishmaniasis	-1
+cervical cancer	lung neoplasms	1
+cervical cancer	medulloblastoma	-1
+cervical cancer	mouth neoplasms	-1
+cervical cancer	multiple myeloma	1
+cervical cancer	myocardial infarction	-1
+cervical cancer	nasopharynx carcinoma	1
+cervical cancer	neoplasm of pleura	1
+cervical cancer	oligodendroglioma	1
+cervical cancer	osteoarthritis	1
+cervical cancer	osteosarcoma	-1
+cervical cancer	pancreatic carcinoma	1
+cervical cancer	pilocytic astrocytoma	-1
+cervical cancer	polycythemia vera	-1
+cervical cancer	rhabdoid cancer	1
+cervical cancer	rosacea	-1
+cervical cancer	seborrheic keratosis	1
+cervical cancer	Sjogren's syndrome	-1
+cervical cancer	skin disease	1
+cervical cancer	spondyloarthropathy	-1
+cervical cancer	stomach cancer	-1
+cervical cancer	systemic lupus erythematosus	-1
+cervical cancer	thalassemia	1
+cervical cancer	tibial muscular dystrophy	-1
+cervical cancer	trachoma	-1
+cervical cancer	tuberculosis	1
+cervical cancer	Turner syndrome	-1
+cervical cancer	ulcerative colitis	1
+cervical cancer	uremia	-1
+cervical cancer	vitiligo	1
+childhood ependymoma	colorectal cancer	1
+childhood ependymoma	dermatomyositis	-1
+childhood ependymoma	endometriosis	-1
+childhood ependymoma	glioblastoma multiforme	1
+childhood ependymoma	glomerulonephritis	-1
+childhood ependymoma	hemophagocytic lymphohistiocytosis	1
+childhood ependymoma	hepatitis C	-1
+childhood ependymoma	hepatoblastoma	-1
+childhood ependymoma	kidney cancer	1
+childhood ependymoma	leishmaniasis	1
+childhood ependymoma	medulloblastoma	1
+childhood ependymoma	mental depression	1
+childhood ependymoma	mouth neoplasms	1
+childhood ependymoma	myelofibrosis	1
+childhood ependymoma	myositis	-1
+childhood ependymoma	oligodendroglioma	-1
+childhood ependymoma	osteoarthritis	-1
+childhood ependymoma	pilocytic astrocytoma	1
+childhood ependymoma	polycythemia vera	1
+childhood ependymoma	psoriasis	1
+childhood ependymoma	rhabdoid cancer	-1
+childhood ependymoma	schizophrenia	1
+childhood ependymoma	spina bifida	1
+childhood ependymoma	systemic lupus erythematosus	1
+childhood ependymoma	thalassemia	1
+childhood ependymoma	trachoma	1
+childhood ependymoma	tuberculosis	-1
+childhood ependymoma	Turner syndrome	1
+childhood ependymoma	uremia	1
+choroideremia	dengue disease	1
+chronic lymphocytic leukemia	chronic obstructive pulmonary disease	1
+chronic lymphocytic leukemia	colorectal cancer	-1
+chronic lymphocytic leukemia	dengue disease	-1
+chronic lymphocytic leukemia	dermatomyositis	-1
+chronic lymphocytic leukemia	hemophagocytic lymphohistiocytosis	-1
+chronic lymphocytic leukemia	hepatitis C	-1
+chronic lymphocytic leukemia	hepatocellular carcinoma	1
+chronic lymphocytic leukemia	idiopathic pulmonary fibrosis	1
+chronic lymphocytic leukemia	interstitial cystitis	-1
+chronic lymphocytic leukemia	ischemia	-1
+chronic lymphocytic leukemia	juvenile myelomonocytic leukemia	-1
+chronic lymphocytic leukemia	kidney cancer	-1
+chronic lymphocytic leukemia	mature t-cell lymphoma	-1
+chronic lymphocytic leukemia	medulloblastoma	-1
+chronic lymphocytic leukemia	mouth neoplasms	1
+chronic lymphocytic leukemia	myelodysplastic syndrome	-1
+chronic lymphocytic leukemia	myelofibrosis	-1
+chronic lymphocytic leukemia	myositis	-1
+chronic lymphocytic leukemia	neoplasm of pleura	1
+chronic lymphocytic leukemia	oligodendroglioma	1
+chronic lymphocytic leukemia	osteosarcoma	-1
+chronic lymphocytic leukemia	ovarian cancer	1
+chronic lymphocytic leukemia	pancreatic carcinoma	1
+chronic lymphocytic leukemia	polycythemia vera	-1
+chronic lymphocytic leukemia	rosacea	-1
+chronic lymphocytic leukemia	sarcoidosis	1
+chronic lymphocytic leukemia	spondyloarthropathy	-1
+chronic lymphocytic leukemia	thyroid cancer	1
+chronic lymphocytic leukemia	tibial muscular dystrophy	-1
+chronic lymphocytic leukemia	trachoma	-1
+chronic lymphocytic leukemia	Turner syndrome	1
+chronic obstructive pulmonary disease	dengue disease	-1
+chronic obstructive pulmonary disease	hemophagocytic lymphohistiocytosis	-1
+chronic obstructive pulmonary disease	hepatoblastoma	1
+chronic obstructive pulmonary disease	idiopathic pulmonary fibrosis	1
+chronic obstructive pulmonary disease	Job's syndrome	-1
+chronic obstructive pulmonary disease	non-small cell lung cancer	1
+chronic obstructive pulmonary disease	osteosarcoma	-1
+chronic obstructive pulmonary disease	psoriasis	1
+chronic obstructive pulmonary disease	rosacea	-1
+chronic obstructive pulmonary disease	spondyloarthropathy	-1
+chronic obstructive pulmonary disease	systemic lupus erythematosus	-1
+chronic obstructive pulmonary disease	trachoma	-1
+colorectal cancer	Cornelia de Lange syndrome	1
+colorectal cancer	Crohn's disease	-1
+colorectal cancer	dermatomyositis	-1
+colorectal cancer	glioblastoma multiforme	1
+colorectal cancer	hepatoblastoma	-1
+colorectal cancer	interstitial lung disease	1
+colorectal cancer	kidney cancer	1
+colorectal cancer	Klinefelter's syndrome	-1
+colorectal cancer	Leigh disease	-1
+colorectal cancer	lung neoplasms	-1
+colorectal cancer	mature t-cell lymphoma	1
+colorectal cancer	medulloblastoma	1
+colorectal cancer	mental depression	1
+colorectal cancer	mouth neoplasms	1
+colorectal cancer	nasopharynx carcinoma	-1
+colorectal cancer	neoplasm of pleura	-1
+colorectal cancer	non-small cell lung cancer	1
+colorectal cancer	oligodendroglioma	-1
+colorectal cancer	ovarian cancer	-1
+colorectal cancer	pilocytic astrocytoma	1
+colorectal cancer	polycythemia vera	1
+colorectal cancer	prostate cancer	1
+colorectal cancer	psoriasis	1
+colorectal cancer	rhabdoid cancer	-1
+colorectal cancer	skin disease	-1
+colorectal cancer	stomach cancer	1
+colorectal cancer	thyroid cancer	1
+colorectal cancer	ulcerative colitis	-1
+Cornelia de Lange syndrome	hepatitis B	-1
+Cornelia de Lange syndrome	Klinefelter's syndrome	-1
+Cornelia de Lange syndrome	lung neoplasms	-1
+Cornelia de Lange syndrome	mature t-cell lymphoma	1
+Cornelia de Lange syndrome	medulloblastoma	1
+Cornelia de Lange syndrome	neoplasm of pleura	-1
+Cornelia de Lange syndrome	non-small cell lung cancer	1
+Cornelia de Lange syndrome	progeria	-1
+Cornelia de Lange syndrome	prostate cancer	1
+Cornelia de Lange syndrome	psoriasis	1
+Cornelia de Lange syndrome	rosacea	-1
+Cornelia de Lange syndrome	seborrheic keratosis	1
+Cornelia de Lange syndrome	Turner syndrome	-1
+Crohn's disease	dengue disease	1
+Crohn's disease	dermatomyositis	1
+Crohn's disease	hemophagocytic lymphohistiocytosis	1
+Crohn's disease	hepatitis B	1
+Crohn's disease	interstitial cystitis	1
+Crohn's disease	lung neoplasms	1
+Crohn's disease	myocardial infarction	1
+Crohn's disease	myositis	1
+Crohn's disease	non-small cell lung cancer	-1
+Crohn's disease	peripheral artery disease	1
+Crohn's disease	psoriasis	-1
+Crohn's disease	rosacea	1
+Crohn's disease	skin disease	1
+Crohn's disease	systemic lupus erythematosus	1
+Crohn's disease	thyroid cancer	-1
+Crohn's disease	tibial muscular dystrophy	1
+Crohn's disease	trachoma	1
+Crohn's disease	ulcerative colitis	1
+dengue disease	dermatomyositis	1
+dengue disease	endometriosis	-1
+dengue disease	glioblastoma multiforme	-1
+dengue disease	glomerulonephritis	-1
+dengue disease	hemophagocytic lymphohistiocytosis	1
+dengue disease	hepatoblastoma	-1
+dengue disease	hepatocellular carcinoma	-1
+dengue disease	idiopathic pulmonary fibrosis	-1
+dengue disease	interstitial cystitis	1
+dengue disease	Job's syndrome	1
+dengue disease	kidney cancer	1
+dengue disease	leishmaniasis	1
+dengue disease	lung neoplasms	1
+dengue disease	mature t-cell lymphoma	1
+dengue disease	multiple myeloma	-1
+dengue disease	myelofibrosis	1
+dengue disease	myocardial infarction	1
+dengue disease	myositis	1
+dengue disease	non-small cell lung cancer	-1
+dengue disease	oligodendroglioma	-1
+dengue disease	osteoarthritis	-1
+dengue disease	osteosarcoma	1
+dengue disease	pancreatic carcinoma	-1
+dengue disease	polycythemia vera	1
+dengue disease	prostate cancer	-1
+dengue disease	psoriasis	-1
+dengue disease	rhabdoid cancer	1
+dengue disease	rosacea	1
+dengue disease	sarcoidosis	-1
+dengue disease	skin disease	1
+dengue disease	spondyloarthropathy	1
+dengue disease	stomach cancer	1
+dengue disease	systemic lupus erythematosus	1
+dengue disease	thyroid cancer	-1
+dengue disease	tibial muscular dystrophy	1
+dengue disease	trachoma	1
+dengue disease	tuberculosis	-1
+dengue disease	uremia	1
+dengue disease	vitiligo	-1
+dermatomyositis	glioblastoma multiforme	-1
+dermatomyositis	hemophagocytic lymphohistiocytosis	1
+dermatomyositis	interstitial cystitis	1
+dermatomyositis	interstitial lung disease	-1
+dermatomyositis	mitochondrial complex II deficiency	1
+dermatomyositis	mouth neoplasms	-1
+dermatomyositis	myositis	1
+dermatomyositis	peripheral artery disease	1
+dermatomyositis	pilocytic astrocytoma	-1
+dermatomyositis	progeria	-1
+dermatomyositis	psoriasis	-1
+dermatomyositis	rosacea	1
+dermatomyositis	skin disease	1
+dermatomyositis	systemic lupus erythematosus	1
+dermatomyositis	thyroid cancer	-1
+dermatomyositis	trachoma	1
+dermatomyositis	Turner syndrome	-1
+dermatomyositis	ulcerative colitis	1
+dermatomyositis	vitiligo	-1
+endometriosis	glioblastoma multiforme	-1
+endometriosis	glomerulonephritis	1
+endometriosis	hemophagocytic lymphohistiocytosis	-1
+endometriosis	hepatitis C	1
+endometriosis	hepatoblastoma	1
+endometriosis	hepatocellular carcinoma	1
+endometriosis	idiopathic pulmonary fibrosis	1
+endometriosis	ischemia	-1
+endometriosis	Job's syndrome	-1
+endometriosis	kidney cancer	-1
+endometriosis	leishmaniasis	-1
+endometriosis	medulloblastoma	-1
+endometriosis	mental depression	-1
+endometriosis	multiple myeloma	1
+endometriosis	myelofibrosis	-1
+endometriosis	myocardial infarction	-1
+endometriosis	nasopharynx carcinoma	1
+endometriosis	non-small cell lung cancer	1
+endometriosis	oligodendroglioma	1
+endometriosis	osteoarthritis	1
+endometriosis	osteosarcoma	-1
+endometriosis	pancreatic carcinoma	1
+endometriosis	pilocytic astrocytoma	-1
+endometriosis	polycythemia vera	-1
+endometriosis	psoriasis	1
+endometriosis	seborrheic keratosis	1
+endometriosis	Sjogren's syndrome	-1
+endometriosis	spina bifida	-1
+endometriosis	spondyloarthropathy	-1
+endometriosis	stomach cancer	-1
+endometriosis	systemic lupus erythematosus	-1
+endometriosis	tibial muscular dystrophy	-1
+endometriosis	trachoma	-1
+endometriosis	tuberculosis	1
+endometriosis	uremia	-1
+endometriosis	vitiligo	1
+fatal familial insomnia	Job's syndrome	1
+fatal familial insomnia	kidney cancer	1
+fatal familial insomnia	osteosarcoma	1
+fatal familial insomnia	sarcoidosis	-1
+glioblastoma multiforme	glomerulonephritis	-1
+glioblastoma multiforme	hepatitis C	-1
+glioblastoma multiforme	hepatoblastoma	-1
+glioblastoma multiforme	kidney cancer	1
+glioblastoma multiforme	leishmaniasis	1
+glioblastoma multiforme	lung neoplasms	-1
+glioblastoma multiforme	medulloblastoma	1
+glioblastoma multiforme	mental depression	1
+glioblastoma multiforme	mouth neoplasms	1
+glioblastoma multiforme	multiple myeloma	-1
+glioblastoma multiforme	myelofibrosis	1
+glioblastoma multiforme	myositis	-1
+glioblastoma multiforme	nasopharynx carcinoma	-1
+glioblastoma multiforme	neoplasm of pleura	-1
+glioblastoma multiforme	non-small cell lung cancer	1
+glioblastoma multiforme	oligodendroglioma	-1
+glioblastoma multiforme	osteoarthritis	-1
+glioblastoma multiforme	pilocytic astrocytoma	1
+glioblastoma multiforme	polycythemia vera	1
+glioblastoma multiforme	psoriasis	1
+glioblastoma multiforme	rhabdoid cancer	-1
+glioblastoma multiforme	rosacea	-1
+glioblastoma multiforme	Sjogren's syndrome	1
+glioblastoma multiforme	skin disease	-1
+glioblastoma multiforme	systemic lupus erythematosus	1
+glioblastoma multiforme	thalassemia	1
+glioblastoma multiforme	thyroid cancer	1
+glioblastoma multiforme	tuberculosis	-1
+glioblastoma multiforme	Turner syndrome	1
+glioblastoma multiforme	ulcerative colitis	-1
+glioblastoma multiforme	uremia	1
+glomerulonephritis	hemophagocytic lymphohistiocytosis	-1
+glomerulonephritis	hepatoblastoma	1
+glomerulonephritis	hepatocellular carcinoma	1
+glomerulonephritis	idiopathic pulmonary fibrosis	1
+glomerulonephritis	ischemia	-1
+glomerulonephritis	Job's syndrome	-1
+glomerulonephritis	kidney cancer	-1
+glomerulonephritis	leishmaniasis	-1
+glomerulonephritis	medulloblastoma	-1
+glomerulonephritis	multiple myeloma	1
+glomerulonephritis	myelofibrosis	-1
+glomerulonephritis	myositis	1
+glomerulonephritis	nasopharynx carcinoma	1
+glomerulonephritis	oligodendroglioma	1
+glomerulonephritis	osteoarthritis	1
+glomerulonephritis	osteosarcoma	-1
+glomerulonephritis	pancreatic carcinoma	1
+glomerulonephritis	pilocytic astrocytoma	-1
+glomerulonephritis	polycythemia vera	-1
+glomerulonephritis	prostate cancer	1
+glomerulonephritis	rhabdoid cancer	1
+glomerulonephritis	sickle cell anemia	-1
+glomerulonephritis	Sjogren's syndrome	-1
+glomerulonephritis	spondyloarthropathy	-1
+glomerulonephritis	stomach cancer	-1
+glomerulonephritis	systemic lupus erythematosus	-1
+glomerulonephritis	tuberculosis	1
+glomerulonephritis	ulcerative colitis	1
+glomerulonephritis	uremia	-1
+glomerulonephritis	vitiligo	1
+hemophagocytic lymphohistiocytosis	hepatoblastoma	-1
+hemophagocytic lymphohistiocytosis	hepatocellular carcinoma	-1
+hemophagocytic lymphohistiocytosis	idiopathic pulmonary fibrosis	-1
+hemophagocytic lymphohistiocytosis	interstitial cystitis	1
+hemophagocytic lymphohistiocytosis	ischemia	1
+hemophagocytic lymphohistiocytosis	Job's syndrome	1
+hemophagocytic lymphohistiocytosis	juvenile myelomonocytic leukemia	-1
+hemophagocytic lymphohistiocytosis	kidney cancer	1
+hemophagocytic lymphohistiocytosis	leishmaniasis	1
+hemophagocytic lymphohistiocytosis	lung neoplasms	1
+hemophagocytic lymphohistiocytosis	medulloblastoma	1
+hemophagocytic lymphohistiocytosis	multiple myeloma	-1
+hemophagocytic lymphohistiocytosis	myelofibrosis	1
+hemophagocytic lymphohistiocytosis	myocardial infarction	1
+hemophagocytic lymphohistiocytosis	non-small cell lung cancer	-1
+hemophagocytic lymphohistiocytosis	oligodendroglioma	-1
+hemophagocytic lymphohistiocytosis	osteoarthritis	-1
+hemophagocytic lymphohistiocytosis	osteosarcoma	1
+hemophagocytic lymphohistiocytosis	pancreatic carcinoma	-1
+hemophagocytic lymphohistiocytosis	peripheral artery disease	1
+hemophagocytic lymphohistiocytosis	pilocytic astrocytoma	1
+hemophagocytic lymphohistiocytosis	polycythemia vera	1
+hemophagocytic lymphohistiocytosis	psoriasis	-1
+hemophagocytic lymphohistiocytosis	rosacea	1
+hemophagocytic lymphohistiocytosis	sarcoidosis	-1
+hemophagocytic lymphohistiocytosis	schizophrenia	-1
+hemophagocytic lymphohistiocytosis	sickle cell anemia	1
+hemophagocytic lymphohistiocytosis	Sjogren's syndrome	1
+hemophagocytic lymphohistiocytosis	spondyloarthropathy	1
+hemophagocytic lymphohistiocytosis	stomach cancer	1
+hemophagocytic lymphohistiocytosis	systemic lupus erythematosus	1
+hemophagocytic lymphohistiocytosis	thyroid cancer	-1
+hemophagocytic lymphohistiocytosis	trachoma	1
+hemophagocytic lymphohistiocytosis	tuberculosis	-1
+hemophagocytic lymphohistiocytosis	uremia	1
+hepatitis B	hepatitis C	-1
+hepatitis B	hepatoblastoma	-1
+hepatitis B	interstitial cystitis	1
+hepatitis B	Job's syndrome	1
+hepatitis B	juvenile myelomonocytic leukemia	-1
+hepatitis B	Leigh disease	-1
+hepatitis B	lung neoplasms	-1
+hepatitis B	medulloblastoma	1
+hepatitis B	myocardial infarction	1
+hepatitis B	myositis	1
+hepatitis B	nasopharynx carcinoma	-1
+hepatitis B	progeria	1
+hepatitis B	rosacea	1
+hepatitis B	seborrheic keratosis	-1
+hepatitis B	Sjogren's syndrome	1
+hepatitis B	spina bifida	1
+hepatitis B	systemic lupus erythematosus	1
+hepatitis B	thyroid cancer	-1
+hepatitis B	trachoma	1
+hepatitis B	Turner syndrome	1
+hepatitis B	ulcerative colitis	1
+hepatitis B	vitiligo	-1
+hepatitis C	hepatoblastoma	1
+hepatitis C	medulloblastoma	-1
+hepatitis C	mitochondrial complex II deficiency	-1
+hepatitis C	myelodysplastic syndrome	1
+hepatitis C	myelofibrosis	-1
+hepatitis C	myocardial infarction	-1
+hepatitis C	osteosarcoma	1
+hepatitis C	ovarian cancer	-1
+hepatitis C	pilocytic astrocytoma	-1
+hepatitis C	polycythemia vera	-1
+hepatitis C	rhabdoid cancer	1
+hepatitis C	sarcoidosis	-1
+hepatitis C	spina bifida	-1
+hepatitis C	systemic lupus erythematosus	-1
+hepatitis C	Turner syndrome	-1
+hepatitis C	uremia	-1
+hepatitis C	vitiligo	1
+hepatoblastoma	hepatocellular carcinoma	1
+hepatoblastoma	idiopathic pulmonary fibrosis	1
+hepatoblastoma	interstitial cystitis	-1
+hepatoblastoma	Job's syndrome	-1
+hepatoblastoma	kidney cancer	-1
+hepatoblastoma	leishmaniasis	-1
+hepatoblastoma	medulloblastoma	-1
+hepatoblastoma	mitochondrial complex II deficiency	-1
+hepatoblastoma	multiple myeloma	1
+hepatoblastoma	myocardial infarction	-1
+hepatoblastoma	nasopharynx carcinoma	1
+hepatoblastoma	neoplasm of pleura	1
+hepatoblastoma	oligodendroglioma	1
+hepatoblastoma	osteoarthritis	1
+hepatoblastoma	osteosarcoma	-1
+hepatoblastoma	peripheral artery disease	-1
+hepatoblastoma	pilocytic astrocytoma	-1
+hepatoblastoma	polycythemia vera	-1
+hepatoblastoma	psoriasis	1
+hepatoblastoma	rhabdoid cancer	1
+hepatoblastoma	skin disease	-1
+hepatoblastoma	spina bifida	-1
+hepatoblastoma	spondyloarthropathy	-1
+hepatoblastoma	stomach cancer	-1
+hepatoblastoma	systemic lupus erythematosus	-1
+hepatoblastoma	trachoma	-1
+hepatoblastoma	tuberculosis	1
+hepatoblastoma	uremia	-1
+hepatoblastoma	vitiligo	1
+hepatocellular carcinoma	idiopathic pulmonary fibrosis	1
+hepatocellular carcinoma	ischemia	-1
+hepatocellular carcinoma	Job's syndrome	-1
+hepatocellular carcinoma	kidney cancer	-1
+hepatocellular carcinoma	leishmaniasis	-1
+hepatocellular carcinoma	multiple myeloma	1
+hepatocellular carcinoma	nasopharynx carcinoma	1
+hepatocellular carcinoma	osteoarthritis	1
+hepatocellular carcinoma	osteosarcoma	-1
+hepatocellular carcinoma	pancreatic carcinoma	1
+hepatocellular carcinoma	peripheral artery disease	-1
+hepatocellular carcinoma	pilocytic astrocytoma	-1
+hepatocellular carcinoma	schizophrenia	1
+hepatocellular carcinoma	spondyloarthropathy	-1
+hepatocellular carcinoma	stomach cancer	-1
+hepatocellular carcinoma	systemic lupus erythematosus	-1
+hepatocellular carcinoma	tibial muscular dystrophy	-1
+hepatocellular carcinoma	trachoma	-1
+hepatocellular carcinoma	tuberculosis	1
+hepatocellular carcinoma	uremia	-1
+idiopathic pulmonary fibrosis	interstitial lung disease	1
+idiopathic pulmonary fibrosis	ischemia	-1
+idiopathic pulmonary fibrosis	Job's syndrome	-1
+idiopathic pulmonary fibrosis	juvenile myelomonocytic leukemia	1
+idiopathic pulmonary fibrosis	Leigh disease	-1
+idiopathic pulmonary fibrosis	leishmaniasis	-1
+idiopathic pulmonary fibrosis	multiple myeloma	1
+idiopathic pulmonary fibrosis	myelodysplastic syndrome	-1
+idiopathic pulmonary fibrosis	myelofibrosis	-1
+idiopathic pulmonary fibrosis	myocardial infarction	-1
+idiopathic pulmonary fibrosis	neoplasm of pleura	1
+idiopathic pulmonary fibrosis	osteoarthritis	1
+idiopathic pulmonary fibrosis	pancreatic carcinoma	1
+idiopathic pulmonary fibrosis	peripheral artery disease	-1
+idiopathic pulmonary fibrosis	polycythemia vera	-1
+idiopathic pulmonary fibrosis	psoriasis	1
+idiopathic pulmonary fibrosis	sarcoidosis	1
+idiopathic pulmonary fibrosis	schizophrenia	1
+idiopathic pulmonary fibrosis	spondyloarthropathy	-1
+idiopathic pulmonary fibrosis	systemic lupus erythematosus	-1
+idiopathic pulmonary fibrosis	trachoma	-1
+idiopathic pulmonary fibrosis	tuberculosis	1
+idiopathic pulmonary fibrosis	Turner syndrome	1
+idiopathic pulmonary fibrosis	uremia	-1
+interstitial cystitis	irritable bowel syndrome	-1
+interstitial cystitis	juvenile myelomonocytic leukemia	-1
+interstitial cystitis	kidney cancer	-1
+interstitial cystitis	mature t-cell lymphoma	1
+interstitial cystitis	mouth neoplasms	-1
+interstitial cystitis	myositis	1
+interstitial cystitis	nasopharynx carcinoma	1
+interstitial cystitis	neoplasm of pleura	1
+interstitial cystitis	ovarian cancer	-1
+interstitial cystitis	progeria	1
+interstitial cystitis	psoriasis	-1
+interstitial cystitis	rosacea	1
+interstitial cystitis	schizophrenia	-1
+interstitial cystitis	skin disease	1
+interstitial cystitis	spina bifida	1
+interstitial cystitis	thyroid cancer	-1
+interstitial cystitis	trachoma	1
+interstitial cystitis	ulcerative colitis	1
+interstitial lung disease	mature t-cell lymphoma	1
+interstitial lung disease	multiple myeloma	-1
+interstitial lung disease	neoplasm of pleura	1
+interstitial lung disease	peripheral artery disease	-1
+interstitial lung disease	progeria	1
+interstitial lung disease	psoriasis	1
+interstitial lung disease	skin disease	-1
+interstitial lung disease	Turner syndrome	1
+irritable bowel syndrome	ulcerative colitis	-1
+ischemia	Job's syndrome	1
+ischemia	kidney cancer	1
+ischemia	leishmaniasis	1
+ischemia	multiple myeloma	-1
+ischemia	myelofibrosis	1
+ischemia	oligodendroglioma	-1
+ischemia	pancreatic carcinoma	-1
+ischemia	polycythemia vera	1
+ischemia	sarcoidosis	-1
+ischemia	sickle cell anemia	1
+ischemia	spondyloarthropathy	1
+ischemia	systemic lupus erythematosus	1
+ischemia	tibial muscular dystrophy	1
+ischemia	tuberculosis	-1
+ischemia	uremia	1
+ischemia	vitiligo	-1
+Job's syndrome	juvenile myelomonocytic leukemia	-1
+Job's syndrome	kidney cancer	1
+Job's syndrome	leishmaniasis	1
+Job's syndrome	mature t-cell lymphoma	1
+Job's syndrome	multiple myeloma	-1
+Job's syndrome	myocardial infarction	1
+Job's syndrome	nasopharynx carcinoma	-1
+Job's syndrome	oligodendroglioma	-1
+Job's syndrome	osteoarthritis	-1
+Job's syndrome	osteosarcoma	1
+Job's syndrome	ovarian cancer	-1
+Job's syndrome	pancreatic carcinoma	-1
+Job's syndrome	polycythemia vera	1
+Job's syndrome	sarcoidosis	-1
+Job's syndrome	spondyloarthropathy	1
+Job's syndrome	stomach cancer	1
+Job's syndrome	systemic lupus erythematosus	1
+Job's syndrome	thyroid cancer	-1
+Job's syndrome	tibial muscular dystrophy	1
+Job's syndrome	trachoma	1
+Job's syndrome	tuberculosis	-1
+Job's syndrome	uremia	1
+Job's syndrome	vitiligo	-1
+juvenile myelomonocytic leukemia	lung neoplasms	1
+juvenile myelomonocytic leukemia	myelofibrosis	1
+juvenile myelomonocytic leukemia	nasopharynx carcinoma	1
+juvenile myelomonocytic leukemia	non-small cell lung cancer	-1
+juvenile myelomonocytic leukemia	spondyloarthropathy	-1
+juvenile myelomonocytic leukemia	trachoma	-1
+juvenile myelomonocytic leukemia	ulcerative colitis	1
+kidney cancer	leishmaniasis	1
+kidney cancer	medulloblastoma	1
+kidney cancer	mitochondrial complex II deficiency	1
+kidney cancer	mouth neoplasms	1
+kidney cancer	multiple myeloma	-1
+kidney cancer	myelofibrosis	1
+kidney cancer	myositis	-1
+kidney cancer	nasopharynx carcinoma	-1
+kidney cancer	neoplasm of pleura	-1
+kidney cancer	oligodendroglioma	-1
+kidney cancer	osteoarthritis	-1
+kidney cancer	osteosarcoma	1
+kidney cancer	pancreatic carcinoma	-1
+kidney cancer	pilocytic astrocytoma	1
+kidney cancer	polycystic ovary syndrome	-1
+kidney cancer	polycythemia vera	1
+kidney cancer	rhabdoid cancer	-1
+kidney cancer	sickle cell anemia	1
+kidney cancer	Sjogren's syndrome	1
+kidney cancer	skin disease	-1
+kidney cancer	spondyloarthropathy	1
+kidney cancer	stomach cancer	1
+kidney cancer	systemic lupus erythematosus	1
+kidney cancer	thalassemia	1
+kidney cancer	thyroid cancer	1
+kidney cancer	tibial muscular dystrophy	1
+kidney cancer	tuberculosis	-1
+kidney cancer	ulcerative colitis	-1
+kidney cancer	uremia	1
+kidney cancer	vitiligo	-1
+Klinefelter's syndrome	Leigh disease	-1
+Klinefelter's syndrome	lung neoplasms	1
+Klinefelter's syndrome	medulloblastoma	-1
+Klinefelter's syndrome	neoplasm of pleura	1
+Klinefelter's syndrome	non-small cell lung cancer	-1
+Klinefelter's syndrome	ovarian cancer	1
+Klinefelter's syndrome	psoriasis	-1
+Klinefelter's syndrome	skin disease	1
+Klinefelter's syndrome	thyroid cancer	-1
+Klinefelter's syndrome	ulcerative colitis	1
+Leigh disease	lung neoplasms	1
+Leigh disease	mature t-cell lymphoma	-1
+Leigh disease	medulloblastoma	-1
+Leigh disease	nasopharynx carcinoma	1
+Leigh disease	non-small cell lung cancer	-1
+Leigh disease	progeria	-1
+Leigh disease	rhabdoid cancer	1
+Leigh disease	Sotos syndrome	1
+Leigh disease	spina bifida	-1
+Leigh disease	Turner syndrome	-1
+leishmaniasis	medulloblastoma	1
+leishmaniasis	multiple myeloma	-1
+leishmaniasis	myelofibrosis	1
+leishmaniasis	myocardial infarction	1
+leishmaniasis	nasopharynx carcinoma	-1
+leishmaniasis	non-small cell lung cancer	-1
+leishmaniasis	oligodendroglioma	-1
+leishmaniasis	osteoarthritis	-1
+leishmaniasis	osteosarcoma	1
+leishmaniasis	pancreatic carcinoma	-1
+leishmaniasis	pilocytic astrocytoma	1
+leishmaniasis	polycythemia vera	1
+leishmaniasis	rhabdoid cancer	-1
+leishmaniasis	seborrheic keratosis	-1
+leishmaniasis	spondyloarthropathy	1
+leishmaniasis	systemic lupus erythematosus	1
+leishmaniasis	tibial muscular dystrophy	1
+leishmaniasis	trachoma	1
+leishmaniasis	tuberculosis	-1
+leishmaniasis	uremia	1
+leishmaniasis	vitiligo	-1
+lung neoplasms	mature t-cell lymphoma	-1
+lung neoplasms	medulloblastoma	-1
+lung neoplasms	mouth neoplasms	-1
+lung neoplasms	myelofibrosis	1
+lung neoplasms	nasopharynx carcinoma	1
+lung neoplasms	neoplasm of pleura	1
+lung neoplasms	non-small cell lung cancer	-1
+lung neoplasms	osteosarcoma	1
+lung neoplasms	ovarian cancer	1
+lung neoplasms	progeria	1
+lung neoplasms	prostate cancer	-1
+lung neoplasms	psoriasis	-1
+lung neoplasms	rhabdoid cancer	1
+lung neoplasms	rosacea	1
+lung neoplasms	schizophrenia	1
+lung neoplasms	seborrheic keratosis	-1
+lung neoplasms	systemic lupus erythematosus	1
+lung neoplasms	tibial muscular dystrophy	1
+lung neoplasms	type 1 diabetes mellitus	1
+lung neoplasms	uremia	1
+mature t-cell lymphoma	medulloblastoma	1
+mature t-cell lymphoma	multiple myeloma	-1
+mature t-cell lymphoma	myelofibrosis	1
+mature t-cell lymphoma	myocardial infarction	1
+mature t-cell lymphoma	myositis	1
+mature t-cell lymphoma	non-small cell lung cancer	1
+mature t-cell lymphoma	ovarian cancer	-1
+mature t-cell lymphoma	pancreatic carcinoma	1
+mature t-cell lymphoma	polycythemia vera	1
+mature t-cell lymphoma	psoriasis	1
+mature t-cell lymphoma	sarcoidosis	-1
+mature t-cell lymphoma	schizophrenia	-1
+mature t-cell lymphoma	seborrheic keratosis	1
+mature t-cell lymphoma	spondyloarthropathy	1
+mature t-cell lymphoma	systemic lupus erythematosus	1
+mature t-cell lymphoma	thalassemia	1
+mature t-cell lymphoma	thrombocytopenia	1
+mature t-cell lymphoma	thyroid cancer	-1
+mature t-cell lymphoma	ulcerative colitis	1
+medulloblastoma	mental depression	1
+medulloblastoma	mitochondrial complex II deficiency	1
+medulloblastoma	mouth neoplasms	1
+medulloblastoma	myelofibrosis	1
+medulloblastoma	myocardial infarction	1
+medulloblastoma	nasopharynx carcinoma	-1
+medulloblastoma	neoplasm of pleura	-1
+medulloblastoma	non-small cell lung cancer	1
+medulloblastoma	oligodendroglioma	-1
+medulloblastoma	ovarian cancer	-1
+medulloblastoma	pilocytic astrocytoma	1
+medulloblastoma	polycythemia vera	1
+medulloblastoma	psoriasis	1
+medulloblastoma	rhabdoid cancer	-1
+medulloblastoma	spondyloarthropathy	1
+medulloblastoma	systemic lupus erythematosus	1
+medulloblastoma	trachoma	1
+medulloblastoma	Turner syndrome	1
+medulloblastoma	uremia	1
+medulloblastoma	vitiligo	-1
+mental depression	osteoarthritis	-1
+mental depression	pilocytic astrocytoma	1
+mental depression	rhabdoid cancer	-1
+mental depression	spina bifida	1
+mental depression	systemic lupus erythematosus	1
+mental depression	uremia	1
+mental depression	vitiligo	-1
+mitochondrial complex II deficiency	myositis	1
+mitochondrial complex II deficiency	rosacea	1
+mitochondrial complex II deficiency	skin disease	1
+mitochondrial complex II deficiency	spina bifida	1
+mitochondrial complex II deficiency	systemic lupus erythematosus	1
+mitochondrial complex II deficiency	Turner syndrome	1
+mitochondrial complex II deficiency	ulcerative colitis	1
+mouth neoplasms	myelofibrosis	1
+mouth neoplasms	myositis	-1
+mouth neoplasms	nasopharynx carcinoma	-1
+mouth neoplasms	neoplasm of pleura	-1
+mouth neoplasms	non-small cell lung cancer	1
+mouth neoplasms	osteosarcoma	-1
+mouth neoplasms	pilocytic astrocytoma	1
+mouth neoplasms	rhabdoid cancer	-1
+mouth neoplasms	rosacea	-1
+mouth neoplasms	skin disease	-1
+mouth neoplasms	thyroid cancer	1
+mouth neoplasms	trachoma	-1
+mouth neoplasms	ulcerative colitis	-1
+multiple myeloma	myelofibrosis	-1
+multiple myeloma	myocardial infarction	-1
+multiple myeloma	nasopharynx carcinoma	1
+multiple myeloma	oligodendroglioma	1
+multiple myeloma	osteoarthritis	1
+multiple myeloma	osteosarcoma	-1
+multiple myeloma	ovarian cancer	1
+multiple myeloma	pancreatic carcinoma	1
+multiple myeloma	pilocytic astrocytoma	-1
+multiple myeloma	polycythemia vera	-1
+multiple myeloma	sarcoidosis	1
+multiple myeloma	spina bifida	-1
+multiple myeloma	spondyloarthropathy	-1
+multiple myeloma	systemic lupus erythematosus	-1
+multiple myeloma	tibial muscular dystrophy	-1
+multiple myeloma	trachoma	-1
+multiple myeloma	tuberculosis	1
+multiple myeloma	uremia	-1
+multiple myeloma	vitiligo	1
+myelodysplastic syndrome	myelofibrosis	-1
+myelodysplastic syndrome	pancreatic carcinoma	-1
+myelodysplastic syndrome	systemic lupus erythematosus	-1
+myelofibrosis	non-small cell lung cancer	-1
+myelofibrosis	oligodendroglioma	-1
+myelofibrosis	osteoarthritis	-1
+myelofibrosis	pancreatic carcinoma	1
+myelofibrosis	pilocytic astrocytoma	1
+myelofibrosis	polycythemia vera	1
+myelofibrosis	prostate cancer	-1
+myelofibrosis	rhabdoid cancer	-1
+myelofibrosis	sarcoidosis	-1
+myelofibrosis	seborrheic keratosis	1
+myelofibrosis	sickle cell anemia	1
+myelofibrosis	Sjogren's syndrome	1
+myelofibrosis	skin disease	-1
+myelofibrosis	spondyloarthropathy	1
+myelofibrosis	systemic lupus erythematosus	1
+myelofibrosis	thalassemia	1
+myelofibrosis	tibial muscular dystrophy	1
+myelofibrosis	tuberculosis	-1
+myelofibrosis	uremia	1
+myelofibrosis	vitiligo	-1
+myocardial infarction	nasopharynx carcinoma	-1
+myocardial infarction	polycythemia vera	1
+myocardial infarction	skin disease	1
+myocardial infarction	spondyloarthropathy	1
+myocardial infarction	systemic lupus erythematosus	1
+myocardial infarction	tibial muscular dystrophy	1
+myocardial infarction	trachoma	1
+myocardial infarction	ulcerative colitis	1
+myocardial infarction	uremia	1
+myocardial infarction	vitiligo	-1
+myositis	neoplasm of pleura	1
+myositis	ovarian cancer	-1
+myositis	pilocytic astrocytoma	-1
+myositis	psoriasis	-1
+myositis	rhabdoid cancer	1
+myositis	rosacea	1
+myositis	skin disease	1
+myositis	thyroid cancer	-1
+myositis	tibial muscular dystrophy	1
+myositis	trachoma	1
+myositis	ulcerative colitis	1
+nasopharynx carcinoma	neoplasm of pleura	1
+nasopharynx carcinoma	non-small cell lung cancer	-1
+nasopharynx carcinoma	oligodendroglioma	1
+nasopharynx carcinoma	pilocytic astrocytoma	-1
+nasopharynx carcinoma	psoriasis	-1
+nasopharynx carcinoma	rhabdoid cancer	1
+nasopharynx carcinoma	skin disease	1
+nasopharynx carcinoma	spondyloarthropathy	-1
+nasopharynx carcinoma	stomach cancer	-1
+nasopharynx carcinoma	systemic lupus erythematosus	-1
+nasopharynx carcinoma	thyroid cancer	-1
+nasopharynx carcinoma	tuberculosis	1
+nasopharynx carcinoma	Turner syndrome	-1
+nasopharynx carcinoma	ulcerative colitis	1
+nasopharynx carcinoma	uremia	-1
+nasopharynx carcinoma	vitiligo	1
+neoplasm of pleura	non-small cell lung cancer	-1
+neoplasm of pleura	oligodendroglioma	1
+neoplasm of pleura	peripheral artery disease	-1
+neoplasm of pleura	progeria	1
+neoplasm of pleura	prostate cancer	-1
+neoplasm of pleura	psoriasis	-1
+neoplasm of pleura	rhabdoid cancer	1
+neoplasm of pleura	rosacea	1
+neoplasm of pleura	skin disease	1
+neoplasm of pleura	thyroid cancer	-1
+neoplasm of pleura	ulcerative colitis	1
+non-small cell lung cancer	oligodendroglioma	-1
+non-small cell lung cancer	osteosarcoma	-1
+non-small cell lung cancer	ovarian cancer	-1
+non-small cell lung cancer	progeria	-1
+non-small cell lung cancer	prostate cancer	1
+non-small cell lung cancer	psoriasis	1
+non-small cell lung cancer	rhabdoid cancer	-1
+non-small cell lung cancer	rosacea	-1
+non-small cell lung cancer	schizophrenia	-1
+non-small cell lung cancer	seborrheic keratosis	1
+non-small cell lung cancer	spina bifida	-1
+non-small cell lung cancer	systemic lupus erythematosus	-1
+non-small cell lung cancer	tibial muscular dystrophy	-1
+non-small cell lung cancer	trachoma	-1
+non-small cell lung cancer	ulcerative colitis	-1
+non-small cell lung cancer	uremia	-1
+oligodendroglioma	osteoarthritis	1
+oligodendroglioma	ovarian cancer	1
+oligodendroglioma	pancreatic carcinoma	1
+oligodendroglioma	pilocytic astrocytoma	-1
+oligodendroglioma	polycythemia vera	-1
+oligodendroglioma	rhabdoid cancer	1
+oligodendroglioma	schizophrenia	-1
+oligodendroglioma	sickle cell anemia	-1
+oligodendroglioma	Sotos syndrome	-1
+oligodendroglioma	spondyloarthropathy	-1
+oligodendroglioma	stomach cancer	-1
+oligodendroglioma	systemic lupus erythematosus	-1
+oligodendroglioma	tibial muscular dystrophy	-1
+oligodendroglioma	trachoma	-1
+oligodendroglioma	tuberculosis	1
+oligodendroglioma	uremia	-1
+oligodendroglioma	vitiligo	1
+osteoarthritis	osteosarcoma	-1
+osteoarthritis	pilocytic astrocytoma	-1
+osteoarthritis	polycythemia vera	-1
+osteoarthritis	rhabdoid cancer	1
+osteoarthritis	Sjogren's syndrome	-1
+osteoarthritis	spina bifida	-1
+osteoarthritis	spondyloarthropathy	-1
+osteoarthritis	thalassemia	-1
+osteoarthritis	trachoma	-1
+osteoarthritis	tuberculosis	1
+osteoarthritis	uremia	-1
+osteosarcoma	ovarian cancer	-1
+osteosarcoma	pancreatic carcinoma	-1
+osteosarcoma	rhabdoid cancer	1
+osteosarcoma	rosacea	1
+osteosarcoma	sarcoidosis	-1
+osteosarcoma	Sjogren's syndrome	1
+osteosarcoma	spondyloarthropathy	1
+osteosarcoma	trachoma	1
+osteosarcoma	tuberculosis	-1
+osteosarcoma	uremia	1
+osteosarcoma	vitiligo	-1
+ovarian cancer	pilocytic astrocytoma	1
+ovarian cancer	polycythemia vera	-1
+ovarian cancer	prostate cancer	-1
+ovarian cancer	psoriasis	-1
+ovarian cancer	sarcoidosis	1
+ovarian cancer	seborrheic keratosis	-1
+ovarian cancer	spondyloarthropathy	-1
+ovarian cancer	systemic lupus erythematosus	1
+ovarian cancer	thalassemia	1
+pancreatic carcinoma	peripheral artery disease	-1
+pancreatic carcinoma	rhabdoid cancer	-1
+pancreatic carcinoma	stomach cancer	-1
+pancreatic carcinoma	tibial muscular dystrophy	-1
+pancreatic carcinoma	trachoma	-1
+pancreatic carcinoma	tuberculosis	1
+peripheral artery disease	progeria	-1
+peripheral artery disease	psoriasis	-1
+peripheral artery disease	sickle cell anemia	1
+peripheral artery disease	skin disease	1
+peripheral artery disease	spondyloarthropathy	1
+peripheral artery disease	systemic lupus erythematosus	1
+peripheral artery disease	Turner syndrome	-1
+pilocytic astrocytoma	polycythemia vera	1
+pilocytic astrocytoma	progeria	1
+pilocytic astrocytoma	rhabdoid cancer	-1
+pilocytic astrocytoma	Sjogren's syndrome	1
+pilocytic astrocytoma	skin disease	-1
+pilocytic astrocytoma	systemic lupus erythematosus	1
+pilocytic astrocytoma	thalassemia	1
+pilocytic astrocytoma	trachoma	1
+pilocytic astrocytoma	tuberculosis	-1
+pilocytic astrocytoma	Turner syndrome	1
+pilocytic astrocytoma	ulcerative colitis	-1
+pilocytic astrocytoma	uremia	1
+polycystic ovary syndrome	polycythemia vera	-1
+polycythemia vera	rhabdoid cancer	-1
+polycythemia vera	sarcoidosis	-1
+polycythemia vera	sickle cell anemia	1
+polycythemia vera	spondyloarthropathy	1
+polycythemia vera	systemic lupus erythematosus	1
+polycythemia vera	thalassemia	1
+polycythemia vera	tibial muscular dystrophy	1
+polycythemia vera	trachoma	1
+polycythemia vera	tuberculosis	-1
+polycythemia vera	uremia	1
+polycythemia vera	vitiligo	-1
+progeria	prostate cancer	-1
+progeria	rosacea	1
+progeria	skin disease	-1
+progeria	Sotos syndrome	-1
+progeria	spina bifida	1
+progeria	thyroid cancer	-1
+progeria	Turner syndrome	1
+progeria	ulcerative colitis	1
+prostate cancer	psoriasis	1
+prostate cancer	rosacea	-1
+prostate cancer	trachoma	-1
+psoriasis	rhabdoid cancer	-1
+psoriasis	rosacea	-1
+psoriasis	schizophrenia	-1
+psoriasis	seborrheic keratosis	1
+psoriasis	sickle cell anemia	-1
+psoriasis	skin disease	-1
+psoriasis	systemic lupus erythematosus	-1
+psoriasis	thyroid cancer	1
+psoriasis	tibial muscular dystrophy	-1
+psoriasis	trachoma	-1
+psoriasis	type 1 diabetes mellitus	-1
+psoriasis	ulcerative colitis	-1
+rhabdoid cancer	rosacea	1
+rhabdoid cancer	spina bifida	-1
+rhabdoid cancer	systemic lupus erythematosus	-1
+rhabdoid cancer	thalassemia	-1
+rhabdoid cancer	thyroid cancer	-1
+rhabdoid cancer	Turner syndrome	-1
+rhabdoid cancer	ulcerative colitis	1
+rhabdoid cancer	uremia	-1
+rosacea	skin disease	1
+rosacea	Sotos syndrome	-1
+rosacea	spondyloarthropathy	1
+rosacea	thalassemia	-1
+rosacea	thyroid cancer	-1
+rosacea	tibial muscular dystrophy	1
+rosacea	trachoma	1
+rosacea	Turner syndrome	1
+rosacea	ulcerative colitis	1
+sarcoidosis	spondyloarthropathy	-1
+sarcoidosis	thyroid cancer	1
+sarcoidosis	trachoma	-1
+sarcoidosis	uremia	-1
+schizophrenia	spondyloarthropathy	-1
+schizophrenia	thyroid cancer	1
+seborrheic keratosis	spina bifida	-1
+seborrheic keratosis	tibial muscular dystrophy	-1
+seborrheic keratosis	trachoma	-1
+seborrheic keratosis	Turner syndrome	-1
+seborrheic keratosis	uremia	-1
+sickle cell anemia	spondyloarthropathy	1
+sickle cell anemia	systemic lupus erythematosus	1
+sickle cell anemia	thalassemia	1
+sickle cell anemia	uremia	1
+Sjogren's syndrome	Turner syndrome	1
+Sjogren's syndrome	uremia	1
+skin disease	spina bifida	1
+skin disease	thyroid cancer	-1
+skin disease	tibial muscular dystrophy	1
+skin disease	trachoma	1
+skin disease	ulcerative colitis	1
+spina bifida	systemic lupus erythematosus	1
+spina bifida	trachoma	1
+spina bifida	uremia	1
+spina bifida	vitiligo	-1
+spondyloarthropathy	stomach cancer	1
+spondyloarthropathy	systemic lupus erythematosus	1
+spondyloarthropathy	thyroid cancer	-1
+spondyloarthropathy	tibial muscular dystrophy	1
+spondyloarthropathy	trachoma	1
+spondyloarthropathy	tuberculosis	-1
+spondyloarthropathy	uremia	1
+spondyloarthropathy	vitiligo	-1
+stomach cancer	systemic lupus erythematosus	1
+stomach cancer	uremia	1
+systemic lupus erythematosus	thalassemia	1
+systemic lupus erythematosus	tibial muscular dystrophy	1
+systemic lupus erythematosus	trachoma	1
+systemic lupus erythematosus	tuberculosis	-1
+systemic lupus erythematosus	ulcerative colitis	1
+systemic lupus erythematosus	uremia	1
+systemic lupus erythematosus	vitiligo	-1
+thalassemia	tibial muscular dystrophy	-1
+thalassemia	Turner syndrome	-1
+thalassemia	uremia	1
+thrombocytopenia	uremia	1
+thyroid cancer	trachoma	-1
+thyroid cancer	Turner syndrome	-1
+thyroid cancer	ulcerative colitis	-1
+tibial muscular dystrophy	trachoma	1
+tibial muscular dystrophy	ulcerative colitis	1
+tibial muscular dystrophy	uremia	1
+tibial muscular dystrophy	vitiligo	-1
+trachoma	tuberculosis	-1
+trachoma	Turner syndrome	1
+trachoma	ulcerative colitis	1
+trachoma	uremia	1
+trachoma	vitiligo	-1
+tuberculosis	uremia	-1
+tuberculosis	vitiligo	1
+type 1 diabetes mellitus	uremia	1
+uremia	vitiligo	-1
