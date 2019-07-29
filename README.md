@@ -1,4 +1,4 @@
-# Disease_multilayer
+# Expression layers
 
 Expression layers have been generated using RNAseq and microarray data separately. 
 
