@@ -4,7 +4,7 @@ The goal of this project is to build a disease-multilayer network integrating di
 # Dictionary
 Disease names, MeSH terms, and DOID have been translated into ICD10 and ICD9 codes (International Classification of Diseases) using the Unified Medical Language System (UMLS), followed by manual curation. The generated dictionary ("DiseaseName_ICD10_dictionary.txt") provides disease name - ICD10 associations indicating the disease category they belong to and provides a palette color.
 
-![Layers in the disease multilayer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/LayerConstruction.png)
+![Construction of the disease multilayer network](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/LayerConstruction.png)
 
 # Transcriptomic layer
 Expression data has been downloaded from GEO, focusing only on those experiments conducted on human samples with the microarray platform HG U133Plus2. After quality filtering, normalization, and filtering of lowly expressed genes differential expression analyses have been conducted comparing expression levels in disease vs. control state. Cosine similarities between diseases were calculated based on the fold changes obtained by differential expression analysis. Using randomizations, the p-value of the similarities was calculated.
@@ -31,3 +31,4 @@ Disease-cg associations have been extracted from EWASdb. We have selected only d
 Disease-metabolite associations have been extracted from the Human Metabolome Database (HMDB). We have selected disease-metabolite associations, regardless of the concentrations, that were measured in blood. After translating disease names into ICD10 codes a weight has been asigned to each metabolite based on the number of diseases it's associated to. Then, cosine similarities have been calculated between pairs of diseases, calculating a p-value for each pair of diseases through randomizations.
 
 # Diseases by layer
+![Number of diseases in each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DiseaseByLayer.png)
