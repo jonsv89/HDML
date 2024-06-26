@@ -1,4 +1,9 @@
-# Expression layers
+# Introduction
+The goal of this project is to build a disease-multilayer network integrating different sources of information (genes, miRNAs, drugs, symptoms, metabolome, methylome, microbiome, transcriptome) to better understand comorbidity relationships.
+
+# Transcriptomic layer
+Expression data has been downloaded from GEO, focusing only on those experiments conducted on human samples with the microarray platform HG U133Plus2. Disease names have been translated into ICD10 codes. After quality filtering, normalization, and filtering of lowly expressed genes differential expression analyses have been conducted comparing expression levels in disease vs. control state. Cosine similarities between diseases were calculated based on the fold changes obtained by differential expression analysis. Using randomizations, the p-value of the similarities was calculated.
+
 
 Expression layers have been generated using RNAseq and microarray data separately. 
 
