@@ -1,29 +1,29 @@
 # Introduction
 The goal of this project is to build a disease-multilayer network integrating different sources of information (genes, miRNAs, drugs, symptoms, metabolome, methylome, microbiome, transcriptome) to better understand comorbidity relationships.
 
+# Dictionary
+Disease names, MeSH terms, and DOID have been translated into ICD10 and ICD9 codes (International Classification of Diseases) using the Unified Medical Language System (UMLS), followed by manual curation. The generated dictionary ("DiseaseName_ICD10_dictionary.txt") provides disease name - ICD10 associations indicating the disease category they belong to and provides a palette color.
+
 # Transcriptomic layer
-Expression data has been downloaded from GEO, focusing only on those experiments conducted on human samples with the microarray platform HG U133Plus2. Disease names have been translated into ICD10 codes. After quality filtering, normalization, and filtering of lowly expressed genes differential expression analyses have been conducted comparing expression levels in disease vs. control state. Cosine similarities between diseases were calculated based on the fold changes obtained by differential expression analysis. Using randomizations, the p-value of the similarities was calculated.
+Expression data has been downloaded from GEO, focusing only on those experiments conducted on human samples with the microarray platform HG U133Plus2. After quality filtering, normalization, and filtering of lowly expressed genes differential expression analyses have been conducted comparing expression levels in disease vs. control state. Cosine similarities between diseases were calculated based on the fold changes obtained by differential expression analysis. Using randomizations, the p-value of the similarities was calculated.
 
+# Gene layer
+Disease-gene associations have been extracted from DisGeNET (https://www.disgenet.org). We have selected only curated disease-gene associations. After translating disease names into ICD10 codes a weight has been asigned to each gene based on the number of diseases it's associated to. Then, cosine similarities have been calculated between pairs of diseases, calculating a p-value for each pair of diseases through randomizations.
 
-Expression layers have been generated using RNAseq and microarray data separately. 
+# miRNA layer
+Disease-miRNA associations have been extracted from HMDD. These associations are extracted from publications and are manually curated. After translating disease names into ICD10 codes a weight has been asigned to each miRNA-ICD10 pair calculating a term-frequency inverse document frequency based on term co-ocurrences. Then, cosine similarities have been calculated between pairs of diseases, calculating a p-value for each pair of diseases through randomizations.
 
-- The microarray data has been extracted from:
-  https://www.biorxiv.org/content/10.1101/431312v2.abstract
+# Drug layer
+Disease-drug associations have been extracted from CTD (https://ctdbase.org). We have focused on those drugs described to treat the disease, removing inferred associations. After translating disease names into ICD10 codes a weight has been asigned to each drug based on the number of diseases it's associated to. Then, cosine similarities have been calculated between pairs of diseases, calculating a p-value for each pair of diseases through randomizations.
 
-- The RNAseq data has been extracted from:
-  https://amp.pharm.mssm.edu/archs4/
+# Symptom layer
+Disease-symptom associations have been extracted from the Human Symptom Disease Network (HSDN). The publication by Zhou and colleagues provides in their supplementary material the number of co-ocurrences between diseases and symptoms extracted from pubmed metadata. Through chi-square calculations we have selected significant disease-symptom associations, and after translating disease names into ICD10 codes we have calculatd term-frequency inverse document frequencies based on the number of disease-symptom co-occurences. Then, cosine similarities have been calculated between pairs of diseases, calculating a p-value for each pair of diseases through randomizations.
 
- # Normalization
-Microarray data is generated using the same Affymetrix microarray platform (HG-U133Plus2) to remove differences due to the use of different platforms. Expression data has been normalized using fRMA (PMID: 20097884). 
+# Microbiome layer
+Disease-microbe associations have been extracted from DISBIOME. We have selected only disease-microbe associations described in the gut. After translating disease names into ICD10 codes a weight has been asigned to each microbe based on the number of diseases it's associated to, giving it a positive or negative value depending on whether the levels of the microorganism are increased or decreased in the disease. Then, cosine similarities have been calculated between pairs of diseases, calculating a p-value for each pair of diseases through randomizations.
 
-In the case of RNAseqdata, for each study separately, those genes with 0 expression in the 20% or more of the samples of the study have been removed. Transcript counts have been normalized using DESeq2's median of ratios approach, this is, "counts divided by sample-specific size factors determined by median ratio of gene counts relative to geometric mean per gene".
+# Methylome layer
+Disease-cg associations have been extracted from EWASdb. We have selected only disease-cg associations with p-values < 1e-3 and < 1e-7 obtained through Illumina HumanMethylation450 Bead Chip (450K) methylation arrays. disease names have been translated into ICD10 codes and cosine similarities have been calculated between them based on the t-values provided by the database, which are obtained through the use of the EWAS v2.0 software, calculating later a p-value for each pair of diseases through randomizations.
 
- # Differential expression analysis
-- Is done in the same way for microarray and RNAseq data.
-- In the cases where a single study analyzes a disease, ind.analysis from the MetaDE package has been used for identifying significantly differentially expressed genes.
- - In the cases where more than one study analyze a disease, ind.cal.Es and Meta.DE functions from the MetaDE package have been used for calculating effect sizes and conducting the meta-analysis. As in our previous meta-analyses (PMID: 28667284), we have used the Random Effects Model (REM). 
- 
- # Network generation
- - Using fisher exact tests, we have calculated significant overlaps between significantly differentially up- and down-regulated genes.
-   - Two diseases are positively connected if there is a significant overlap between the genes significantly de-regulated in the same direction in both diseases (up-regulated in both diseases and also down-regulated in both diseases).
-   - Two diseases are negatively connected if there is a significant overlap between the genes significantly de-regulated in the opposite direction in both diseases (up-regulated in one disease and down-regulated in the other one, and vice versa).
+# Metabolome layer
+Disease-metabolite associations have been extracted from the Human Metabolome Database (HMDB). We have selected disease-metabolite associations, regardless of the concentrations, that were measured in blood. After translating disease names into ICD10 codes a weight has been asigned to each metabolite based on the number of diseases it's associated to. Then, cosine similarities have been calculated between pairs of diseases, calculating a p-value for each pair of diseases through randomizations.
