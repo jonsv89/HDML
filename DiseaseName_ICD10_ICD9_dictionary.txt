@@ -1,0 +1,3156 @@
+disease	icd10	source	icd9	theicd9which	theicd9grep
+liver cirrhosis	K74	mirna;disgenet	571	NA	571
+zika virus infection	A92	mirna	065;066	NA	NA
+liver neoplasms	C22	mirna;disgenet	155	NA	NA
+neuroblastoma	C74	mirna;Ruiz2021	194	NA	NA
+spinal cord injuries	T09	mirna		NA	950
+hypertension, pulmonary	I27	mirna	416	NA	747
+hepatitis b, chronic	B18	mirna;disgenet;Ruiz2021	070	NA	NA
+psoriasis	L40	mirna;disgenet;Ruiz2021;symptom	696;694	NA	696
+malaria	B54	mirna;disgenet;symptom	084	084	E93;084;961;647;V12;V75
+alzheimer disease	G30	mirna;symptom	331		331
+atherosclerosis	I70	mirna;disgenet;Ruiz2021;symptom	440;707;785		437;440;414
+depression	F32	mirna	296;298;311	NA	V79;296;754;779;290
+pulmonary disease, chronic obstructive	J44	mirna;symptom	491;493;496	NA	NA
+alopecia areata	L63	mirna;disgenet;Ruiz2021;symptom	704		704
+myocardial infarction	I21	mirna;disgenet;Ruiz2021;symptom	410	NA	410;411;429;412
+glioma	C71	mirna	191	NA	200;194;237
+carcinoma, hepatocellular	C22	mirna;symptom	155	NA	NA
+polycystic ovary syndrome	E28	mirna;disgenet;Ruiz2021;symptom	256		256
+tuberculosis	A15	mirna;disgenet;Ruiz2021	011;012;010		V12;V01;V71;018;137;017;013;010;647;014;015;016;511;011;012;V74;99.;V03;795
+diabetes, gestational	O24	mirna;symptom	648	NA	NA
+rhinitis, allergic	J30	mirna	477		477
+sepsis	A41	mirna	038;995	038;995	038;995;022;036;054;003;771;020;670;790;785
+non-alcoholic fatty liver disease	K76	mirna;disgenet	571;573;570;572	NA	NA
+cerebral hemorrhage	I61	mirna;symptom	431	431	431;853;767
+cicatrix, hypertrophic	L91	mirna;symptom	701	NA	NA
+keloid	L91	mirna;disgenet;Ruiz2021;symptom	701		701;116
+endometriosis	N80	mirna;disgenet;Ruiz2021;symptom	617		617
+hepatoblastoma	C22	mirna;disgenet;symptom	155	NA	NA
+covid-19	U07	mirna		NA	NA
+pneumonia	J18	mirna;Ruiz2021	485;481;514;486	NA	484;482;516;480;022;483;485;112;466;481;770;518;487;446;115;495;041;488;136;508;073;997;320;V03;V06;486;V12;038;079;021;003;055;517;011;130;020
+gastrointestinal stromal tumors	C49	mirna;disgenet	171	NA	NA
+irritable bowel syndrome	K58	mirna;disgenet;Ruiz2021;symptom	564		564
+acute myocardial infarction	I21	mirna	410	410	410
+pre-eclampsia	O14	mirna;disgenet;Ruiz2021;symptom	642	NA	642
+pancreatitis	K85	mirna;disgenet;Ruiz2021	577	NA	577;072
+leukemia, lymphocytic, chronic, b-cell	C91	mirna;symptom	204;202		
+respiratory distress syndrome	J80	mirna	518	769	769;770
+pterygium	H11	mirna	372	372	372;744;11.
+muscular atrophy	M62	mirna	728;724	NA	356;335
+intervertebral disc degeneration	M51	mirna	722;724		722
+osteoporosis	M81	mirna;disgenet;Ruiz2021;symptom	733	733;V17	733;V17;V82;756
+fabry disease	E75	mirna;disgenet;symptom	330;272	NA	NA
+multiple sclerosis	G35	mirna;disgenet;Ruiz2021;symptom	340	340	340
+esophageal carcinoma	C15	mirna	150	NA	230
+melanoma	C43	mirna;Ruiz2021	172	NA	172;V10;232
+atrial fibrillation	I48	mirna	427	427	427
+pulmonary fibrosis	J84	mirna	516;515	NA	517;516;515
+eosinophilic esophagitis	K20	mirna;disgenet;symptom	530		530
+infertility, male	N46	mirna;symptom	606		
+brain injuries, traumatic	S06	mirna	850;V58;907;348;854;851;853;852	NA	NA
+bulimia nervosa	F50	mirna;Ruiz2021;symptom	307		307
+cartilage diseases	M94	mirna;disgenet;symptom	733	NA	NA
+diabetic retinopathy	H36	mirna;Ruiz2021	362		362
+arthritis	M19	mirna;disgenet;Ruiz2021;symptom	715	NA	715;V17;V13;V82;390;274;711;714;716;720;726;056;712;003;098;735;696;719;725;099;026;713
+subarachnoid hemorrhage	I60	mirna;Ruiz2021;symptom	430		852;430;772
+obesity	E66	mirna;disgenet;Ruiz2021;symptom	278	278	V77;278;649
+arthritis, rheumatoid	M06	mirna;symptom	714		714
+parkinson disease	G20	mirna;disgenet;symptom	332		332
+osteoporosis, postmenopausal	M81	mirna;Ruiz2021	733	NA	NA
+uterine diseases	N85	mirna;disgenet	621		
+cholangiocarcinoma	C22	mirna;disgenet	155	NA	NA
+pancreatitis, chronic	K86	mirna;disgenet;symptom	577	577	577
+pancreatic carcinoma	C25	mirna	157	NA	157
+myotonic disorders	G71	mirna;disgenet;symptom	359		366;359
+coronary disease	I25	mirna	414;429;411;413;412	NA	NA
+coronary artery disease	I25	mirna	414;429;411;413;412	414	414
+angelman syndrome	Q93	mirna;disgenet;symptom	758	NA	NA
+lymphoma	C85	mirna;disgenet;Ruiz2021;symptom	202;200	NA	200;202;204;201;273;245
+sciatic neuropathy	G57	mirna	355	NA	NA
+amyotrophic lateral sclerosis	G12	mirna;disgenet;symptom	335		335
+schizophrenia	F20	mirna;disgenet;Ruiz2021;symptom	295		V11;295
+dengue	A90	mirna;symptom	061		061
+liver injury	S36	mirna	865;V58;908;864;868;863;869		864
+acquired immunodeficiency syndrome	B20	mirna;disgenet	042	NA	NA
+hyperglycemia	R73	mirna;disgenet;Ruiz2021;symptom	790	NA	NA
+infertility, female	N97	mirna;symptom	628		
+psoriasis 1	L40	mirna	696;694	NA	NA
+crohn disease	K50	mirna;disgenet;symptom	555;560;569;566	NA	555
+dry eye syndromes	H04	mirna;disgenet	375	NA	NA
+mucocutaneous lymph node syndrome	M30	mirna;disgenet;Ruiz2021;symptom	446		446
+asthma	J45	mirna;disgenet;Ruiz2021;symptom	493	493	493;V17;E94;975;478;518;500;502
+graves ophthalmopathy	H06	mirna		NA	NA
+adenomyosis	N80	mirna	617		617
+lupus erythematosus, systemic	M32	mirna;disgenet;Ruiz2021;symptom	710;424;420;517;583		
+periodontitis	K05	mirna;disgenet;Ruiz2021	523	NA	522;523
+transfusion reaction	T80	mirna	999;V58;909		999;E87;780
+hepatitis a	B15	mirna	070	NA	V02;070;571
+aortic valve disease	I35	mirna	424	424;395	424;395;396
+meningioma	D32	mirna;disgenet	225	NA	225
+hepatitis c	B19	mirna;disgenet;symptom	070	070	V02;070;130;571
+anovulation	N97	mirna	628	NA	628
+pneumonia, mycoplasma	J15	mirna;symptom	482;483		483
+myelodysplastic syndromes	D46	mirna;symptom	238		238
+leukemia	C95	mirna;disgenet;Ruiz2021;symptom	208	208	208;204;207;206;205;202;203;V16;V10;200;238
+cardiomegaly	I51	mirna;disgenet;symptom	429		429
+epilepsy	G40	mirna;disgenet;Ruiz2021;symptom	345		345;649;759
+anxiety disorders	F41	mirna;disgenet;Ruiz2021;symptom	300	NA	300
+stress disorders, traumatic	F43	mirna	308;309	NA	308
+neurotic disorders	F48	mirna;symptom	300;310;V40	NA	300
+migraine disorders	G43	mirna;disgenet;Ruiz2021;symptom	346		346
+nephritis, interstitial	N12	mirna;disgenet	590	NA	NA
+brain injuries	S06	mirna	850;V58;907;348;854;851;853;852	NA	348
+pars planitis	H30	mirna;symptom	363	363	363
+hypoxia	R09	mirna	799;511;786;478;784;785	NA	768;410;770
+cardiomyopathies	I42	mirna;disgenet;symptom	425		425
+ventricular premature complexes	I49	mirna;symptom	427	NA	NA
+gout	M10	mirna;disgenet;Ruiz2021;symptom	274		V77;274;788;714;712
+osteochondritis dissecans	M93	mirna;symptom	732		732
+atrial premature complexes	I49	mirna;symptom	427		427
+brain ischemia	I67	mirna	443;437;046;348;435;436	NA	NA
+rett syndrome	F84	mirna;disgenet;symptom	299;330	NA	530;756
+alcoholism	F10	mirna;symptom	305;291;303		303;V61;V11;V79;291;94.
+leukemia, myeloid, acute	C92	mirna;symptom	205		205;206;207
+thrombocytopenia	D69	mirna;disgenet;Ruiz2021;symptom	287	287	287;279;289;776
+idiopathic pulmonary fibrosis	J84	mirna;disgenet;symptom	516;515		516
+hypogonadism	E23	mirna;Ruiz2021	253;628	NA	758
+heart failure	I50	mirna;disgenet;Ruiz2021;symptom	428	428	428;404;402;398
+lung injury	S27	mirna;disgenet;symptom	860;V58;908;861;862	NA	518;861
+diabetes mellitus, type 2	E11	mirna;symptom	250;362;366;357;355;536;353;349;443;785;713;716;523	NA	NA
+hidradenitis suppurativa	L73	mirna;disgenet;Ruiz2021;symptom	706;704;705	NA	NA
+lymphoma, large b-cell, diffuse	C83	mirna;symptom	200	NA	NA
+leukemia, myelogenous, chronic, bcr-abl positive	C92	mirna	205		
+autism spectrum disorder	F84	mirna	299;330	299	299
+bronchopulmonary dysplasia	P27	mirna;disgenet;Ruiz2021	770	NA	NA
+calcinosis	E83	mirna	275;686	NA	712
+abortion, spontaneous	O03	mirna;symptom	634		634
+placenta accreta	O43	mirna	656;663;667	NA	NA
+mental disorders	F99	mirna;disgenet	300	NA	V79;291;299;292;648;290;300;294;310;293;V11
+dystonia 5	G24	mirna	333	NA	NA
+osteitis deformans	M88	mirna;disgenet;Ruiz2021;symptom	731	NA	731
+severe acute respiratory syndrome	J12	mirna;disgenet	480;487		480;079
+celiac disease	K90	mirna;disgenet;Ruiz2021;symptom	579;040		579
+hypertension	I10	mirna;symptom	401	401;997	401;997;V81;405;642;348;360;796;402;459;403;646;416;747;365;572;437;404;760
+kidney diseases	N28	mirna;disgenet	593;590	NA	585;250;V18;753
+acute kidney injury	N17	mirna	584;583	584	584
+polycythemia	D75	mirna;disgenet	289	NA	238;289;776
+depressive disorder, major	F32	mirna	296;298;311	NA	NA
+attention deficit disorder with hyperactivity	F90	mirna;symptom	314		
+vitiligo	L80	mirna;disgenet;Ruiz2021;symptom	709	709	709
+fractures, bone	T14	mirna	959;E95		
+arthritis, psoriatic	L40	mirna;disgenet;symptom	696;694		696
+microscopic polyangiitis	M31	mirna;symptom	446;447	NA	NA
+sarcopenia	M62	mirna;disgenet;symptom	728;724	NA	NA
+frailty	R54	mirna	797	NA	NA
+mesothelioma	C45	mirna;disgenet;Ruiz2021;symptom	163;158;164;195;199	NA	NA
+death	R99	mirna	798;799	NA	798;020;348;E97;761;V17;V61;768;656;632;637
+chronic gastritis	K29	mirna	535	NA	NA
+leishmaniasis	B55	mirna;disgenet;symptom	085	085	V75;V05;085
+intracranial aneurysm	I67	mirna	443;437;046;348;435;436	NA	NA
+asthma, allergic	J45	mirna	493	NA	493
+heart diseases	I51	mirna;disgenet;symptom	429		429;393;410;398;416
+sjogren's syndrome	M35	mirna;disgenet;Ruiz2021;symptom	710;517;359;583;136;711;725;728;729	NA	NA
+heart septal defects, atrial	Q21	mirna;symptom	745	NA	NA
+chronic periodontitis	K05	mirna;disgenet;symptom	523		523;522
+venous thrombosis	I82	mirna;disgenet;Ruiz2021	453	NA	671;V12;453
+dementia, vascular	F01	mirna;disgenet;symptom	290		290
+incontinentia pigmenti	Q82	mirna;symptom	757	NA	NA
+aortic valve insufficiency	I06	mirna	395	NA	746;396;395
+kidney failure, chronic	N18	mirna;disgenet;symptom	585		
+hepatitis e	B17	mirna	070	NA	070;573;091
+azoospermia	N46	mirna;disgenet;symptom	606	606	606
+osteomyelitis	M86	mirna;Ruiz2021;symptom	730		730;733;376;003
+autistic disorder	F84	mirna;disgenet;Ruiz2021;symptom	299;330		299
+neurodevelopmental disorders	F89	mirna;disgenet	315	NA	290
+kidney calculi	N20	mirna;disgenet;symptom	592		592
+keratoconjunctivitis sicca	H04	mirna	375	NA	370
+hypersensitivity	T78	mirna;disgenet;Ruiz2021;symptom	995;V58;909;988	NA	V72;446;713;495;017;478
+dermatitis	L30	mirna;disgenet;Ruiz2021;symptom	692;705;690;695;696	NA	690;693;133;692;373;691;698;051;694;120;053;054;705;111;695;686;706;117
+severe asthma	J46	mirna		NA	493
+motion sickness	T75	mirna	994;V58;909;E90	994	994
+endomyocardial fibrosis	I42	mirna	425		425
+peripheral arterial disease	I73	mirna	443;785	443	443
+multiple myeloma	C90	mirna;disgenet;Ruiz2021;symptom	203		203
+cholestasis	K83	mirna;disgenet;symptom	576		576
+syphilis	A51	mirna;symptom	091;092		795;090;097;094;091;095;647;093;092;104;096
+colitis, ulcerative	K51	mirna;symptom	556;560;569		556
+aortic dissection	I71	mirna	441		441
+retinal diseases	H35	mirna;disgenet;symptom	362;363		
+myopia, degenerative	H44	mirna;symptom	360		
+influenza, human	J11	mirna	487		
+biliary atresia	Q44	mirna;disgenet;symptom	751	751	751
+dermatitis, atopic	L20	mirna;disgenet;Ruiz2021;symptom	691;690	NA	NA
+takayasu arteritis	M31	mirna;disgenet;symptom	446;447		446
+duane retraction syndrome	H50	mirna;disgenet	378		378
+periapical periodontitis	K04	mirna;disgenet	522	NA	522
+intestinal diseases	K63	mirna;disgenet;symptom	569;211		007;569;129
+mesenteric ischemia	K55	mirna	557;569	NA	557
+cerebral palsy	G80	mirna;disgenet;Ruiz2021;symptom	343;333	NA	333;343
+lymphoma, b-cell	C85	mirna	202;200	NA	NA
+esophageal achalasia	K22	mirna;disgenet;symptom	530		530
+mycosis fungoides	C84	mirna;disgenet;Ruiz2021;symptom	202;200		202
+ischemic attack, transient	G45	mirna;symptom	435;362;437	NA	NA
+proliferative diabetic retinopathy	E11	mirna	250;362;366;357;355;536;353;349;443;785;713;716;523		362
+charcot-marie-tooth disease type 1b	G60	mirna	356	NA	NA
+endometrial hyperplasia	N85	mirna;disgenet;Ruiz2021;symptom	621		621
+bone diseases	M89	mirna;disgenet;symptom	733;738;731;730	NA	730
+leukemia, promyelocytic, acute	C92	mirna;symptom	205	NA	NA
+stroke	I63	mirna;Ruiz2021;symptom	433;434	NA	V17;992;V12;435;431
+immune system diseases	D89	mirna;disgenet	273;289;279	NA	NA
+fever	R50	mirna;disgenet;Ruiz2021	780;E94	780	780;V73;V04;078;002;026;087;082;081;060;083;390;391;061;077;E94;065;085;084;100;672;670;080;023;021;114;063;398;066;277;477;99.;995;075;120;034;058;088;495;036;073;020;979;027;022;287
+colitis	K52	mirna;disgenet;Ruiz2021	558;787;535	NA	555;556;564;558;006;007;009;008;777
+placenta diseases	O43	mirna;symptom	656;663;667	NA	NA
+vascular diseases	I73	mirna	443;785	NA	443;429;437;430;V17;608;648
+urticaria	L50	mirna;disgenet;Ruiz2021;symptom	708	708	708;995
+graft vs host disease	D89	mirna;symptom	273;289;279		279
+diabetes mellitus, type 1	E10	mirna;symptom	250;362;366;357;355;536;353;349;443;785;713;716;523	NA	NA
+fibromuscular dysplasia	I77	mirna;symptom	447;443	NA	447
+muscular dystrophy, facioscapulohumeral	G71	mirna;disgenet;symptom	359	NA	NA
+teratoma	D28	mirna	221	NA	NA
+dyspepsia	K30	mirna	536	NA	536
+hashimoto disease	E06	mirna;disgenet;Ruiz2021;symptom	245		245
+glaucoma	H40	mirna;disgenet;Ruiz2021;symptom	365	365	V80;365;V19;377;366;364;12.;95.;371
+essential hypertension	I10	mirna;disgenet;Ruiz2021	401		401;642
+cardiovascular diseases	I51	mirna	429		429;V17;648
+respiratory distress syndrome, newborn	P22	mirna;disgenet;Ruiz2021;symptom	769;770		
+fetal growth retardation	P05	mirna	764	764	764;V28
+pneumothorax	J93	mirna;disgenet;symptom	512	NA	512;33.;860;011
+polycystic kidney diseases	Q61	mirna;disgenet;symptom	753		
+hirschsprung disease	Q43	mirna;disgenet;symptom	751	NA	NA
+intestinal atresia	Q41	mirna	751	NA	NA
+osteoarthritis, knee	M17	mirna;disgenet;Ruiz2021;symptom	715	NA	NA
+pulpitis	K04	mirna;symptom	522		522
+scleroderma, systemic	M34	mirna;symptom	710;517;359;357		
+hypertension, pregnancy-induced	O13	mirna	642	NA	NA
+varicose veins	I83	mirna;Ruiz2021	454	NA	671;454;38.;44.;456
+bardet-biedl syndrome 11	Q87	mirna	755;756;759	NA	NA
+premature birth	O60	mirna;Ruiz2021	644	644	644
+hematologic diseases	D75	mirna;symptom	289		
+glomerulonephritis, membranous	N03	mirna;symptom	582	NA	NA
+nephrosis, lipoid	N04	mirna	581	NA	NA
+frontotemporal dementia	G31	mirna;disgenet	331;330		331
+hypoglycemia	E16	mirna;disgenet;Ruiz2021;symptom	251	251	251;775
+moyamoya disease	I67	mirna;disgenet;symptom	443;437;046;348;435;436	437	437
+renal insufficiency, chronic	N18	mirna	585	NA	NA
+periodontal diseases	K05	mirna;disgenet;symptom	523	NA	523
+virus diseases	B34	mirna;disgenet	079;074;790	NA	048
+hyperlipidemias	E78	mirna;symptom	272;759	NA	NA
+beta-thalassemia	D56	mirna;symptom	282		282
+anemia, iron-deficiency	D50	mirna;symptom	280		
+anemia, aplastic	D61	mirna;symptom	284		284
+neonatal sepsis	P36	mirna	771	NA	NA
+anemia, hemolytic	D55	mirna;disgenet	282	NA	283;282
+hyperuricemia	E79	mirna;Ruiz2021	790;277	NA	NA
+behcet syndrome	M35	mirna;disgenet;Ruiz2021;symptom	710;517;359;583;136;711;725;728;729		711;136
+cholesteatoma	H71	mirna;symptom	385		385;380;383
+seizures	G40	mirna;Ruiz2021	345	NA	780;345;779
+pulmonary fibrosis, idiopathic	J84	mirna	516;515		516
+cerebral infarction	I63	mirna;disgenet;Ruiz2021;symptom	433;434	NA	434;V12;433;346
+skin melanoma	C43	mirna	172		V10;172
+vitamin b deficiency	E53	mirna;symptom	266		266
+siderosis	J63	mirna;symptom	503	360	360;516;446
+otitis media	H66	mirna;disgenet;Ruiz2021;symptom	382	382	381;382;384;385;993;055
+primary ovarian insufficiency	E28	mirna;symptom	256	256	256
+insulin resistance	E88	mirna	273;272;277	NA	277
+tuberous sclerosis	Q85	mirna;disgenet;Ruiz2021;symptom	237;759		759
+dehydration	E86	mirna;disgenet;symptom	276	276	E90;276;775
+myotonic dystrophy	G71	mirna;disgenet;symptom	359		359
+pleural effusion, malignant	J91	mirna;symptom	511		
+teratozoospermia	R86	mirna	792	NA	606
+cleft palate	Q35	mirna;disgenet;symptom	749	749	749;279;27.
+ovarian failure, premature	E28	mirna;disgenet;Ruiz2021	256	NA	NA
+prostatic hyperplasia	N40	mirna;Ruiz2021	600	600	600
+staphylococcal infections	A49	mirna;Ruiz2021	041	NA	NA
+leukemia, myeloid	C92	mirna;symptom	205		205;206;207
+sleep apnea, obstructive	G47	mirna;disgenet;symptom	780;327;347		
+tuberculosis, pulmonary	A15	mirna;disgenet;symptom	011;012;010		011
+thymic aplasia	D82	mirna	279	NA	279
+alopecia	L65	mirna;disgenet;Ruiz2021	704	704	704;091
+sucrase-isomaltase deficiency, congenital	E74	mirna;disgenet	271	NA	NA
+bipolar disorder	F31	mirna;disgenet;Ruiz2021;symptom	296		296
+food hypersensitivity	K52	mirna	558;787;535	NA	NA
+mastitis	N61	mirna;Ruiz2021	611	NA	610;771;611;675
+hepatolenticular degeneration	E83	mirna;disgenet;symptom	275;686	NA	NA
+enterovirus infections	B34	mirna;disgenet;symptom	079;074;790	NA	NA
+bacterial infections	A49	mirna;disgenet;symptom	041	NA	040;030;031;041
+myopia	H52	mirna;disgenet;symptom	367		360;367
+heart injuries	S26	mirna;symptom	861;V58;908	NA	NA
+drug hypersensitivity	T88	mirna	999;V58;909;995	NA	NA
+fatigue	R53	mirna;disgenet;Ruiz2021	780;799	NA	780;309;992;300
+pituitary diseases	E23	mirna;disgenet;symptom	253;628	NA	NA
+stress disorders, post-traumatic	F43	mirna;symptom	308;309		
+hypercholesterolemia	E78	mirna;Ruiz2021	272;759	NA	272
+graves disease	E05	mirna;disgenet	242	NA	NA
+huntington disease	G10	mirna;disgenet;symptom	333		333
+aids-related complex	B20	mirna	042	NA	NA
+hypertension, portal	K76	mirna;symptom	571;573;570;572		
+heat stroke	T67	mirna;symptom	992;V58;909	NA	992
+oligospermia	N46	mirna;disgenet;symptom	606	606	606
+neurodegenerative diseases	G31	mirna;symptom	331;330	NA	NA
+brain diseases	G93	mirna;disgenet;symptom	348;780;331		348
+rhinitis, allergic, seasonal	J30	mirna;symptom	477		
+lymphoproliferative disorders	D47	mirna;disgenet	238;273;289	NA	NA
+nasopharyngitis	J00	mirna	460	NA	460;472
+abortion, habitual	N96	mirna;Ruiz2021	629	NA	NA
+peripartum cardiomyopathy	O90	mirna	674;669;648;646;679		674
+hemoglobin sc disease	D57	mirna;symptom	282;517;289		282
+choriocarcinoma	C58	mirna;symptom	181	NA	NA
+darier disease	E50	mirna	264	NA	NA
+pancreatic diseases	K86	mirna;disgenet;symptom	577		
+prostatic diseases	N42	mirna;disgenet;symptom	602;600		
+progeria	E34	mirna;disgenet	259;253	NA	NA
+keratoconus	H18	mirna;disgenet;symptom	371		371
+sepsis-associated encephalopathy	G93	mirna	348;780;331	NA	NA
+mast cell tumors	D47	mirna	238;273;289	NA	238;202
+hemangioma	D18	mirna;disgenet;Ruiz2021;symptom	228		228;686
+lung diseases	J98	mirna;disgenet;Ruiz2021	519;518	NA	500;516;519;460;V12
+granulomatous disease, chronic	D71	mirna;Ruiz2021	288	NA	NA
+cakut	Q61	mirna	753	NA	NA
+retinal neovascularization	H35	mirna	362;363		362
+liver failure	K72	mirna;disgenet;Ruiz2021;symptom	570;572	NA	NA
+mite infestations	B88	mirna;symptom	133;134		
+echinococcosis	B67	mirna;disgenet;symptom	122		122
+chronic pain	G89	mirna;Ruiz2021	338		338
+optic nerve injuries	S04	mirna;symptom	950;V58;907;951		
+muscular atrophy, spinal	G12	mirna;symptom	335		335
+systemic inflammatory response syndrome	R65	mirna	995;785		995
+endometritis	N71	mirna	615	NA	098;670
+duodenal ulcer	K26	mirna;disgenet;Ruiz2021;symptom	532	532	532;44.;533
+uveitis	H20	mirna;disgenet;Ruiz2021	364	NA	364;360;091;363
+pulmonary arterial hypertension	I27	mirna	416	NA	416
+ossification of posterior longitudinal ligament	M48	mirna	724;723;721;733;V54;905;720	NA	723
+polycythemia vera	D45	mirna;disgenet;Ruiz2021;symptom	207;238		238
+stiff-person syndrome	G25	mirna;disgenet;symptom	333		333
+influenza in birds	J09	mirna;symptom	488	NA	NA
+bursitis	M71	mirna	727	NA	726;727;098
+burns	T30	mirna	949		947;942;948;940;949;945;944;943;941;946;E98;692;906;E95
+gaucher disease	E75	mirna;disgenet;Ruiz2021;symptom	330;272	NA	NA
+myocarditis	I51	mirna;disgenet;symptom	429	429	422;391;074;032;036;429;130;398;093
+frontotemporal lobar degeneration	G31	mirna	331;330	NA	331
+von willebrand diseases	D68	mirna;symptom	286;289		
+hypertensive retinopathy	H35	mirna	362;363		362
+schistosomiasis	B65	mirna;disgenet;Ruiz2021;symptom	120		V75;120
+pain	R52	mirna;disgenet;Ruiz2021;symptom	338;780	338	723;388;789;338;786;787;780;784;788;E86;E92;722;569;724;413;719;440;350;611;625;337;354;307;729;E98;524;401;997;353;785;053;379;529;472;707;595;245;E00;783;984;302;99.;522;E95;365;93.;278
+pregnancy, prolonged	O48	mirna;symptom	645		
+abnormalities, multiple	Q89	mirna;symptom	759	NA	NA
+retinal vein occlusion	H34	mirna	362	NA	362
+cystic fibrosis	E84	mirna;disgenet;Ruiz2021;symptom	277		V77;610;V83;277
+premature ejaculation	F52	mirna	302;306;V41		302
+pain, postoperative	G89	mirna;disgenet	338	NA	NA
+encephalomyelitis, eastern equine	A83	mirna;symptom	062		
+cataract, age-related nuclear	H25	mirna	366	NA	NA
+cataract	H26	mirna;disgenet;symptom	366	366	366;13.;743;V45;998
+rubella syndrome, congenital	P35	mirna;symptom	771		
+hemangioma, cavernous	D18	mirna	228	NA	NA
+rem sleep behavior disorder	G47	mirna;symptom	780;327;347		
+neuroendocrine tumors	D3A	mirna;disgenet	209		209
+hodgkin disease	C81	mirna;disgenet;symptom	201		201
+cachexia	R64	mirna;disgenet;Ruiz2021	799		799
+overactive bladder syndrome	N32	mirna	596	NA	NA
+bone pain	M85	mirna	733	NA	784
+leprosy	A30	mirna;disgenet;symptom	030	030	V74;030
+abortion	O03	mirna	634	637	632;639;637;634;635;636;779;640;69.;638;023;75.;74.;V23
+hemorrhagic fever, ebola	A98	mirna;symptom	065;078	NA	NA
+cardiomyopathy, hypertrophic	I42	mirna	425		425
+constipation	K59	mirna;disgenet;Ruiz2021	564	564	564
+developmental disabilities	F89	mirna;disgenet	315	NA	NA
+heart arrest	I46	mirna;symptom	427		427;39.
+alveolar bone loss	K06	mirna	523	NA	NA
+autoimmune lymphoproliferative syndrome	D89	mirna;disgenet;symptom	273;289;279		279
+hemophilia a	D66	mirna;disgenet;Ruiz2021;symptom	286	286	V83;286
+status epilepticus	G41	mirna;Ruiz2021;symptom		NA	345
+fetal alcohol spectrum disorders	Q86	mirna	760	NA	NA
+acrodermatitis enteropathica	E83	mirna;disgenet	275;686	NA	NA
+fragile x syndrome	Q99	mirna;disgenet	758;759		759
+encephalocele	Q01	mirna	742	742	742
+anemia, hypochromic	D50	mirna	280	NA	NA
+coronavirus infections	B34	mirna;symptom	079;074;790	079	079
+emphysema	J43	mirna	492	492	V81;492;491;518;998;32.;770;040;958
+cleidocranial dysplasia	Q74	mirna;disgenet	755;754	NA	NA
+cardiomyopathy, dilated	I42	mirna;disgenet;Ruiz2021;symptom	425	NA	NA
+silicotuberculosis	J65	mirna	505	NA	NA
+hemoptysis	R04	mirna;symptom	784;786		786;121
+trigeminal neuralgia	G50	mirna;disgenet;Ruiz2021;symptom	350		350;053
+lupus erythematosus, cutaneous	L93	mirna	695	NA	NA
+corneal neovascularization	H16	mirna;disgenet;symptom	370;360;372		370
+urethral stricture	N35	mirna	598	598	V13;598;58.
+heart septal defects, ventricular	Q21	mirna;symptom	745		
+rectal prolapse	K62	mirna;symptom	569		48.;96.;569
+depression, postpartum	F53	mirna;disgenet;symptom	293	NA	NA
+sarcoma	C49	mirna	171	NA	176;202;201;200;205;V10;204
+st elevation myocardial infarction	I21	mirna	410	NA	NA
+lichen sclerosus et atrophicus	L90	mirna;symptom	701;709	NA	607
+hypothermia	T68	mirna	991;V58;909	99.;991	780;778;96.;99.;991;39.
+cataract, age-related	H25	mirna	366	NA	NA
+hemorrhage	R58	mirna;disgenet;Ruiz2021	459		784;641;666;E87;637;532;531;535;534;786;533;772;569;537;446;638;596;431;363;801;800;804;803;635;602;372;49.;57.;21.;60.;39.;28.;44.;639;287;379;562;626;640;767;530;456;432;852;374;656;286;578;459;362;246;998;377;423;376;627;430;285;621;719;997;636;634;770;853;762;667;664;958;568
+thyroiditis, autoimmune	E06	mirna;symptom	245	NA	NA
+uremia	N19	mirna;disgenet;Ruiz2021	586	NA	021
+hearing loss, unilateral	H90	mirna	389	NA	389
+osteochondrodysplasias	Q78	mirna;disgenet;symptom	756	NA	NA
+optic neuritis	H46	mirna;disgenet;Ruiz2021;symptom	377		377;036
+niemann-pick diseases	E75	mirna;disgenet;symptom	330;272	NA	NA
+pulmonary embolism	I26	mirna;disgenet;symptom	415	NA	V12;673;416;415
+fanconi syndrome	D61	mirna	284	NA	759
+insulinoma	C25	mirna	157	NA	157
+primary aldosteronism	E26	mirna	255		255
+lewy body disease	G31	mirna;disgenet;symptom	331;330		331
+retinopathy of prematurity	H35	mirna;disgenet;symptom	362;363	362	362
+rotator cuff	M75	mirna	726;727	NA	727;83.;726;840
+aphasia, primary progressive	G31	mirna	331;330	NA	NA
+muscular dystrophies	G71	mirna;symptom	359	NA	359;378
+encephalitis, japanese	A83	mirna;symptom	062		062
+dementia	F03	mirna;disgenet;Ruiz2021;symptom	290;294		299;290;294;291;331;094;295;292;046
+vesico-ureteral reflux	N13	mirna;disgenet;symptom	591;593;590;599		593
+gastritis, atrophic	K29	mirna;disgenet;symptom	535		535
+chills	R68	mirna;disgenet	780;799;527;781;784;796	NA	780
+fibrous dysplasia, polyostotic	Q78	mirna;symptom	756		
+gastrointestinal hemorrhage	K92	mirna;disgenet;Ruiz2021;symptom	578;538;569		578;772
+oral submucous fibrosis	K13	mirna;disgenet;symptom	528	NA	528
+orchitis	N45	mirna;Ruiz2021;symptom	604	NA	098;604;072
+prostate cancer	C61	mirna	185	185	V16;185
+fanconi anemia	D61	mirna;disgenet	284	NA	NA
+vascular system injuries	T14	mirna;symptom	959;E95		
+multiple endocrine neoplasia type 1	E31	mirna;disgenet;symptom	258		258
+arteriosclerotic cardiovascular disease	I70	mirna	440;707;785	NA	NA
+turner syndrome	Q96	mirna;disgenet;Ruiz2021;symptom	758	NA	756
+rift valley fever	A92	mirna;symptom	065;066	NA	NA
+aggressive periodontitis	K05	mirna;disgenet	523	523	523
+cushing syndrome	E24	mirna;disgenet;symptom	255;253	255	255
+tic disorders	F95	mirna;symptom	307		307;291;294;299;519;292;573;314;300;577;602;698;290;298;297;V82
+dacryocystitis	H04	mirna;Ruiz2021	375		375;771
+corneal ulcer	H16	mirna;disgenet;Ruiz2021;symptom	370;360;372	370	370;371;264
+liver diseases, alcoholic	K70	mirna;symptom	571;572	NA	NA
+leukemia-lymphoma, adult t-cell	C91	mirna;symptom	204;202	NA	NA
+juvenile gout	M10	mirna	274	NA	NA
+inhalant abuse	F18	mirna	305;292;304	NA	NA
+pyelonephritis	N16	mirna;disgenet;Ruiz2021	583;590		590;016
+postural orthostatic tachycardia syndrome	I95	mirna	458	NA	NA
+arthritis, juvenile	M08	mirna	714;720	NA	NA
+hepatitis, alcoholic	K70	mirna;disgenet;symptom	571;572	NA	571
+nasal polyps	J33	mirna;disgenet;Ruiz2021;symptom	471		471
+de lange syndrome	Q87	mirna	755;756;759	NA	NA
+dwarfism, pituitary	E23	mirna;symptom	253;628		
+tachycardia	R00	mirna;disgenet;symptom	785;427	785	785;427;779;426
+macular edema	H35	mirna	362;363	NA	362
+temporomandibular joint disorders	M26	mirna;disgenet;symptom	524;525		
+down syndrome	Q90	mirna;disgenet;symptom	758	758	758
+t-cell acute lymphoblastic leukemia	C91	mirna	204;202	NA	NA
+erectile dysfunction	N52	mirna;disgenet;Ruiz2021;symptom	607	NA	607
+heart defects, congenital	Q24	mirna;symptom	746		746
+mycoplasma pneumoniae pneumonia	J15	mirna	482;483		
+osteonecrosis	M87	mirna;symptom	733	NA	733
+myeloproliferative disorders	D47	mirna	238;273;289	NA	NA
+urinary retention	R33	mirna;disgenet;Ruiz2021;symptom	788	788	600;788
+cryopyrin-associated periodic syndromes	M04	mirna;disgenet;Ruiz2021;symptom		NA	NA
+disorders of excessive somnolence	G47	mirna	780;327;347	NA	NA
+gastritis	K29	mirna;Ruiz2021;symptom	535	NA	535
+dilated cardiomyopathy 1ff	I42	mirna	425	NA	NA
+systemic primary carnitine deficiency disease	E71	mirna	270;272;277	NA	NA
+sarcoidosis	D86	mirna;disgenet;Ruiz2021;symptom	135	135	135;321
+crest syndrome	M34	mirna;disgenet;symptom	710;517;359;357	NA	NA
+lymphoma, non-hodgkin	C85	mirna;disgenet;symptom	202;200	NA	NA
+autism spectrum disorde	F84	mirna	299;330	NA	299
+heart diseases, congenital	Q24	mirna	746	NA	NA
+lipodystrophy	E88	mirna;disgenet	273;272;277		040;272
+chediak-higashi syndrome	E70	mirna;disgenet;symptom	270	NA	NA
+osteochondromatosis	Q78	mirna	756	NA	NA
+lipidoses	E75	mirna;symptom	330;272		330;362;272
+hearing loss, sensorineural	H90	mirna;symptom	389		389
+west nile fever	A92	mirna;disgenet;symptom	065;066		066
+cicatrix	L90	mirna;symptom	701;709	NA	363;372;701
+post-concussion syndrome	F07	mirna;symptom	310		
+myasthenia gravis	G70	mirna;disgenet;Ruiz2021;symptom	358	358	358;775
+non-alcoholic steatohepatitis	K75	mirna	572;573;571	NA	NA
+osteogenesis imperfecta type 1	Q78	mirna	756	NA	NA
+shock, cardiogenic	R57	mirna;disgenet;Ruiz2021;symptom	785		
+iron metabolism disorders	E83	mirna;disgenet;symptom	275;686		275
+idiopathic scoliosis	M41	mirna	737	737	737
+macular degeneration	H35	mirna;Ruiz2021	362;363	362	362
+nephritis	N08	mirna;disgenet;Ruiz2021;symptom	583	NA	580;590;446;582;587;581;078;583;016
+uterine cervical dysplasia	N87	mirna;symptom	622		
+hepatorenal syndrome	K76	mirna;disgenet;symptom	571;573;570;572		572
+amyloidosis	E85	mirna;disgenet;Ruiz2021;symptom	277		277;371
+fatty liver, alcoholic	K70	mirna;disgenet;symptom	571;572		
+prediabetic state	R73	mirna;symptom	790	NA	NA
+demyelinating diseases	G37	mirna	341;323	NA	341
+intestinal fistula	K63	mirna;symptom	569;211	569	57.;569;596
+hepatitis c, chronic	B18	mirna;disgenet;Ruiz2021;symptom	070	NA	NA
+larva migrans, visceral	B83	mirna;symptom	128;134	NA	NA
+brugada syndrome	I49	mirna	427	NA	NA
+nephrotic syndrome	N04	mirna;disgenet;Ruiz2021;symptom	581	581	V13;581;580
+scleral diseases	H15	mirna;symptom	379	NA	NA
+tetralogy of fallot	Q21	mirna;disgenet;Ruiz2021;symptom	745		35.;745
+fibromyalgia	M79	mirna;symptom	729;719	NA	780
+prostate adenocarcinoma	C61	mirna	185	NA	233
+schistosomiasis mansoni	B65	mirna;disgenet;symptom	120		
+acute pulmonary embolism	I26	mirna	415	NA	NA
+sarcoma, kaposi	C46	mirna;symptom	176		176
+endometriosis in scar of skin	N80	mirna	617		
+hand, foot and mouth disease	B08	mirna;symptom	051;059;078;058;057;074		
+uterine hemorrhage	N93	mirna	626	NA	626
+granulomatosis with polyangiitis	M31	mirna;disgenet	446;447		446
+cancer pain	G89	mirna	338	NA	NA
+nephrosclerosis	I12	mirna;disgenet;symptom	403		587
+leigh disease	G31	mirna;disgenet;symptom	331;330	NA	NA
+osteoarthropathy, primary hypertrophic	M89	mirna;disgenet	733;738;731;730	NA	NA
+ataxia telangiectasia	G11	mirna	334	NA	NA
+telangiectasia, hereditary hemorrhagic	I78	mirna;symptom	448		448
+optic atrophy, hereditary, leber	H47	mirna;disgenet	377	NA	NA
+arteriovenous fistula	I77	mirna	447;443	NA	447;417;39.
+persistent fetal circulation syndrome	P29	mirna;disgenet;Ruiz2021;symptom	779;747		
+neurofibromatosis 2	Q85	mirna;disgenet;symptom	237;759		237
+aortic aneurysm	I71	mirna;disgenet	441	441	441;093
+sezary syndrome	C84	mirna;disgenet;Ruiz2021;symptom	202;200		202
+neuroaxonal dystrophies	G23	mirna	333	NA	NA
+leiomyoma	D25	mirna	218	218	218;516
+osteolysis	M89	mirna;disgenet;symptom	733;738;731;730	NA	356;996
+cryptorchidism	Q53	mirna;disgenet;Ruiz2021;symptom	752		756;752
+hemorrhagic fever with renal syndrome	A98	mirna;symptom	065;078		
+bronchiolitis obliterans	J44	mirna	491;493;496	NA	516
+amelogenesis imperfecta	K00	mirna;disgenet	520	NA	NA
+mandibulofacial dysostosis	Q75	mirna;disgenet;symptom	756	NA	NA
+granuloma	L92	mirna	695;709;701;686	NA	099;201;692;135;709;526;385;555;372;110;728;446;376;375;202;116;686;245;379;373;495;363
+hydrocephalus	G91	mirna;disgenet;symptom	331	NA	741;331;742;348
+hearing loss, age-related	H91	mirna	389;388		
+craniosynostoses	Q75	mirna;symptom	756	NA	NA
+cranial nerve injuries	S04	mirna;symptom	950;V58;907;951		951;950
+intervertebral disc disease	M51	mirna	722;724		722
+thyroid nodule	E04	mirna	240;241;246	NA	242;241
+blind loop syndrome	K90	mirna	579;040		579
+primary myelofibrosis	D47	mirna;disgenet	238;273;289		238
+amebiasis	A06	mirna;symptom	006	006	V02;006
+dwarfism	E34	mirna;disgenet	259;253	NA	253;259;263;359
+warburg micro syndrome 1	Q87	mirna	755;756;759	NA	NA
+fused teeth	K00	mirna	520	NA	NA
+enterocolitis, necrotizing	K55	mirna;symptom	557;569	NA	NA
+histiocytic sarcoma	C96	mirna;symptom	202;277	NA	NA
+fluorosis, dental	K00	mirna;symptom	520		
+sciatica	M54	mirna;symptom	723;724;729		724
+vertigo	R42	mirna;Ruiz2021	780	438	386;078;438;994;608
+porphyria, erythropoietic	E80	mirna;disgenet;symptom	277	NA	NA
+blood coagulation disorders	D68	mirna;disgenet;Ruiz2021;symptom	286;289		286
+disseminated intravascular coagulation	D65	mirna;disgenet;Ruiz2021;symptom	286	286	286;776
+pericardial effusion	I31	mirna	423	NA	NA
+spinal diseases	G95	mirna	336	NA	NA
+retinal degeneration	H35	mirna	362;363	NA	362;743
+digeorge syndrome	D82	mirna;disgenet;symptom	279	279	279
+anemia, refractory, with excess of blasts	D46	mirna;symptom	238	NA	NA
+encephalitis, viral	A86	mirna;symptom	049	NA	062
+cytomegalovirus infections	B25	mirna;disgenet;symptom	078;484;573;577		078
+malaria, vivax	B51	mirna;symptom	084		
+pregnancy, ectopic	O00	mirna;symptom	633		633
+brucellosis	A23	mirna;disgenet;symptom	023		023
+tibial fractures	S82	mirna	822;V54;733;905;823;824;827	NA	NA
+hip fractures	S72	mirna	820;V54;733;905;821	NA	NA
+albuminuria	R80	mirna;disgenet	791;593	791	791;593
+freeman-sheldon syndrome	Q87	mirna;disgenet	755;756;759	NA	NA
+gestational trophoblastic disease	O01	mirna;disgenet	630	NA	NA
+aortic valve stenosis	I35	mirna	424	NA	746;396;395
+friedreich ataxia	G11	mirna	334		334
+pneumonia, staphylococcal	J15	mirna;symptom	482;483		482
+ichthyosis, lamellar	Q80	mirna;symptom	757	NA	NA
+leukemia, prolymphocytic, t-cell	C91	mirna;symptom	204;202	NA	NA
+human herpesvirus 6 encephalitis	B10	mirna	058		
+anaphylaxis	T78	mirna	995;V58;909;988	NA	995;V13
+chikungunya	A92	mirna	065;066	NA	NA
+neonatal hemochromatosis	P78	mirna	777	NA	NA
+prostatitis	N41	mirna;disgenet;Ruiz2021;symptom	601		601;098;131
+poikiloderma with neutropenia	D82	mirna	279	NA	NA
+myocardial fibrosis	I51	mirna	429	NA	425
+stomach carcinoma	C16	mirna	151	NA	230
+glycogen storage disease type vi	E74	mirna;disgenet	271	NA	NA
+anemia, sickle cell	D57	mirna;disgenet;Ruiz2021;symptom	282;517;289		
+lipoma	D17	mirna;disgenet	214	214	214;736
+chorea	G25	mirna;disgenet;Ruiz2021	333	NA	333;392
+varicocele	I86	mirna;symptom	456		63.;456
+gerstmann-straussler-scheinker disease	A81	mirna;disgenet;symptom	046		
+alcohol withdrawal delirium	F10	mirna;Ruiz2021	305;291;303		
+condylomata acuminata	A63	mirna;symptom	078;099		078
+lymphomatoid granulomatosis	C83	mirna	200	NA	NA
+x-linked juvenile retinoschisis 1	Q14	mirna	743	NA	NA
+fibroadenoma	D24	mirna	217	NA	NA
+phyllodes tumor	D48	mirna;disgenet	238;235	NA	NA
+central nervous system diseases	G96	mirna;symptom	349;388	NA	337
+proteinuria	R80	mirna;disgenet;symptom	791;593	791	791;593
+leukoplakia, oral	K13	mirna;disgenet	528	NA	NA
+arrhythmias, cardiac	I49	mirna;symptom	427		427
+chagas disease	B57	mirna;symptom	086	NA	086
+myositis	M60	mirna;disgenet;Ruiz2021;symptom	728;040;729	NA	359;710;728;040;074;729;376
+diabetes complications	E14	mirna			
+chlamydia infections	A74	mirna;disgenet;Ruiz2021;symptom	077;079;078	NA	NA
+barrett esophagus	K22	mirna;disgenet;symptom	530		530
+pinta	A67	mirna;symptom	103	103	103;230;234
+congenital central hypoventilation syndrome	G47	mirna	780;327;347	NA	NA
+c syndrome	E76	mirna	277	NA	238;291;344;557;971;294;579;306;314;625;279;341;286;722;277;358;V13;378;078;806;365;283;288;276;251;581;438;272;345;333;446;359;347;140;580;952;747;459;300;258;995;669;289;255;364;363
+guillain-barre syndrome	G61	mirna;disgenet;symptom	357	NA	357
+obstetric labor, premature	O60	mirna	644	NA	NA
+hemoglobinuria, paroxysmal	D59	mirna	283	NA	NA
+pituitary acth hypersecretion	E24	mirna;symptom	255;253	NA	NA
+lissencephaly	Q04	mirna;disgenet	742	NA	NA
+rabies	A82	mirna;symptom	071		V01;V04;071;E94;99.;979
+arteritis	I77	mirna;disgenet;symptom	447;443		446;447;437
+urinary bladder neck obstruction	N32	mirna;symptom	596		
+polymyalgia rheumatica	M35	mirna;symptom	710;517;359;583;136;711;725;728;729		725;446
+phobic disorders	F40	mirna;symptom	300		300
+anhedonia	R45	mirna;disgenet	799;307;300;308;780;V62	NA	NA
+toxoplasmosis	B58	mirna;symptom	130		130
+mycoplasma infections	A49	mirna	041	NA	NA
+acidosis, respiratory	E87	mirna	276	NA	NA
+intrauterine adhesion	N85	mirna	621	NA	68.;621
+capsule opacification	H26	mirna;symptom	366		366
+starvation	T73	mirna;disgenet	994;E90;V58;909;E92	NA	E90
+spermatic cord torsion	N44	mirna;symptom	608		608
+retroviridae infections	B33	mirna	074;066;078;079	NA	NA
+hypoplastic left heart syndrome	Q23	mirna;disgenet;symptom	746		746
+retinitis	H30	mirna;disgenet	363	NA	115;363;130;094;091;362
+keratitis	H16	mirna;disgenet;Ruiz2021;symptom	370;360;372	370	370;090;054;098;053;055;379
+encephalomyelitis, western equine	A83	mirna;symptom	062		
+anodontia	K00	mirna;symptom	520	520	520
+depressive disorder	F33	mirna;disgenet;Ruiz2021;symptom	296;298	NA	296;301;311;300
+polythelia, familial	Q83	mirna	757	NA	NA
+cholesteatoma, middle ear	H71	mirna;symptom	385		
+lyme disease	A69	mirna;symptom	101;528;088;104	088	088
+spasm	M62	mirna;disgenet	728;724	728	728;530;E85;367;519;564;493;E94;971;333;345;625;378;413;477;478;576;537;342;975;99.;334;789
+metaplasia	K31	mirna	536;537;211	NA	238;289;530
+von hippel-lindau disease	Q85	mirna	237;759	NA	NA
+adrenoleukodystrophy	E71	mirna;disgenet;symptom	270;272;277	NA	NA
+supranuclear palsy, progressive	G23	mirna	333	NA	NA
+biotinidase deficiency	D81	mirna;disgenet;symptom	279;277;266	NA	NA
+hyperglycinemia, nonketotic	E72	mirna;symptom	270;271	NA	NA
+hyperaldosteronism	E26	mirna;disgenet;Ruiz2021;symptom	255		255
+retrognathia	M26	mirna	524;525	NA	524
+selenium deficiency	E59	mirna	269	NA	NA
+breast diseases	N64	mirna;disgenet;symptom	611		610;611
+ureteropelvic junction obstruction	Q62	mirna	753	NA	753
+thromboangiitis obliterans	I73	mirna;symptom	443;785		443
+histiocytosis	D76	mirna	288	NA	202;516
+arteriosclerosis	I70	mirna;disgenet;Ruiz2021;symptom	440;707;785	NA	414;587
+acidosis	E87	mirna;disgenet;Ruiz2021;symptom	276	276	276;250;775;249
+laron syndrome	E34	mirna;disgenet;Ruiz2021	259;253	NA	NA
+retinal detachment	H33	mirna;disgenet	361;360	361	361;14.;362
+splenic diseases	D73	mirna;disgenet;symptom	289		
+legg-calve-perthes disease	M91	mirna;disgenet	732	NA	NA
+alpha-thalassemia	D56	mirna;disgenet;symptom	282		282
+mental retardation, x-linked	F78	mirna	319	NA	759
+tourette syndrome	F95	mirna;symptom	307		307
+acne vulgaris	L70	mirna;disgenet;symptom	706	NA	NA
+eclampsia	O15	mirna;symptom	642	NA	642;760
+otitis media with effusion	H65	mirna;disgenet;symptom	381	NA	381;382
+familial primary pulmonary hypertension	I27	mirna;disgenet	416	NA	NA
+lesch-nyhan syndrome	E79	mirna;disgenet;symptom	790;277	NA	NA
+cough variant asthma	J45	mirna	493		
+ascites	R18	mirna;disgenet;Ruiz2021;symptom	789;568	789	789;54.
+multiple trauma	T07	mirna;symptom	959	NA	839
+hernias, diaphragmatic, congenital	Q79	mirna	756	NA	NA
+dermatomyositis	M33	mirna;disgenet;Ruiz2021;symptom	710;517;359	710	710
+familial mediterranean fever	M04	mirna;disgenet;Ruiz2021			277
+motor disorders	F82	mirna	315	NA	374
+burkitt lymphoma	C83	mirna;disgenet;symptom	200	200	200
+myocardial dysfunction	I25	mirna	414;429;411;413;412	NA	NA
+foot ulcer	L97	mirna	707	NA	NA
+thiamine deficiency	E51	mirna;disgenet;Ruiz2021;symptom	265	265	265
+respiratory insufficiency	R06	mirna	786;784	NA	NA
+sialorrhea	K11	mirna;disgenet;Ruiz2021	527	NA	NA
+urinary incontinence, stress	N39	mirna	599;625;788	NA	NA
+double outlet right ventricle	Q20	mirna;disgenet;symptom	745;746		745;35.
+goiter	E04	mirna;disgenet;Ruiz2021	240;241;246		240;242;243;246;241;245
+glomus tumor	D18	mirna	228	NA	NA
+vitelliform macular dystrophy	H35	mirna	362;363	NA	NA
+erythema	L53	mirna;disgenet;symptom	695		695;945;690;026;949;944;941;691;373;710;942;943;946;057;529;017;991;692
+hyperpigmentation	L81	mirna	709	NA	374
+lymphopenia	D72	mirna;disgenet;symptom	288	288	288
+congenital hypothyroidism	E03	mirna;disgenet;Ruiz2021	243;244;246;780		243
+low tension glaucoma	H40	mirna;disgenet	365		365
+neonatal encephalopathy	P91	mirna	779;768	NA	NA
+osteoporotic fractures	M80	mirna;symptom	733;V54;905	NA	NA
+hyperostosis	M89	mirna;disgenet;symptom	733;738;731;730	NA	721;733
+hyperparathyroidism, primary	E21	mirna;symptom	252		252
+weil disease	A27	mirna;symptom	100		100
+polycystic liver disease	Q44	mirna	751	NA	753
+transposition of great vessels	Q20	mirna;disgenet	745;746	745	745;35.
+succinic semialdehyde dehydrogenase deficiency	E72	mirna;disgenet	270;271	NA	NA
+acromegaly	E22	mirna;Ruiz2021	253	NA	253
+paraganglioma	D44	mirna	237	NA	194
+cardiac complexes, premature	I49	mirna;symptom	427		
+avitaminosis	E56	mirna	269	269	269;268
+clubfoot	Q66	mirna;symptom	754;755		736;754;83.
+xerostomia	K11	mirna;Ruiz2021	527	NA	NA
+meningitis, cryptococcal	B45	mirna	117;321		
+urethritis	N34	mirna	597;099	NA	597;711;099;131
+hypertriglyceridemia	E78	mirna;Ruiz2021	272;759	NA	272
+metabolic syndrome	E88	mirna	273;272;277		277
+purpura	D69	mirna;Ruiz2021	287	NA	287;446;036;776
+bronchopneumonia	J18	mirna;symptom	485;481;514;486		485
+motor neuron disease	G12	mirna;disgenet;symptom	335		335
+seizures, febrile	R56	mirna;symptom	780		780
+airway obstruction	J98	mirna	519;518	NA	491;496
+polydactyly	Q69	mirna;disgenet;symptom	755	755	754;755
+lymphoma, t-cell, peripheral	C84	mirna;symptom	202;200		
+drug-related side effects and adverse reactions	T88	mirna	999;V58;909;995	NA	NA
+chronic constipation	K59	mirna	564	NA	NA
+meningitis, bacterial	G00	mirna;symptom	320		
+leukopenia	D72	mirna;disgenet;symptom	288		714;288
+sexually transmitted diseases	A64	mirna;symptom	099		V65;V74;099
+kidney transplant rejection	T86	mirna	996	NA	NA
+cystitis, interstitial	N30	mirna	595	NA	595
+lung diseases, interstitial	J84	mirna;disgenet;symptom	516;515	NA	NA
+pneumoconiosis	J64	mirna;disgenet;symptom	505		501;500;503;502;505;495
+penile induration	N48	mirna;symptom	607		
+leishmaniasis, visceral	B55	mirna;disgenet;symptom	085		085
+rheumatic fever	I00	mirna;symptom	390	390	390;391;398
+congenital nongoitrous hypothyroidism 4	E03	mirna	243;244;246;780	NA	NA
+fibrous dysplasia of bone	M27	mirna	526;525	NA	756
+hepatic veno-occlusive disease	K76	mirna;disgenet;Ruiz2021;symptom	571;573;570;572	NA	NA
+elephantiasis	B74	mirna	125	NA	374;457;608;125
+eosinophilic enteropathy	K52	mirna	558;787;535	NA	NA
+lung abscess	J85	mirna	513		006;513
+stomach ulcer	K25	mirna;symptom	531	531	531
+eye diseases	H44	mirna	360		379;360
+takotsubo cardiomyopathy	I51	mirna;symptom	429		
+meniere disease	H81	mirna;disgenet;symptom	386		386
+bradycardia	R00	mirna;disgenet;Ruiz2021;symptom	785;427	NA	779
+hypotension	I95	mirna;disgenet;Ruiz2021;symptom	458	458	458;360;669;785
+hemochromatosis	E83	mirna;disgenet;Ruiz2021;symptom	275;686	NA	275
+anorexia nervosa	F50	mirna;disgenet;symptom	307		307;783
+giant cell arteritis	M31	mirna	446;447		446
+sick sinus syndrome	I49	mirna;disgenet;symptom	427	NA	NA
+hearing loss	H91	mirna;symptom	389;388	389	V19;389;388;315
+lymphohistiocytosis, hemophagocytic	D76	mirna;disgenet;symptom	288	NA	NA
+intracranial arteriosclerosis	I67	mirna	443;437;046;348;435;436	NA	NA
+solitary pulmonary nodule	R91	mirna;symptom	793		793
+stomatitis	K12	mirna;disgenet;Ruiz2021	528;682	NA	074;528;051;059;112;078;054
+vitamin d deficiency	E55	mirna;disgenet;Ruiz2021;symptom	268		268
+glaucoma, open-angle	H40	mirna;disgenet;Ruiz2021;symptom	365		365
+death, sudden	R96	mirna		NA	798
+tracheal stenosis	J39	mirna	478;519	NA	NA
+lymphoma, large-cell, anaplastic	C84	mirna	202;200		
+leukemia, myelomonocytic, acute	C92	mirna;symptom	205	NA	NA
+trypanosomiasis	B57	mirna;disgenet	086		V75;086;321
+diastrophic dysplasia	Q77	mirna;disgenet	756	NA	NA
+peripheral nervous system diseases	G64	mirna;disgenet	357		350
+esophageal diseases	K22	mirna;disgenet;symptom	530		
+ocular hypertension	H40	mirna;disgenet;Ruiz2021	365		365
+chromosome aberrations	Q99	mirna	758;759	758	758
+low back pain	M54	mirna;disgenet;symptom	723;724;729		724
+chorioamnionitis	O41	mirna;disgenet;symptom	658	NA	762
+decompression sickness	T70	mirna;symptom	993;V58;909		993
+tinnitus	H93	mirna;disgenet;symptom	388;315;V41	388	388
+cholecystolithiasis	K80	mirna	574;576	574	574
+charcot-marie-tooth disease	G60	mirna;disgenet	356		356
+smoke inhalation injury	T59	mirna;symptom	987;E86;V58;909;E95;E96;E98	NA	NA
+exanthema	R21	mirna;disgenet;Ruiz2021;symptom	782	782	782;698;058;057;074;080;705;370;691
+eunuchism	E29	mirna	257	NA	NA
+yaws	A66	mirna;symptom	102		V74;102
+urinary bladder diseases	N32	mirna;disgenet;symptom	596		
+asphyxia	R09	mirna;disgenet;symptom	799;511;786;478;784;785		799;E91;768;994
+yellow nail syndrome	L60	mirna;symptom	703	NA	NA
+addison disease	E27	mirna;disgenet;symptom	255	NA	NA
+oophoritis	N70	mirna;symptom	614	NA	614;016
+exocrine pancreatic insufficiency	K86	mirna;disgenet;symptom	577	NA	NA
+isolated cleft palate	Q35	mirna	749	NA	NA
+axenfeld-rieger syndrome	Q13	mirna	743	NA	NA
+hyperlipoproteinemia type ii	E78	mirna;symptom	272;759	NA	272
+cholecystitis	K81	mirna;Ruiz2021;symptom	575	575	575;574
+choledocholithiasis	K80	mirna	574;576	NA	574
+antiphospholipid syndrome	D68	mirna;disgenet;symptom	286;289	NA	NA
+leukemia, megakaryoblastic, acute	C94	mirna;symptom	207;238		
+cardiomyopathy, alcoholic	I42	mirna;disgenet;symptom	425		
+neuralgia, postherpetic	G53	mirna	352	NA	NA
+brain death	G93	mirna;symptom	348;780;331		348
+erythema multiforme	L51	mirna;disgenet;Ruiz2021;symptom	695	695	695
+dermatitis herpetiformis	L13	mirna;symptom	694		694
+fetal membranes, premature rupture	O42	mirna;Ruiz2021;symptom	658		
+mycobacterium infections	A31	mirna;disgenet;symptom	031		031
+herpes simplex	B00	mirna;symptom	054	054	054
+leukodystrophy, globoid cell	E75	mirna;symptom	330;272	NA	NA
+hip dislocation, congenital	Q65	mirna	754;755	754	754
+liver cirrhosis, alcoholic	K70	mirna;disgenet;symptom	571;572		
+aortic atherosclerosis	I70	mirna	440;707;785		440
+status asthmaticus	J46	mirna		493	493
+prader-willi syndrome	Q87	mirna;disgenet;Ruiz2021	755;756;759		759
+synovitis	M65	mirna	727	NA	727;719;726;712;098
+hyperthyroidism	E05	mirna;disgenet;Ruiz2021	242	NA	376;242;775
+endocrine system diseases	E34	mirna;disgenet	259;253		
+cholelithiasis	K80	mirna;disgenet;symptom	574;576		574;997
+aspergillosis, allergic bronchopulmonary	B44	mirna;symptom	117;484;518		
+femoral neck fractures	S72	mirna;symptom	820;V54;733;905;821		
+anemia	D64	mirna;disgenet;Ruiz2021;symptom	285	285	V18;283;285;284;282;281;280;648;776;V78;773;287;774
+hemorrhoids	K64	mirna;disgenet;Ruiz2021;symptom	455	455	455;49.
+severe dengue	A91	mirna;disgenet	065	NA	NA
+lymphoma, follicular	C82	mirna;disgenet;symptom	202		202
+gastritis, hypertrophic	K29	mirna;symptom	535		
+rosacea	L71	mirna;Ruiz2021;symptom	695	695	695;372
+alveolar echinococcosis	B67	mirna	122		
+hypothyroidism	E03	mirna;disgenet;Ruiz2021;symptom	243;244;246;780	244	244;243
+alcoholic neuropathy	G62	mirna;symptom	357		
+non-alcoholic fatty liver	K76	mirna	571;573;570;572	NA	NA
+angina, unstable	I20	mirna;disgenet;Ruiz2021;symptom	411;413		
+staphylococcal scalded skin syndrome	L00	mirna;symptom	695		695
+hypomelanosis of ito	L81	mirna	709	NA	NA
+gastrinoma	E16	mirna	251	NA	NA
+immunologic deficiency syndromes	D84	mirna;disgenet;Ruiz2021;symptom	279;277		
+spinal cord compression	G95	mirna;symptom	336	NA	721
+carcinoma, merkel cell	C4A	mirna;symptom	209	NA	NA
+peri-implantitis	M27	mirna	526;525	NA	NA
+borderline personality disorder	F60	mirna;symptom	301		301
+ovarian carcinoma	C56	mirna	183	183	183
+leukemia, erythroblastic, acute	C94	mirna;symptom	207;238	NA	NA
+neurofibromatosis 1	Q85	mirna;disgenet;symptom	237;759		237
+intervertebral disc displacement	M51	mirna	722;724	NA	NA
+sleep apnea syndromes	G47	mirna;disgenet;symptom	780;327;347		780
+stenosis, pulmonary artery	Q25	mirna	747	NA	NA
+chronic recurrent multifocal osteomyelitis	M86	mirna	730	NA	NA
+exostoses	M27	mirna	526;525	726	380;726
+pulmonary eosinophilia	J82	mirna	518	518	518
+torsion dystonia 1	G24	mirna	333	NA	NA
+cestode infections	B71	mirna;symptom	123		
+rickettsia infections	A79	mirna;disgenet;Ruiz2021;symptom	083		
+univentricular heart	Q20	mirna	745;746		745
+dysautonomia, familial	G90	mirna;disgenet;symptom	337;742;333	NA	NA
+arnold-chiari malformation	Q07	mirna;symptom	741;742	NA	NA
+folic acid deficiency	E53	mirna;disgenet;Ruiz2021;symptom	266	NA	281
+neuroleptic malignant syndrome	G21	mirna;symptom	333;332		333
+hallux valgus	M20	mirna	736;727;735	735	735
+muscular dystrophies, limb-girdle	G71	mirna;disgenet	359	NA	NA
+carcinoma in situ	D09	mirna;symptom	233;234	230;234	230;234;233;232;231
+mycobacterium infections, nontuberculous	A31	mirna;disgenet	031	NA	NA
+mixed connective tissue disease	M35	mirna	710;517;359;583;136;711;725;728;729	NA	NA
+aneurysm	I72	mirna;disgenet;symptom	442		442;441;733;447;437;414;39.;093;417;37.;443;094;36.;00.;362
+retinal dystrophies	H35	mirna	362;363	NA	362;377
+mastocytosis, cutaneous	D47	mirna;symptom	238;273;289	NA	NA
+leukemia, myelomonocytic, chronic	C93	mirna;disgenet;symptom	206	NA	NA
+trachoma	A71	mirna;symptom	076	076	V73;076;099;077;139
+brain edema	G93	mirna	348;780;331	348	348
+invasive aspergillosis	B44	mirna	117;484;518	NA	NA
+leukemia, acute	C95	mirna	208		205;208;204;207;206
+colonic polyps	K63	mirna;disgenet;symptom	569;211	V18	V18;V12
+pigmentation disorders	L81	mirna;disgenet;symptom	709	NA	NA
+viremia	B34	mirna;disgenet	079;074;790	790	790
+cryptococcosis	B45	mirna;symptom	117;321		117
+tachycardia, ventricular	I47	mirna;disgenet;symptom	427	NA	427
+kidney tubular necrosis, acute	N17	mirna;symptom	584;583	NA	NA
+spherocytosis, hereditary	D58	mirna;symptom	282		282
+reflex sympathetic dystrophy	G90	mirna;symptom	337;742;333	337	337
+myotonic dystrophy type 1	G71	mirna	359	NA	NA
+peripheral vascular diseases	I73	mirna;disgenet;Ruiz2021;symptom	443;785		
+noma	A69	mirna;symptom	101;528;088;104		795;781;790;792;788;201;202;204;205;230;234;228;203;207;208;206;200;214;630;140;237;V19;233;232;231;172;385;492;524;746;747;758;756;743;521;E92;738;258;04.;748;157;600;759;242;617;528;367;755;750;742;757;744;654;653;754;652;751;752;753;745;701;379;362;762;786;626;631;785;740;442;522;787;368;783;648;388;794;796;763;661;374;655;529;252;251;246;240;575;705;703;257;289;607;599;271;593;259;580;359;577;602;621;443;378;275;520;704;288;307;364;372;429;280;272;348;709;426;270;286;666;375;287;335;718;V28;440;337;663;173;780;162;170;180;209;161;155;151;153;182;179;150;183;188;357;279;366;304;741;733;728;924;V90;998;39.;306;562;782;510;518;989;695;238;560;V89;610;800;829;E88;823;V13;804;447;727;660;365;459;870;603;V10;641;628;925;929;E98;993;940;949;910;516;830;749;273;V82;E90;218;535;89.;793;274;E91;761;185;702;706;685;176;35.;453;210;229;227;194;078;779;680;445;444;707
+thrombocythemia, essential	D47	mirna;disgenet;Ruiz2021;symptom	238;273;289		
+foot-and-mouth disease	B08	mirna	051;059;078;058;057;074		078;074
+hyperekplexia 1	G25	mirna	333	NA	NA
+retinitis pigmentosa	H35	mirna;disgenet	362;363	NA	362
+oral ulcer	K12	mirna	528;682	NA	528
+paramyotonia congenita of von eulenburg	G71	mirna	359	NA	NA
+amnesia	R41	mirna;disgenet;symptom	780;781;797;V62;799	NA	437;291;300;315;784
+sarcoidosis, pulmonary	D86	mirna;symptom	135	NA	NA
+ganglion cysts	M67	mirna;symptom	727		
+helicobacter pylori	B96	mirna	041	041	041
+mastocytoma, skin	D47	mirna	238;273;289	NA	NA
+aspergillosis	B44	mirna;disgenet;symptom	117;484;518		117;518;484
+neuromyelitis optica	G36	mirna;disgenet;symptom	341		341
+vesicular stomatitis	K12	mirna;disgenet	528;682	NA	074
+rheumatic heart disease	I09	mirna;symptom	398;397;393		391;393;398
+n acetyltransferase deficiency	E76	mirna	277	NA	NA
+edema	R60	mirna;disgenet;Ruiz2021	782	782	782;518;506;215;729;755;202;355;354;736;827;708;995;216;213;943;945;374;648;84.;810;348;200;232;428;996;747;372;371;243;928;927;377;362;344;260;992;478;575;376;608;607;128;757;646;040;778;642;457;379;353;201;923;924;907;906;015;956;955;172;171;170;195;819;884;894;500;828;820;879;337;196;818
+neutropenia	D70	mirna;disgenet;symptom	288	288	288;776;289
+stillbirth	P95	mirna	779	NA	V27
+stevens-johnson syndrome	L51	mirna;disgenet;Ruiz2021;symptom	695	695	695
+talipes	Q66	mirna	754;755		734;754;736
+myositis, inclusion body	G72	mirna;symptom	359		359
+brachial plexus injury	S14	mirna	952;V58;907;953;957;954		953;767
+malaria, falciparum	B50	mirna;disgenet;symptom	084		
+hydatidiform mole	O01	mirna;disgenet;Ruiz2021;symptom	630	630	630
+pulmonary edema	J81	mirna;disgenet;Ruiz2021;symptom	518;514	NA	506;518;428
+glucose intolerance	R73	mirna	790	NA	NA
+leukemia, biphenotypic, acute	C95	mirna;symptom	208	NA	NA
+endophthalmitis	H44	mirna	360	NA	360;098
+meningitis, fungal	G02	mirna	321	NA	NA
+pneumonia, aspiration	J69	mirna	507	NA	NA
+marfan syndrome	Q87	mirna;disgenet;symptom	755;756;759	759	759
+obsessive-compulsive disorder	F42	mirna;disgenet;symptom	300		300
+budd-chiari syndrome	I82	mirna;disgenet;symptom	453	453	453
+pneumonia, ventilator-associated	J95	mirna;symptom	519;518;997;998;512;V46		
+dermatitis, allergic contact	L23	mirna;disgenet;Ruiz2021;symptom	692	NA	NA
+ankle fractures	S82	mirna	822;V54;733;905;823;824;827		824
+anemia, diamond-blackfan	D61	mirna;disgenet;Ruiz2021;symptom	284	NA	NA
+urologic diseases	N39	mirna;symptom	599;625;788		349;599
+orofaciodigital syndromes	Q87	mirna;disgenet	755;756;759	NA	NA
+ophthalmoplegia, chronic progressive external	H49	mirna;symptom	378;277		
+hyphema	H21	mirna;symptom	364;360	364	364
+esophageal atresia	Q39	mirna	750	NA	750
+neuronal ceroid-lipofuscinoses	E75	mirna;disgenet;symptom	330;272	NA	NA
+skin ulcer	L98	mirna;disgenet;Ruiz2021	686;698;695;682;707;701;709	NA	006;707
+plasmablastic lymphoma	C83	mirna	200	NA	NA
+wiskott-aldrich syndrome	D82	mirna;disgenet;symptom	279	279	279
+cystitis	N30	mirna;disgenet;Ruiz2021;symptom	595	595	575;595;375;098;574;120;032;601;771;608;016
+complement component 7 deficiency	D84	mirna	279;277	NA	NA
+coproporphyria, hereditary	E80	mirna	277	NA	NA
+stress disorders, traumatic, acute	F43	mirna;symptom	308;309		
+mitral valve insufficiency	Q23	mirna	746	NA	396;394
+creutzfeldt-jakob disease, sporadic	A81	mirna;disgenet	046	NA	NA
+intracranial arteriovenous malformations	Q28	mirna	747	NA	NA
+trypanosomiasis, african	B56	mirna;symptom	086		
+citrullinemia	E72	mirna;disgenet;Ruiz2021;symptom	270;271	NA	NA
+corneal diseases	H18	mirna;disgenet;symptom	371		
+prion diseases	A81	mirna;disgenet	046	NA	046;045
+refractive errors	H52	mirna;disgenet;Ruiz2021;symptom	367	NA	NA
+cocaine-related disorders	F14	mirna;disgenet	305;292;304	NA	NA
+learning disabilities	F81	mirna;disgenet	315;V40	NA	NA
+maxillary sinusitis	J32	mirna	473	473	473;461
+cataract 32 multiple types	Q12	mirna	743	NA	NA
+facial nerve injuries	S04	mirna;symptom	950;V58;907;951		
+pneumonia, bacterial	J15	mirna;symptom	482;483		482
+acth syndrome, ectopic	E24	mirna;disgenet;symptom	255;253	NA	NA
+infectious mononucleosis	B27	mirna;symptom	075		075;780
+congenital myopathy 1a	G71	mirna	359	NA	NA
+striatonigral degeneration	G23	mirna;disgenet;symptom	333	NA	NA
+tooth, supernumerary	K00	mirna;symptom	520		
+cardiac allograft vasculopathy	T86	mirna	996	NA	NA
+encephalitis	G04	mirna	323;344;320	NA	323;062;063;130;045;99.;090;046;066;064;058;094;052;036;072;341;055;139;054;780;V05;071;056;013;364;363;049
+tooth, impacted	K01	mirna;symptom	520	NA	NA
+miliaria	L74	mirna;symptom	705	NA	705;078;018
+pemphigus, benign familial	Q82	mirna	757	NA	NA
+periprosthetic osteolysis	T84	mirna	996;V58;909;V54		996
+gingival overgrowth	K06	mirna;disgenet;symptom	523	NA	NA
+renal insufficiency	N28	mirna	593;590	586	036;584;255;585;588;586
+carotid artery injuries	S15	mirna;symptom	900;V58;908		
+weight loss	R63	mirna	783	783	799;783
+aniridia	Q13	mirna;disgenet;symptom	743		743
+hypospadias	Q54	mirna;disgenet;symptom	752	752	V13;752;58.
+pemphigoid, bullous	L12	mirna;symptom	694;695		
+conjunctival diseases	H11	mirna;disgenet	372		
+angina pectoris, variant	I20	mirna;symptom	411;413		
+salpingitis	N70	mirna;symptom	614	NA	381;098;614;016
+immunosuppression therapy	Z92	mirna	V15;V87;V45	NA	
+spinal dysraphism	Q05	mirna;symptom	741	741	741
+polyneuropathies	G62	mirna;symptom	357	NA	357
+corneal dystrophy, juvenile epithelial of meesmann	H18	mirna;disgenet	371		
+heart failure, diastolic	I50	mirna;disgenet;symptom	428		
+heart failure, systolic	I50	mirna;symptom	428		
+ovarian cysts	N83	mirna;disgenet;symptom	620	NA	620
+pancreatic neuroendocrine tumor	D13	mirna	211	NA	NA
+polymyositis	M33	mirna;disgenet;symptom	710;517;359		710;728
+scleroderma, diffuse	M34	mirna	710;517;359;357	710	710
+spinal cord diseases	G95	mirna;disgenet;symptom	336		
+thrombophlebitis	I80	mirna	451	NA	451;671;V12;325;453;670;437
+tracheal diseases	S12	mirna	805;V54;733;905;807	NA	NA
+gallbladder diseases	K82	mirna;symptom	575		
+encephalitis, tick-borne	A84	mirna;symptom	063		063
+viral myocarditis	B33	mirna	074;066;078;079	NA	NA
+hepatitis, chronic	K73	mirna;disgenet;symptom	571		571
+arteriovenous malformations	I77	mirna	447;443	NA	569
+ear diseases	H93	mirna;disgenet;symptom	388;315;V41		388;V80
+monoclonal gammopathy of undetermined significance	D47	mirna	238;273;289	NA	NA
+glossitis, benign migratory	K14	mirna;symptom	529		
+pulmonary emphysema	J43	mirna;disgenet;Ruiz2021;symptom	492		518;492
+microphthalmos	Q11	mirna;disgenet;symptom	743		743
+muscle weakness	M62	mirna	728;724	NA	438;781;728
+enteropathy-associated t-cell lymphoma	C86	mirna;disgenet	202;200	NA	NA
+pyoderma gangrenosum	L88	mirna;disgenet;symptom	686		686
+dental caries	K02	mirna;symptom	521	521	521
+fatigue syndrome, chronic	G93	mirna	348;780;331		
+toxoplasmosis, ocular	B58	mirna;symptom	130	NA	NA
+toxoplasmosis, cerebral	B58	mirna;symptom	130		
+strabismus	H50	mirna;Ruiz2021;symptom	378	378	378;368
+lymphoma, primary effusion	C83	mirna	200	NA	NA
+renal artery obstruction	N28	mirna	593;590	NA	NA
+vitreous hemorrhage	H43	mirna;Ruiz2021;symptom	379	379	379
+thalassemia	D56	mirna;symptom	282		282
+angina pectoris	I20	mirna;disgenet;Ruiz2021;symptom	411;413		413;411
+dysentery, bacillary	A03	mirna	004	NA	NA
+meningitis, escherichia coli	G00	mirna	320	NA	NA
+sunburn	L55	mirna;symptom	692	692	692
+familial erythrocytosis 2	D75	mirna	289	NA	NA
+cleft lip	Q36	mirna;symptom	749	749	749;27.
+hepatopulmonary syndrome	K76	mirna;symptom	571;573;570;572		573
+ehlers-danlos syndrome	Q79	mirna;disgenet;symptom	756		756
+holt-oram syndrome	Q87	mirna;disgenet	755;756;759	NA	NA
+coxsackievirus infections	B34	mirna;disgenet	079;074;790	NA	NA
+kidney cortex necrosis	N17	mirna;symptom	584;583	NA	NA
+hyperinsulinism	E16	mirna;disgenet;Ruiz2021	251	NA	NA
+hyperkalemia	E87	mirna;disgenet;Ruiz2021;symptom	276	276	276
+hemoglobinopathies	D58	mirna;disgenet	282	NA	282;V78
+periodontal cyst	K09	mirna	526;528	NA	522
+poisoning	T65	mirna	989;E86;V58;909;E92;E95;E96;E98;982	NA	V82;E86;E85;961;972;975;968;962;983;963;971;964;977;969;970;965;960;966;973;985;E96;005;978;967;790;038;982;974;E90;976;003;988;V15;800;E98;E92;909;905;984;979;292;981;987;980;989;E95;E00
+tuberculosis, meningeal	A17	mirna;symptom	013;017		
+arsenic poisoning	T57	mirna;disgenet;Ruiz2021;symptom	985;E86;V58;909;E95;E96;E98;983;987;989		985
+choroid diseases	H31	mirna;symptom	363;362		
+femoral fractures	S72	mirna;symptom	820;V54;733;905;821	NA	820
+echinococcosis, hepatic	B67	mirna;symptom	122		
+intermittent claudication	I73	mirna;Ruiz2021	443;785	NA	440
+urinary calculi	N20	mirna;symptom	592		V13;592
+hyperoxaluria	R82	mirna;disgenet	791;796	NA	NA
+epidural abscess	G06	mirna	324	NA	NA
+brucellosis, bovine	A23	mirna;symptom	023		
+tibial neuropathy	G57	mirna	355	NA	355
+peritonsillar abscess	J36	mirna;symptom	475		28.;475
+atopic asthma	J45	mirna	493	493	493
+altitude sickness	T70	mirna;symptom	993;V58;909	NA	NA
+deglutition disorders	R13	mirna;disgenet;symptom	787		787
+chondrocalcinosis	M11	mirna	712	712	712
+opioid-related disorders	F11	mirna;disgenet	305;292;304	NA	NA
+fibromatosis, gingival	K06	mirna	523	NA	NA
+hyperostosis, diffuse idiopathic skeletal	M48	mirna;symptom	724;723;721;733;V54;905;720		
+erythroblastosis, fetal	P55	mirna;symptom	773		
+pruritus	L29	mirna;disgenet;Ruiz2021;symptom	698	698	698;976
+sleep deprivation	Z72	mirna;disgenet;symptom	V69;V71	NA	NA
+carcinoma, intraductal, noninfiltrating	D05	mirna;symptom	233	NA	NA
+congenital abnormalities	Q89	mirna;symptom	759		740;759;654;742
+muscular dystrophy, oculopharyngeal	G71	mirna;disgenet	359	NA	NA
+arbovirus infections	A94	mirna	066		060;066
+giardiasis	A07	mirna;symptom	007;136		007
+chronic urticaria	L50	mirna	708	NA	NA
+hyperandrogenism	E28	mirna	256	NA	NA
+leukoencephalopathy, progressive multifocal	A81	mirna;symptom	046		
+sleep initiation and maintenance disorders	G47	mirna;Ruiz2021	780;327;347	NA	NA
+urinary bladder, overactive	N32	mirna;symptom	596		
+glucose-galactose malabsorption	E74	mirna	271	NA	NA
+hyperphagia	R63	mirna;disgenet	783		783
+fissure in ano	K60	mirna;symptom	565		
+hemorrhagic disorders	D69	mirna;disgenet;Ruiz2021;symptom	287		287
+hereditary fructose intolerance syndrome	E74	mirna;disgenet	271		
+cholera	A00	mirna;symptom	001	001	001;V02;V01;E94;99.;978;V06;V03;V74
+furunculosis	L02	mirna	682;680;681	NA	NA
+peptic ulcer	K27	mirna;disgenet;Ruiz2021;symptom	533		533;532;V12;44.
+dentin dysplasia	K00	mirna	520	NA	NA
+panic disorder	F41	mirna;disgenet;symptom	300	NA	300
+adenoviridae infections	B34	mirna;symptom	079;074;790	NA	NA
+tuberculosis, spinal	A18	mirna;symptom	015;711;720;730;737;016;601;017;014;379;370;363;364;420;422;424;425		
+neurosyphilis	A52	mirna;symptom	093;094;357;713;095;096;097		094;090
+niemann-pick disease type c1	E75	mirna	330;272	NA	NA
+hyperoxaluria, primary	E72	mirna;symptom	270;271	NA	NA
+agammaglobulinemia	D80	mirna	279	NA	279
+recessive dystrophic epidermolysis bullosa	Q81	mirna	757	NA	NA
+leukemia, myeloid, chronic, atypical, bcr-abl negative	C92	mirna;disgenet;symptom	205		
+dilated cardiomyopathy	I42	mirna	425	NA	425;674
+d-bifunctional protein deficiency	E71	mirna	270;272;277	NA	NA
+humeral fractures	S42	mirna;symptom	810;V54;733;905;811;812		812
+spastic paraplegia, hereditary	G11	mirna;disgenet;symptom	334		334
+kidney diseases, cystic	Q61	mirna;symptom	753	NA	NA
+coronary aneurysm	I25	mirna;disgenet;symptom	414;429;411;413;412		414
+still's disease, adult-onset	M06	mirna;symptom	714	NA	NA
+vitamin a deficiency	E50	mirna;disgenet;Ruiz2021;symptom	264		264
+chromosome 5q deletion syndrome	D46	mirna	238	NA	NA
+congenital heart block	Q24	mirna	746		746
+adiposis dolorosa	E88	mirna	273;272;277	NA	NA
+malaria, cerebral	B50	mirna	084	NA	NA
+parkinson disease, secondary	G21	mirna;symptom	333;332		332
+rheumatic diseases	M79	mirna;symptom	729;719	NA	397
+social communication disorder	F80	mirna;disgenet	315	NA	NA
+facial nerve diseases	G51	mirna;symptom	351		
+autosomal recessive osteopetrosis 7	Q78	mirna	756	NA	NA
+lymphangioleiomyomatosis	J84	mirna;disgenet;Ruiz2021;symptom	516;515		516
+condylar hyperplasia	M27	mirna	526;525	NA	NA
+brain stem neoplasms	C71	mirna	191	NA	NA
+spinal curvatures	M43	mirna	738;724;718;723;737		
+placental insufficiency	O36	mirna	656;V23;655;678	NA	656
+varicose ulcer	I83	mirna	454	NA	454
+aids dementia complex	F02	mirna	294	NA	NA
+gingivitis	K05	mirna;Ruiz2021	523	NA	523
+schistosomiasis japonica	B65	mirna;symptom	120		
+thyroiditis, subacute	E06	mirna;symptom	245		
+purpura, thrombocytopenic, idiopathic	D69	mirna;symptom	287		
+hepatomegaly	R16	disgenet	789		789
+alzheimer's disease	G30	disgenet;Ruiz2021	331	331	331
+malignant tumor of colon	C18	disgenet;Ruiz2021	153		153
+presenile dementia	F03	disgenet	290;294		290;331
+mental depression	F32	disgenet	296;298;311	NA	NA
+kidney failure, acute	N17	disgenet;Ruiz2021	584;583		
+fibrosis, liver	K74	disgenet	571	NA	NA
+malignant neoplasm of lung	C34	disgenet	162	NA	197
+alzheimer disease, late onset	G30	disgenet	331	NA	NA
+alzheimer disease, early onset	G30	disgenet	331	NA	NA
+acute kidney insufficiency	N28	disgenet	593;590	NA	NA
+liver carcinoma	C22	disgenet	155	NA	NA
+alcoholic intoxication, chronic	F10	disgenet;Ruiz2021	305;291;303		
+malignant neoplasm of urinary bladder	C67	disgenet;Ruiz2021	188		188
+malignant neoplasms	C80	disgenet	199		200;191;V76;199;170;184;140;187;160;202
+neoplasms	D49	disgenet	239		199;140;210;229;200;227;194;154;225;217;211;212;219;221;188;191;239;180;192;216;377;V16;V76;150;183;156;155;159;161;170;184;187;160;145;164;258;203;209;235;224;202;215;220;V10;222;185;142;152;186;226;193
+adverse reaction to drug	T88	disgenet	999;V58;909;995	NA	E94
+benign neoplasm	D36	disgenet	229;215		210;221;229;216;227;223;225;217;224;211;212;219;213;222;220;226;V12;215
+malignant neoplasm of prostate	C61	disgenet;Ruiz2021	185		V10;V84;V76;V16;185
+malignant neoplasm of breast	C50	disgenet;Ruiz2021	174;175	NA	V16;V10;V84;174;198
+coronary arteriosclerosis	I25	disgenet;Ruiz2021	414;429;411;413;412		414
+diastematomyelia	Q06	disgenet	742		742
+drug allergy	T88	disgenet;Ruiz2021	999;V58;909;995	NA	995;V14
+iniencephaly	Q00	disgenet	740		740
+craniorachischisis	Q00	disgenet	740		
+spinal cord myelodysplasia	Q06	disgenet	742	NA	NA
+malignant neoplasm of liver	C22	disgenet	155		V10;155;197
+acrania	Q00	disgenet	740	NA	804;324;803;853;851;432;88.;228;437;348;801;800;02.;377;430;907;326;854;38.;39.;852;325;01.;013;850;00.;433;17.
+lipoidosis	E75	disgenet	330;272		330;272;362
+delayed sleep phase syndrome	G47	disgenet	780;327;347		
+advanced sleep phase syndrome	G47	disgenet	780;327;347		327
+sleep disorders, circadian rhythm	G47	disgenet;Ruiz2021;symptom	780;327;347		
+gastroesophageal reflux disease	K21	disgenet	530	530	530
+lethargy	R53	disgenet	780;799	NA	NA
+reflex, abnormal	R29	disgenet;symptom	781;796;719;729		
+gamma aminobutyric acid transaminase deficiency	E72	disgenet	270;271	NA	NA
+tonic - clonic seizures	G40	disgenet;Ruiz2021	345	NA	NA
+global developmental delay	F88	disgenet	315	NA	NA
+convulsive seizures	R56	disgenet	780	NA	NA
+convulsions	R56	disgenet	780	780	780;779;345;642
+hypercholesterolemia, familial	E78	disgenet;Ruiz2021	272;759	NA	NA
+tangier disease	E78	disgenet	272;759	NA	NA
+hypoalphalipoproteinemias	E78	disgenet;Ruiz2021	272;759	NA	NA
+hyperlipoproteinemia type iia	E78	disgenet;Ruiz2021	272;759	NA	NA
+hyperlipoproteinemia type iib	E78	disgenet;Ruiz2021	272;759	NA	NA
+hyaline membrane disease	P22	disgenet	769;770	NA	NA
+pulmonary hypertension	I27	disgenet;Ruiz2021	416	NA	416;747
+hamman-rich syndrome	J84	disgenet	516;515	NA	NA
+sideroblastic anemia	D64	disgenet	285		285
+ataxia	R27	disgenet;symptom	781	438	438;334;094;356
+abnormal coordination	R27	disgenet	781		
+allergic reaction	T78	disgenet;Ruiz2021	995;V58;909;988	NA	NA
+cleft upper lip	Q36	disgenet	749		749
+disorder of eye	H44	disgenet;Ruiz2021	360		360;374;379;250;378
+age related macular degeneration	H35	disgenet;Ruiz2021	362;363		
+stargardt's disease	H35	disgenet;Ruiz2021	362;363	NA	NA
+congenital heart defects	Q24	disgenet;Ruiz2021	746		746
+syndactyly	Q70	disgenet;symptom	755	755	755;86.
+malignant neoplasm of esophagus	C15	disgenet	150		150;V10
+hypertensive disease	I10	disgenet;Ruiz2021	401		401;997;760
+cardiac hypertrophy	I51	disgenet	429	NA	NA
+cerebrovascular accident	I63	disgenet	433;434	NA	V17;431;674
+alcohol abuse	F10	disgenet	305;291;303	305	V61;305;303
+malignant neoplasm of pancreas	C25	disgenet;Ruiz2021	157		157
+diverticular diseases	K57	disgenet	562;569	NA	NA
+congestive heart failure	I50	disgenet;Ruiz2021	428		428;404;398
+left-sided heart failure	I50	disgenet;Ruiz2021	428		428
+heart failure, right-sided	I50	disgenet	428	NA	NA
+rhabdomyolysis	M62	disgenet;symptom	728;724	728	728
+medium-chain acyl-coenzyme a dehydrogenase deficiency	E71	disgenet;Ruiz2021	270;272;277	NA	NA
+necrotizing enterocolitis	K55	disgenet	557;569	NA	777
+deficiency of butyryl-coa dehydrogenase	E71	disgenet	270;272;277	NA	NA
+hypoxemia	R09	disgenet	799;511;786;478;784;785		799;770;327
+cerebral ischemia	I67	disgenet;Ruiz2021	443;437;046;348;435;436	NA	435
+learning disorders	F81	disgenet	315;V40	NA	NA
+muscular dystrophy	G71	disgenet	359	NA	359;378
+tremor	R25	disgenet;symptom	781;729	NA	333
+amphetamine-related disorders	F15	disgenet	305;292;304	NA	NA
+developmental academic disorder	F81	disgenet	315;V40	NA	NA
+respiratory distress syndrome, adult	J80	disgenet;Ruiz2021;symptom	518	NA	NA
+major depressive disorder	F32	disgenet;Ruiz2021	296;298;311	NA	296
+acid phosphatase deficiency	E83	disgenet	275;686	NA	NA
+juvenile-onset still disease	M08	disgenet	714;720	NA	NA
+juvenile arthritis	M08	disgenet;Ruiz2021	714;720	NA	714
+myopathies, nemaline	G71	disgenet	359	NA	NA
+congenital fiber type disproportion	G71	disgenet	359	NA	NA
+systemic scleroderma	M34	disgenet;Ruiz2021	710;517;359;357		710
+congenital ocular coloboma (disorder)	Q13	disgenet	743	NA	NA
+sensorineural hearing loss (disorder)	H90	disgenet	389		NA
+carcinomatosis	C80	disgenet	199	NA	NA
+sensory hearing loss	H90	disgenet	389	389	389
+malignant neoplasm of stomach	C16	disgenet	151		V10;151
+blepharoptosis	H02	disgenet;symptom	374		374;743;08.
+macrostomia	Q18	disgenet;symptom	744		744
+congenital coloboma of iris	Q13	disgenet	743	NA	NA
+hearing impairment	H91	disgenet	389;388		389;744;388
+fibrodysplasia ossificans progressiva	M61	disgenet	728		728
+situs inversus	Q89	disgenet;symptom	759		759
+epistaxis	R04	disgenet;symptom	784;786	784	784;21.
+hereditary hemorrhagic telangiectasia	I78	disgenet	448		448
+pulmonary arteriovenous fistulas	I28	disgenet	417		
+congenital pulmonary arteriovenous malformation	Q25	disgenet	747		
+idiopathic pulmonary arterial hypertension	I27	disgenet	416	416	416
+adenosine deaminase deficiency	D81	disgenet	279;277;266	NA	NA
+manic	F30	disgenet	296	NA	V11;296;301;717
+diabetes mellitus, non-insulin-dependent	E11	disgenet;Ruiz2021	250;362;366;357;355;536;353;349;443;785;713;716;523	NA	NA
+ulcerative colitis	K51	disgenet;Ruiz2021	556;560;569		556
+leukemia, myelocytic, acute	C92	disgenet;Ruiz2021	205		
+acute myeloid leukemia, m1	C92	disgenet;Ruiz2021	205	NA	NA
+acute myeloid leukemia (aml-m2)	C92	disgenet	205	NA	NA
+miosis disorder	H57	disgenet	379;V41		
+encephalopathy, toxic	G92	disgenet	323;349		
+toxic encephalitis	G92	disgenet	323;349	NA	323
+overactive bladder	N32	disgenet;Ruiz2021	596		596
+nonalcoholic steatohepatitis	K75	disgenet	572;573;571	NA	NA
+malignant neoplasm of larynx	C32	disgenet	161		V10;161
+malignant neoplasm of mouth	C06	disgenet	145		145
+malignant neoplasm of pharynx	C14	disgenet	149		149
+profound mental retardation	F73	disgenet	318	NA	NA
+mental deficiency	F79	disgenet	319	NA	318
+glomerulonephritis	N05	disgenet	583	NA	580;582;446;581;583
+septicemia	A41	disgenet;Ruiz2021	038;995		038;036;022;054;771;670;003;995;659
+gastric ulcer	K25	disgenet;Ruiz2021	531	531	531;44.
+severe sepsis	R65	disgenet	995;785		995
+transient ischemic attack	G45	disgenet	435;362;437	435	V12;435
+middle cerebral artery syndrome	G46	disgenet	435;437	NA	NA
+transient cerebral ischemia	G45	disgenet;Ruiz2021	435;362;437	435	435
+rheumatoid arthritis	M06	disgenet;Ruiz2021	714		V82;714;720
+primary insomnia	F51	disgenet	307;327	NA	NA
+panic attacks	F41	disgenet	300	NA	300
+depression, neurotic	F34	disgenet	301;300;296	NA	NA
+sleeplessness	G47	disgenet;Ruiz2021	780;327;347		780
+anxiety neurosis (finding)	F41	disgenet	300	NA	NA
+toxic epidermal necrolysis	L51	disgenet	695	695	695
+kyphosis deformity of spine	M40	disgenet	737	NA	NA
+pseudopelade	L66	disgenet	704;697;701	NA	NA
+androgenetic alopecia	L64	disgenet	704	NA	NA
+atheroma	I70	disgenet	440;707;785	NA	440;445;414
+alopecia, male pattern	L64	disgenet;Ruiz2021	704	NA	NA
+cannabis dependence	F12	disgenet	305;292;304		304
+cocaine abuse	F14	disgenet	305;292;304		305
+cocaine dependence	F14	disgenet	305;292;304		304
+cyanosis	R23	disgenet	782	782	782;289;443
+diabetes mellitus	E08	disgenet;Ruiz2021	249;581;362;366;357;355;536;353;349;443;785;713;716;709;523;528;251		V18;V77;250;366;775;648;249;362;357
+hiv infections	B20	disgenet;symptom	042		042
+hyperlipidemia	E78	disgenet;Ruiz2021	272;759	NA	272
+hypokalemia	E87	disgenet;Ruiz2021;symptom	276	276	276
+viral encephalitis	A86	disgenet	049	NA	062;063;139;V05;99.;052;049;064
+congenital abnormality	Q89	disgenet	759		740;759;744;743;748;752;751;756;755;742;753;750;747
+skin abnormalities	Q82	disgenet;symptom	757	NA	NA
+aspartylglucosaminuria	E77	disgenet	272;271	NA	NA
+bagassosis	J67	disgenet	495		
+centriacinar emphysema	J43	disgenet	492	NA	NA
+panacinar emphysema	J43	disgenet	492	NA	NA
+glycogen storage disease	E74	disgenet;symptom	271		271
+glycogen storage disease type iii	E74	disgenet;symptom	271	NA	NA
+deafness	H91	disgenet	389;388	NA	V19;389;388
+eye abnormalities	Q15	disgenet;symptom	365;743		743
+alagille syndrome	Q44	disgenet	751	NA	NA
+alkalosis	E87	disgenet;symptom	276	276	276;255
+cardiac arrhythmia	I49	disgenet;Ruiz2021	427	427	427
+diaphragmatic hernia	K44	disgenet	552;551;553	553	53.;553;551;552
+kidney failure	N19	disgenet;Ruiz2021	586		584;669;585;404;586;639
+impaired glucose tolerance	R73	disgenet;Ruiz2021	790	NA	790
+dissection of aorta	I71	disgenet	441		441
+spontaneous abortion	O03	disgenet;Ruiz2021	634		634
+abortion, tubal	O00	disgenet	633	NA	NA
+patent ductus arteriosus	Q25	disgenet	747	747	747
+corpus luteum cyst	N83	disgenet	620	620	620
+primary hyperoxaluria	E72	disgenet	270;271	NA	NA
+hypogonadotropic hypogonadism	E23	disgenet;Ruiz2021	253;628	758	758
+amino acid metabolism, inborn errors	E72	disgenet;symptom	270;271		
+hypermethioninemia	E72	disgenet	270;271	NA	NA
+urinary bladder calculi (disorder)	N21	disgenet	594	NA	NA
+contact dermatitis	L25	disgenet;Ruiz2021	692	NA	692;373
+hyperventilation	R06	disgenet;symptom	786;784		786
+male infertility	N46	disgenet;Ruiz2021	606	606	628;606
+metabolic diseases	E88	disgenet;symptom	273;272;277		240;V18;277
+nicotine dependence	F17	disgenet	305;292	NA	NA
+silicosis	J62	disgenet;symptom	502		500;502
+splenomegaly	R16	disgenet	789		789;289;714
+malignant neoplasm of ureter	C66	disgenet	189		189;188
+congenital nystagmus	H55	disgenet	379		379
+bare lymphocyte syndrome	D81	disgenet	279;277;266	NA	NA
+cannabis abuse	F12	disgenet	305;292;304		305
+acute promyelocytic leukemia	C92	disgenet	205	NA	NA
+cutaneous melanoma	C43	disgenet	172	172	172
+cannabis-related disorder	F12	disgenet	305;292;304	NA	NA
+neoplasm of uncertain or unknown behavior of ovary	D39	disgenet	236		
+neoplasm of uncertain or unknown behavior of breast	D48	disgenet	238;235		
+malignant neoplasm of ovary	C56	disgenet;Ruiz2021	183		V10;V84;V76;V16;183;198
+benign tumor of pancreas	D13	disgenet	211	NA	NA
+hematological disease	D75	disgenet	289		289;280
+lead poisoning	T56	disgenet;symptom	984;E86;V58;909;E95;E96;980;985;E98		984
+disorders of porphyrin metabolism	E80	disgenet	277		
+x-linked sideroblastic anemia	D64	disgenet	285	NA	NA
+angioedema	T78	disgenet;Ruiz2021;symptom	995;V58;909;988	NA	708
+primary biliary cirrhosis	K74	disgenet;Ruiz2021	571	NA	NA
+membranous glomerulonephritis	N03	disgenet	582	NA	582;583;581
+hemolytic-uremic syndrome	D59	disgenet;symptom	283		283
+hiv seropositivity	Z21	disgenet	V08	NA	NA
+biliary cirrhosis	K74	disgenet;Ruiz2021	571	571	571
+aseptic meningitis	G03	disgenet	322;047;997	NA	047;094
+myopathy	G72	disgenet;Ruiz2021	359		425;359;086;674;429;376;378;358
+rhinitis, allergic, perennial	J30	disgenet;Ruiz2021	477	NA	NA
+serum sickness	T80	disgenet;Ruiz2021;symptom	999;V58;909	NA	NA
+nephritis, tubulointerstitial	N12	disgenet	590	NA	NA
+encephalopathies	G93	disgenet	348;780;331		348;572;768;046;349
+secondary biliary cholangitis	K74	disgenet	571	NA	NA
+adrenomyeloneuropathy	E71	disgenet	270;272;277	NA	NA
+creutzfeldt-jakob disease	A81	disgenet	046	046	046
+new variant creutzfeldt-jakob disease	A81	disgenet	046		
+creutzfeldt-jakob disease, familial	A81	disgenet	046	NA	NA
+flushing	R23	disgenet	782	782	782;96.
+freckles	L81	disgenet	709	NA	NA
+chloasma	L81	disgenet	709	NA	374
+alcohol-related disorders	F10	disgenet	305;291;303	NA	NA
+paranoid schizophrenia	F20	disgenet	295		295
+diffuse large b-cell lymphoma	C83	disgenet;Ruiz2021	200	NA	NA
+malignant neoplasm of brain	C71	disgenet	191		V10;191;198
+ki-1+ anaplastic large cell lymphoma	C84	disgenet	202;200		NA
+benign neoplasm of brain, unspecified	D33	disgenet	225		
+anaplastic large cell lymphoma, alk-positive	C84	disgenet	202;200	NA	NA
+congenital ichthyosis	Q80	disgenet	757	757	757
+congenital nonbullous ichthyosiform erythroderma	Q80	disgenet	757	NA	NA
+harlequin fetus	Q80	disgenet	757	NA	NA
+hypophosphatasia	E83	disgenet	275;686	NA	NA
+muscle amp deaminase deficiency	E79	disgenet	790;277	NA	NA
+mild cognitive disorder	G31	disgenet	331;330	NA	NA
+nonketotic hyperglycinemia	E72	disgenet	270;271	NA	NA
+hereditary spherocytosis	D58	disgenet	282		282
+brugada syndrome (disorder)	I49	disgenet	427	NA	NA
+fetal alcohol syndrome	Q86	disgenet;symptom	760	760	760
+nonorganic psychosis	F29	disgenet	298	NA	NA
+libman-sacks disease	M32	disgenet	710;424;420;517;583	NA	NA
+leukocytosis	D72	disgenet;Ruiz2021	288	288	288
+benign neoplasm of stomach	D13	disgenet	211		211
+carcinoma in situ of stomach	D00	disgenet	230	230	230
+adenomatous polyps	D28	disgenet	221	NA	NA
+intestinal cancer	C26	disgenet	159		159
+malignant central nervous system neoplasm	C72	disgenet	192	NA	NA
+neoplasm of uncertain or unknown behavior of stomach	D37	disgenet	235	NA	NA
+malignant neoplasm of gastrointestinal tract	C26	disgenet	159	NA	V16;V10
+candidiasis	B37	disgenet;symptom	112;995		112;771
+polyendocrinopathies, autoimmune	E31	disgenet;symptom	258	NA	NA
+autoimmune syndrome type ii, polyglandular	E31	disgenet	258	NA	NA
+chronic lymphocytic leukemia	C91	disgenet	204;202		204
+mucosa-associated lymphoid tissue lymphoma	C88	disgenet	273;203;200;238	NA	NA
+x-linked lymphoproliferative disorder	D82	disgenet	279	NA	NA
+acute megakaryocytic leukemias	C94	disgenet	207;238		
+adult t-cell lymphoma/leukemia	C91	disgenet	204;202	NA	NA
+coronary heart disease	I25	disgenet;Ruiz2021	414;429;411;413;412	414	414
+familial hypobetalipoproteinemia	E78	disgenet	272;759	NA	NA
+hyperlipoproteinemia type i	E78	disgenet;symptom	272;759		272
+neurodegenerative disorders	G31	disgenet	331;330	NA	NA
+delirium	R41	disgenet;symptom	780;781;797;V62;799	NA	291;290;292;293
+mercury poisoning	T56	disgenet;symptom	984;E86;V58;909;E95;E96;980;985;E98		985
+pustulosis of palms and soles	L40	disgenet	696;694	NA	NA
+cerebral amyloid angiopathy	I68	disgenet;symptom	437	NA	NA
+dissociative amnesia	F44	disgenet	300;298		300
+urolithiasis	N20	disgenet;Ruiz2021	592	592	274;592;594
+chronic kidney diseases	N18	disgenet	585		
+benign prostatic hypertrophy	N40	disgenet	600		600
+benign prostatic hyperplasia	N40	disgenet	600	NA	600
+prostatic hypertrophy	N40	disgenet	600	600	600
+hypersplenism	D73	disgenet;symptom	289		289
+hyperlipidemia, familial combined	E78	disgenet;Ruiz2021	272;759	NA	NA
+choledochal cyst	Q44	disgenet;symptom	751	NA	NA
+autosomal recessive polycystic kidney disease	Q61	disgenet	753		753
+toxic shock syndrome	A48	disgenet	040;482		040
+nephrogenic diabetes insipidus	N25	disgenet	588	588	588
+malignant neoplasm of tongue	C02	disgenet	141		V10;141
+genital diseases, male	N50	disgenet;symptom	608;607		608;600
+female infertility	N97	disgenet;Ruiz2021	628		628
+androgen-insensitivity syndrome	E34	disgenet;symptom	259;253		259
+gestational diabetes	O24	disgenet	648	NA	648;V12
+reifenstein syndrome	E34	disgenet	259;253		259
+prostatic intraepithelial neoplasias	N42	disgenet	602;600	NA	NA
+female sterility	N97	disgenet	628	NA	NA
+testicular feminization	E34	disgenet	259;253	NA	259
+erythropoietic protoporphyria	E80	disgenet;Ruiz2021	277	NA	NA
+asbestosis	J61	disgenet	501		501
+hyperargininemia	E72	disgenet;symptom	270;271	NA	NA
+angioimmunoblastic lymphadenopathy	C86	disgenet	202;200	NA	NA
+peripheral t-cell lymphoma	C84	disgenet	202;200		202
+congenital diaphragmatic hernia	Q79	disgenet	756	NA	NA
+neurocutaneous syndromes	Q85	disgenet;symptom	237;759	NA	NA
+aplasia cutis congenita	Q84	disgenet	757	NA	NA
+anhydrotic ectodermal dysplasias	Q82	disgenet	757	NA	NA
+combined immunodeficiency	D81	disgenet	279;277;266		279
+multiple congenital anomalies	Q89	disgenet	759	NA	759
+leukodystrophy, metachromatic	E75	disgenet;symptom	330;272	NA	NA
+ichthyosis, x-linked	Q80	disgenet;symptom	757	NA	NA
+attention deficit hyperactivity disorder	F90	disgenet	314		314
+chondrodysplasia punctata	Q77	disgenet;symptom	756	NA	NA
+shprintzen syndrome	Q93	disgenet	758	279;758	279;758
+hydrops fetalis	P83	disgenet	778	NA	778;773
+paroxysmal atrial fibrillation	I48	disgenet;Ruiz2021	427	NA	NA
+persistent atrial fibrillation	I48	disgenet	427	NA	NA
+deep vein thrombosis	I82	disgenet	453	NA	671;452
+antithrombin iii deficiency	D68	disgenet;Ruiz2021	286;289	NA	NA
+influenza	J11	disgenet	487	487	083;488;041;482;038;487;99.;480;320;V03;V04;V06;760
+blindness, transient	H53	disgenet	368		368
+blindness both eyes nos (disorder)	H54	disgenet	369;V41		NA
+benign neoplasm of bladder	D30	disgenet	223		
+carcinoma in situ of bladder	D09	disgenet	233;234		233
+neoplasm of uncertain or unknown behavior of bladder	D41	disgenet	236		
+t-cell prolymphocytic leukemia	C91	disgenet	204;202	NA	NA
+vestibular diseases	H81	disgenet;symptom	386	NA	NA
+hypomagnesemia	E83	disgenet;Ruiz2021	275;686	NA	775
+conn syndrome	E26	disgenet	255		
+arthrogryposis	Q74	disgenet;symptom	755;754	NA	NA
+comatose	R40	disgenet	780;NoD	780	759;780;176
+microcephaly	Q02	disgenet;symptom	742	742	742
+hypokalemic periodic paralysis	G72	disgenet	359	NA	NA
+anthracosis	J60	disgenet;symptom	500		500
+magnesium deficiency	E61	disgenet;Ruiz2021;symptom	269	NA	NA
+keratosis follicularis	E50	disgenet;Ruiz2021	264	NA	NA
+lymphoma, mixed-cell, follicular	C82	disgenet	202	NA	NA
+lymphoma, follicular, grade 1	C82	disgenet	202	NA	NA
+cutis laxa	Q82	disgenet	757	NA	NA
+aortic aneurysm, ruptured	I71	disgenet	441		441
+malignant neoplasm of endometrium	C54	disgenet	182	NA	V84
+seckel syndrome	Q87	disgenet	755;756;759	NA	NA
+carcinoma in situ of endometrium	D07	disgenet	233	NA	NA
+chronic myeloproliferative disorder	D47	disgenet	238;273;289	NA	NA
+penile diseases	N48	disgenet;symptom	607		
+bilateral cryptorchidism	Q53	disgenet	752	NA	NA
+unilateral cryptorchidism	Q53	disgenet	752	NA	NA
+pancreatic endocrine carcinoma	C25	disgenet	157		157
+myelodysplastic syndrome	D46	disgenet;Ruiz2021	238	238	238
+diabetes insipidus	E23	disgenet;Ruiz2021;symptom	253;628	253	253;588
+dysmenorrhea	N94	disgenet;Ruiz2021;symptom	625;629	625	306;625
+portal hypertension	K76	disgenet	571;573;570;572	572	572
+hyponatremia	E87	disgenet;Ruiz2021	276	NA	276
+hypovolemic shock	R57	disgenet	785	NA	NA
+inappropriate adh syndrome	E22	disgenet;Ruiz2021;symptom	253	NA	NA
+polyuria	R35	disgenet;symptom	788		788
+psychosis, brief reactive	F23	disgenet	298	NA	NA
+schizoaffective disorder	F25	disgenet;Ruiz2021	295		295
+schizophreniform disorders	F20	disgenet	295		295
+shock	R57	disgenet;symptom	785		998;785;E87;308;637;636;635;634;995;493;638;99.;94.;98.;E00;59.;040;669;639;958
+congenital adrenal hyperplasia	E25	disgenet;Ruiz2021	255	NA	NA
+autism spectrum disorders	F84	disgenet	299;330	NA	NA
+sinusitis	J32	disgenet;Ruiz2021	473	NA	473;461;993;477
+congenital small ears	Q17	disgenet	744		
+uterine cancer	C55	disgenet	179	179	179;182
+maple syrup urine disease	E71	disgenet;symptom	270;272;277	NA	NA
+apnea	R06	disgenet;Ruiz2021	786;784	786	770;786;780;327
+muscular fasciculation	R25	disgenet	781;729	NA	NA
+secondary parkinson disease	G21	disgenet;Ruiz2021	333;332		
+bowen's disease	D00	disgenet	230	NA	233
+von hippel-lindau syndrome	Q85	disgenet	237;759	NA	NA
+hyperparathyroidism	E21	disgenet;Ruiz2021;symptom	252	252	252;588
+malignant neoplasm of cecum	C18	disgenet	153		153
+schwartz-jampel syndrome	G71	disgenet	359		359
+malignant neoplasm of gallbladder	C23	disgenet	156		156
+angioendotheliomatosis	C83	disgenet	200	NA	NA
+bipolar i disorder	F31	disgenet	296	NA	296
+mediastinal (thymic) large b-cell lymphoma	C85	disgenet	202;200	NA	NA
+color blindness, blue	H53	disgenet	368		
+myeloproliferative disease	D47	disgenet;Ruiz2021	238;273;289	NA	238
+complement deficiency disease	D84	disgenet	279;277	NA	NA
+abruptio placentae	O45	disgenet;symptom	641		641
+sicca syndrome	M35	disgenet	710;517;359;583;136;711;725;728;729		710
+acute lymphocytic leukemia	C91	disgenet;Ruiz2021	204;202	204	204
+miller dieker syndrome	Q93	disgenet	758	NA	NA
+craniosynostosis	Q75	disgenet	756	NA	NA
+acrocephaly	Q75	disgenet	756	NA	NA
+trigonocephaly	Q75	disgenet	756	NA	NA
+hereditary hemochromatosis	E83	disgenet	275;686		275
+cleft palate with cleft lip	Q37	disgenet	749		749
+unilateral agenesis of kidney	Q60	disgenet	753	NA	NA
+premature menopause	E28	disgenet;Ruiz2021	256	256	256
+idiopathic pulmonary hypertension	I27	disgenet	416	416	416
+epidermolysis bullosa simplex	Q81	disgenet;symptom	757	NA	NA
+malignant neoplasm of thyroid	C73	disgenet	193		V10;193
+histiocytosis, langerhans-cell	C96	disgenet;symptom	202;277	NA	NA
+hairy cell leukemia	C91	disgenet;Ruiz2021	204;202		202
+melanocytic nevus	D22	disgenet	216	NA	NA
+noonan syndrome	Q87	disgenet;Ruiz2021	755;756;759	NA	NA
+pancytopenia	D61	disgenet	284		284
+chronic obstructive airway disease	J44	disgenet;Ruiz2021	491;493;496	NA	NA
+hypogammaglobulinemia	D80	disgenet	279		279
+hepatic coma	K72	disgenet	570;572	NA	070;572
+hepatic encephalopathy	K72	disgenet	570;572		572
+chronic liver failure	K72	disgenet	570;572	NA	NA
+lupus vulgaris	A18	disgenet	015;711;720;730;737;016;601;017;014;379;370;363;364;420;422;424;425	NA	NA
+lupus erythematosus, discoid	L93	disgenet;Ruiz2021;symptom	695	NA	NA
+dermatitis, irritant	L24	disgenet;symptom	692	NA	NA
+adult type dermatomyositis	M33	disgenet	710;517;359	NA	NA
+dermatomyositis, childhood type	M33	disgenet	710;517;359	NA	NA
+lupus erythematosus	L93	disgenet	695		373;710;695
+pemphigus	L10	disgenet;Ruiz2021;symptom	694	694	694
+pemphigus vulgaris	L10	disgenet	694	NA	NA
+henoch-schoenlein purpura	D69	disgenet	287		
+pemphigus foliaceus	L10	disgenet	694	NA	NA
+peritonitis	K65	disgenet;Ruiz2021;symptom	567		540;614;567;277;032;098;095;014
+complement component 5 deficiency	L21	disgenet	690;706		
+meningitis	G03	disgenet;Ruiz2021;symptom	322;047;997	322	047;091;049;320;090;072;112;322;114;321;036;098;054;053;115;100;003;781;348;094;013
+pachymeningitis	G03	disgenet	322;047;997	NA	NA
+meningococcal meningitis	A39	disgenet;Ruiz2021	036		036
+opioid abuse	F11	disgenet	305;292;304		305
+opiate addiction	F11	disgenet	305;292;304		
+noninfiltrating intraductal carcinoma	D05	disgenet	233	NA	NA
+juvenile absence epilepsy	G40	disgenet	345	NA	NA
+syncope	R55	disgenet;symptom	780	780	780;337;992
+limb deformities, congenital	Q74	disgenet;symptom	755;754		
+renal carnitine transport defect	E71	disgenet;Ruiz2021	270;272;277		
+involutional paraphrenia	F22	disgenet	297	NA	NA
+auriculo-ventricular dissociation	I45	disgenet	426	NA	NA
+heart block	I45	disgenet;Ruiz2021	426	NA	426;746
+supraventricular tachycardia	I47	disgenet;Ruiz2021	427	NA	427;426
+sinus node dysfunction (disorder)	I49	disgenet	427		NA
+macrocephaly	Q75	disgenet;symptom	756	NA	NA
+malignant hyperpyrexia due to anesthesia	T88	disgenet;Ruiz2021	999;V58;909;995		
+congenital myopathy (disorder)	G71	disgenet	359	NA	NA
+respiratory failure	J96	disgenet	518	NA	518;770
+nodal rhythm disorder	I49	disgenet	427	NA	NA
+other specified cardiac arrhythmias	I49	disgenet	427		
+ectopic rhythm	I49	disgenet	427	NA	NA
+idiopathic generalized epilepsy	G40	disgenet	345	NA	NA
+cooley's anemia	D56	disgenet;Ruiz2021	282	282	282
+beta thalassemia	D56	disgenet;Ruiz2021	282		282
+hemoglobin f disease	D56	disgenet	282	NA	NA
+acute erythroblastic leukemia	C94	disgenet;Ruiz2021	207;238	NA	NA
+thalassemia minor	D56	disgenet	282		282
+thalassemia intermedia	D56	disgenet	282	NA	NA
+congenital hypoplastic anemia	D61	disgenet;Ruiz2021	284	NA	NA
+hypercalcemia	E83	disgenet;Ruiz2021;symptom	275;686	275	275
+lesion of sciatic nerve	G57	disgenet	355		355
+abdominal migraine	G43	disgenet	346	NA	NA
+common migraine	G43	disgenet	346		346
+status migrainosus	G43	disgenet	346	NA	346
+myelofibrosis	D75	disgenet;Ruiz2021	289	238;289	238;289
+shared paranoid disorder	F24	disgenet;symptom	297		
+retrobulbar neuritis	H46	disgenet	377	377	377;094
+brittle hair	L67	disgenet	704	NA	NA
+hypocalcemia	E83	disgenet;Ruiz2021;symptom	275;686	275	275;775
+hypoparathyroidism	E20	disgenet;Ruiz2021;symptom	252;275	252	252
+idiopathic hypoparathyroidism	E20	disgenet	252;275	NA	NA
+familial benign hypercalcemia	E83	disgenet	275;686	NA	NA
+asphyxia neonatorum	P84	disgenet;symptom	768;770;775		
+claustrophobia	F40	disgenet	300	NA	NA
+diabetes mellitus, insulin-dependent	E10	disgenet;Ruiz2021	250;362;366;357;355;536;353;349;443;785;713;716;523	NA	NA
+phobic anxiety disorder	F40	disgenet	300		300
+ureteral calculi	N20	disgenet;symptom	592	592	592
+diabetes mellitus, ketosis-prone	E10	disgenet	250;362;366;357;355;536;353;349;443;785;713;716;523	NA	NA
+glaucoma, primary open angle	H40	disgenet	365		365
+osteoarthritis of hip	M16	disgenet	715	NA	NA
+juvenile myelomonocytic leukemia	C93	disgenet	206	NA	NA
+ankylosing spondylitis	M45	disgenet;Ruiz2021	720		720
+acute myelomonocytic leukemia	C92	disgenet;Ruiz2021	205	NA	NA
+homocystinuria	E72	disgenet;Ruiz2021;symptom	270;271	NA	NA
+anorexia	R63	disgenet;Ruiz2021	783	783	783;307
+unconscious state	R40	disgenet	780;NoD	NA	NA
+communicating hydrocephalus	G91	disgenet	331		331
+congenital hydrocephalus	Q03	disgenet	742		742
+post-traumatic hydrocephalus	G91	disgenet	331	NA	NA
+obstructive hydrocephalus	G91	disgenet	331		331
+diarrhea	R19	disgenet;Ruiz2021	789;787;792;784	787	E94;973;007;008;787;009;579;564;279
+eczema	L30	disgenet;Ruiz2021	692;705;690;695;696	NA	694;692;373;705;054;690;706;279;111;693;691
+common variable immunodeficiency	D83	disgenet;symptom	279	279	279
+berylliosis	J63	disgenet;Ruiz2021;symptom	503	NA	NA
+mixed cellularity hodgkin lymphoma	C81	disgenet	201		201
+hodgkin lymphoma, lymphocyte depletion	C81	disgenet	201		201
+lymphocyte rich classical hodgkin lymphoma	C81	disgenet	201		201
+nodular lymphocyte predominant hodgkin lymphoma	C81	disgenet	201	NA	NA
+staphylococcus aureus infection	A49	disgenet	041	NA	041
+follicular cyst	K09	disgenet	526;528	NA	620
+paroxysmal nocturnal hemoglobinuria	D59	disgenet;Ruiz2021	283	NA	NA
+polyarthritis	M13	disgenet	716	714	716;714;715;711;390
+adrenal cancer	C74	disgenet	194	194	194
+feeding difficulties	R63	disgenet	783	NA	783;779
+multiple endocrine neoplasia	E31	disgenet;Ruiz2021;symptom	258	NA	V18;V84;258
+beckwith-wiedemann syndrome	Q87	disgenet	755;756;759	NA	NA
+russell-silver syndrome	Q87	disgenet	755;756;759	NA	NA
+atypical endometrial hyperplasia	N85	disgenet	621		621
+vulvar lichen sclerosus	N90	disgenet;symptom	624;629	NA	NA
+partial trisomy	Q92	disgenet	758	NA	NA
+persistent cloaca	Q43	disgenet	751	NA	NA
+spina bifida	Q05	disgenet	741		741;756
+rachischisis	Q05	disgenet	741	741	740;756;741
+alveolar pyorrhea	K05	disgenet	523	NA	NA
+periodontosis	K05	disgenet	523	523	523
+bronchiectasis	J47	disgenet;Ruiz2021;symptom	494		494;748;011
+acute recurrent pancreatitis	K85	disgenet	577	NA	NA
+adrenal gland diseases	E27	disgenet;symptom	255		
+hemiplegia	G81	disgenet;symptom	342		343;342;438
+monoplegia	G83	disgenet	344		781;343;344;438
+hemiplegia, flaccid	G81	disgenet	342		
+hemiplegia, spastic	G81	disgenet	342		
+gilles de la tourette syndrome	F95	disgenet	307	307	307
+lennox-gastaut syndrome	G40	disgenet;Ruiz2021	345	NA	NA
+myoclonic astatic epilepsy	G40	disgenet	345	NA	NA
+paranoia	F22	disgenet	297	NA	301
+narcolepsy	G47	disgenet;Ruiz2021;symptom	780;327;347		347
+narcolepsy-cataplexy syndrome	G47	disgenet;Ruiz2021	780;327;347		
+choroideremia	H31	disgenet;symptom	363;362		363
+albinism	E70	disgenet;symptom	270	NA	NA
+prune belly syndrome	Q79	disgenet;symptom	756		756
+catatonia	F06	disgenet	293;294	NA	295
+sleep disorders	G47	disgenet;symptom	780;327;347	NA	291;327;292;307
+spina bifida cystica	Q05	disgenet	741	NA	NA
+congenital omphalocele	Q79	disgenet	756		
+congenital exomphalos	Q79	disgenet	756	NA	NA
+hypothermia, natural	T68	disgenet	991;V58;909	NA	NA
+bacteremia	R78	disgenet;symptom	790;771	790	790;038;771;031
+cockayne syndrome	Q87	disgenet	755;756;759	NA	NA
+hyperkalemic periodic paralysis	G72	disgenet	359	NA	NA
+myotonia levior	G71	disgenet	359	NA	NA
+becker generalized myotonia	G71	disgenet	359	NA	NA
+generalized myotonia of thomsen	G71	disgenet;Ruiz2021	359	NA	NA
+osteopetrosis	Q78	disgenet;symptom	756		756
+bartter disease	E26	disgenet;Ruiz2021	255		
+ataxias, hereditary	G11	disgenet	334	NA	NA
+late-infantile neuronal ceroid lipfuscinosis	E75	disgenet	330;272	NA	NA
+adult neuronal ceroid lipofuscinosis	E75	disgenet	330;272	NA	NA
+juvenile neuronal ceroid lipofuscinosis	E75	disgenet	330;272	NA	NA
+encephalitis, west nile fever	A92	disgenet	065;066		
+jaundice, chronic idiopathic	E80	disgenet	277	NA	NA
+color vision defect	H53	disgenet	368	NA	368
+achromatopsia	H53	disgenet	368	368	368
+color blindness, acquired	H53	disgenet	368		
+color blindness	H53	disgenet	368	368	368
+binge eating disorder	F50	disgenet	307	NA	NA
+cholangitis	K83	disgenet;Ruiz2021;symptom	576		576
+cortical congenital hyperostosis	M89	disgenet	733;738;731;730	NA	NA
+osteogenesis imperfecta	Q78	disgenet;symptom	756		756
+chondromalacia	M94	disgenet	733		733;717
+hypochondrogenesis	Q77	disgenet	756	NA	NA
+spondyloepiphyseal dysplasia, congenita	Q77	disgenet	756	NA	NA
+vertebral artery dissection	I77	disgenet;symptom	447;443		443
+anemia, hemolytic, acquired	D59	disgenet	283		
+congenital cataract	Q12	disgenet	743		743
+hematuria	R31	disgenet;symptom	599	599	599;120
+microangiopathic hemolytic anemia	D59	disgenet	283	NA	NA
+rieger syndrome	Q13	disgenet	743	NA	NA
+schizencephaly	Q04	disgenet	742	NA	NA
+axenfeld anomaly (disorder)	Q15	disgenet	365;743	NA	NA
+congenital porencephaly	Q04	disgenet	742	NA	NA
+hypertensive nephropathy	I12	disgenet	403		403
+alport syndrome	Q87	disgenet	755;756;759	NA	NA
+epidermolysis bullosa dystrophica	Q81	disgenet;symptom	757	NA	NA
+fuchs endothelial dystrophy	H18	disgenet	371	NA	NA
+affective disorders, psychotic	F39	disgenet	296	NA	NA
+behavior disorders	F91	disgenet	312;313	NA	327
+pneumonia, interstitial	J84	disgenet	516;515	NA	136
+dyskinetic syndrome	G24	disgenet;Ruiz2021	333	NA	NA
+lingual-facial-buccal dyskinesia	G24	disgenet	333		
+amenorrhea	N91	disgenet;Ruiz2021;symptom	626	626	626;256
+hereditary coproporphyria	E80	disgenet	277	NA	NA
+porphyria cutanea tarda	E80	disgenet;Ruiz2021;symptom	277	NA	NA
+hyperammonemia	E72	disgenet;Ruiz2021	270;271	NA	NA
+brain diseases, metabolic	G93	disgenet;symptom	348;780;331		348
+methylmalonic acidemia	E71	disgenet;Ruiz2021	270;272;277	NA	NA
+rubinstein-taybi syndrome	Q87	disgenet	755;756;759	NA	NA
+chest pain	R07	disgenet	784;786	786	786;413
+dysthymic disorder	F34	disgenet;Ruiz2021;symptom	301;300;296		300
+delayed puberty	E30	disgenet;Ruiz2021	259	NA	NA
+west syndrome	G40	disgenet	345		345
+stereotypic movement disorder	F98	disgenet;symptom	307;313		307
+neuroretinitis	H30	disgenet	363	363	363
+salaam seizures	G40	disgenet	345	345	345
+crohn's disease of large bowel	K50	disgenet	555;560;569;566		555
+crohn's disease of the ileum	K50	disgenet	555;560;569;566	NA	NA
+metabolic syndrome x	E88	disgenet;Ruiz2021;symptom	273;272;277		
+regional enteritis	K50	disgenet	555;560;569;566	555	555
+agranulocytosis	D70	disgenet;symptom	288	NA	288
+aplastic anemia	D61	disgenet;Ruiz2021	284		284
+eyelid diseases	H02	disgenet;symptom	374		
+hypoplastic anemia	D61	disgenet;Ruiz2021	284	NA	NA
+pulmonary alveolar proteinosis	J84	disgenet;symptom	516;515		516
+arthralgia	M25	disgenet;symptom	719;718;726;721	719	719;524
+headache	R51	disgenet;Ruiz2021;symptom	784	784	784;339;346;307
+localized scleroderma	L94	disgenet	701;709;696;136		701
+linear scleroderma	L94	disgenet	701;709;696;136	NA	NA
+chronic neutrophilic leukemia	D47	disgenet;Ruiz2021	238;273;289	NA	NA
+hay fever	J30	disgenet;Ruiz2021	477		477
+heart septal defects	Q21	disgenet;symptom	745	NA	745
+ventricular septal defects	Q21	disgenet	745		745
+bicuspid aortic valve	Q23	disgenet	746	NA	746
+thyroid agenesis	E03	disgenet	243;244;246;780	NA	NA
+dystrophia myotonica 2	G71	disgenet	359	NA	NA
+wolf-hirschhorn syndrome	Q93	disgenet;symptom	758	NA	NA
+cystathioninuria	E72	disgenet	270;271	NA	NA
+graft-vs-host disease	D89	disgenet;Ruiz2021	273;289;279		
+lymphadenopathy	R59	disgenet	785	785	785;042;091;017
+pachygyria	Q04	disgenet	742	NA	NA
+agyria	Q04	disgenet	742	NA	NA
+cystinosis	E72	disgenet;symptom	270;271	NA	NA
+cri-du-chat syndrome	Q93	disgenet;symptom	758		758
+congenital methemoglobinemia	D74	disgenet	289	NA	NA
+chronic granulomatous disease	D71	disgenet	288	NA	NA
+listeriosis	A32	disgenet;symptom	027;995	027	027
+long qt syndrome	I45	disgenet;symptom	426	426	426
+methemoglobinemia	D74	disgenet;Ruiz2021;symptom	289	289	289
+hydrophthalmos	Q15	disgenet;symptom	365;743	NA	NA
+irido-corneo-trabecular dysgenesis (disorder)	Q13	disgenet	743	NA	NA
+glaucoma of childhood	Q15	disgenet	365;743	365	365
+opisthorchiasis	B66	disgenet;symptom	121		
+gonadotropin-resistant ovary syndrome	E28	disgenet	256	NA	NA
+hypoactive sexual desire disorder	F52	disgenet	302;306;V41		302
+orgasmic disorder	F52	disgenet	302;306;V41	NA	302
+sexual arousal disorder	F52	disgenet	302;306;V41	NA	NA
+male pseudohermaphroditism	Q56	disgenet	752	NA	259
+glucocorticoid-remediable aldosteronism	E26	disgenet	255		255
+hypoaldosteronism	E27	disgenet;symptom	255	NA	NA
+hypopituitarism	E23	disgenet;Ruiz2021;symptom	253;628	NA	253
+oligomenorrhea	N91	disgenet;Ruiz2021;symptom	626	NA	NA
+sheehan syndrome	E23	disgenet	253;628	NA	NA
+hypercalciuria	R82	disgenet	791;796	NA	NA
+nephrolithiasis	N20	disgenet	592	592	274;592
+rickets	E55	disgenet;Ruiz2021	268	NA	268;083;082;081
+lassa fever	A96	disgenet;symptom	078	NA	NA
+congenital muscular dystrophy (disorder)	G71	disgenet	359	NA	NA
+benign neoplasm of esophagus	D13	disgenet	211		211
+carcinoma in situ of esophagus	D00	disgenet	230		230
+kallmann syndrome	E23	disgenet	253;628	NA	NA
+agenesis of corpus callosum	Q04	disgenet	742	NA	NA
+coughing	R05	disgenet;Ruiz2021	786		786;339
+glycogen storage disease type v	E74	disgenet;symptom	271	NA	NA
+meningococcal infections	A39	disgenet;symptom	036		036
+pneumonia, viral	J12	disgenet;symptom	480;487		
+mood swings	R45	disgenet	799;307;300;308;780;V62		799
+pseudohermaphroditism	Q56	disgenet	752	NA	752;259
+ambiguous genitalia	Q56	disgenet	752	NA	NA
+glaucoma, suspect	H40	disgenet	365	NA	NA
+peutz-jeghers syndrome	Q85	disgenet	237;759	NA	NA
+streptococcal pneumonia	J13	disgenet;Ruiz2021	481		482;320;481
+sensorineural hearing loss, bilateral	H90	disgenet	389		
+smith-lemli-opitz syndrome	E78	disgenet;symptom	272;759	NA	NA
+q fever	A78	disgenet;symptom	083	083	082;083
+anemia, megaloblastic	D53	disgenet	281	NA	NA
+electroencephalogram abnormal	R94	disgenet	794	NA	NA
+nadh cytochrome b5 reductase deficiency	D74	disgenet	289	NA	NA
+leukemia, monocytic, chronic	C93	disgenet	206		
+myeloid leukemia	C92	disgenet;Ruiz2021	205		205;V10;207;206
+pyruvate dehydrogenase complex deficiency disease	E74	disgenet	271	NA	NA
+williams syndrome	Q93	disgenet;symptom	758	NA	NA
+ectrodactyly	Q71	disgenet	755	755	755
+duchenne or becker muscular dystrophy	G71	disgenet	359	NA	NA
+sarcosinemia	E72	disgenet	270;271	NA	NA
+malignant neoplasm of testis	C62	disgenet	186		V10;V76;V16;186
+hypocomplementemic urticarial vasculitis	M31	disgenet	446;447	NA	NA
+hmn (hereditary motor neuropathy) proximal type i	G12	disgenet	335		NA
+varicosity	I83	disgenet	454	NA	454
+purine-pyrimidine metabolism, inborn errors	E79	disgenet;symptom	790;277	NA	NA
+auditory processing disorder, central	H93	disgenet	388;315;V41	NA	NA
+delusional disorder	F22	disgenet	297		297
+hyperprolactinemia	E22	disgenet;Ruiz2021;symptom	253	NA	NA
+disruptive, impulse control, and conduct disorders	F63	disgenet	312;307		
+intermittent explosive disorder	F63	disgenet	312;307		
+language disorders	F80	disgenet	315	NA	NA
+major depression, single episode	F32	disgenet	296;298;311		296
+gambling, pathological	F63	disgenet	312;307		
+chronic motor or vocal tic disorder	F95	disgenet	307		
+disruptive behavior disorder	F91	disgenet	312;313	NA	NA
+oppositional defiant disorder	F91	disgenet	312;313		313
+tic disorder	F95	disgenet	307	307	307;314;291;298;294;299;610;V18;277;315;519;292;345;302;289;280;286;573;297;300;577;251;602;698;290;293;V82
+transient tic disorder	F95	disgenet	307		307
+pervasive development disorder	F84	disgenet	299;330		
+blepharospasm	G24	disgenet;symptom	333		333
+torticollis	M43	disgenet;symptom	738;724;718;723;737		723;754;781;333
+spasmodic torticollis	G24	disgenet	333		333
+torticollis, psychogenic	F45	disgenet	300;307;306	NA	NA
+dentinogenesis imperfecta	K00	disgenet	520	NA	NA
+robinow syndrome	Q87	disgenet	755;756;759	NA	NA
+dandy-walker syndrome	Q03	disgenet;symptom	742	NA	NA
+dystonia disorders	G24	disgenet	333	NA	NA
+idiopathic familial dystonia	G24	disgenet	333	NA	NA
+autonomic nervous system disorders	G90	disgenet	337;742;333		
+hypodontia	K00	disgenet	520	NA	NA
+anosmia	R43	disgenet	781;V41	NA	NA
+sense of smell altered	R43	disgenet	781;V41	NA	NA
+orbital separation excessive	Q75	disgenet	756		
+congenital absence of lung	Q33	disgenet	748	NA	NA
+intrahepatic cholangiocarcinoma	C22	disgenet	155	NA	NA
+hydronephrosis	N13	disgenet;symptom	591;593;590;599		591
+dejerine-sottas disease (disorder)	G60	disgenet	356	NA	NA
+hereditary motor and sensory neuropathies	G60	disgenet	356	NA	NA
+diabetes	E11	disgenet	250;362;366;357;355;536;353;349;443;785;713;716;523	250	775;271;V18;V77;250;362;366;253;648;588;249;357;V12;962
+age-related cortical cataract	H25	disgenet	366	NA	NA
+cyclic neutropenia	D70	disgenet;Ruiz2021	288		288
+biliary tract cancer	C24	disgenet	156		156
+supravalvular aortic stenosis	Q25	disgenet	747	NA	NA
+x-linked emery-dreifuss muscular dystrophy	G71	disgenet	359	NA	NA
+elliptocytosis, hereditary	D58	disgenet;symptom	282		
+cns disorder	G96	disgenet	349;388	NA	349;348
+ventricular fibrillation	I49	disgenet;symptom	427	427	427
+polyneuropathy	G62	disgenet	357	NA	357;371;356;072;053
+polyneuropathy, critical illness	G62	disgenet	357		
+familial erythrocytosis	D75	disgenet	289	289	289
+erythrocytosis	D75	disgenet	289	NA	289;282
+xeroderma pigmentosum	Q82	disgenet;symptom	757	NA	NA
+hyperkeratosis, epidermolytic	Q80	disgenet;symptom	757	NA	NA
+arnold chiari malformation	Q07	disgenet	741;742	NA	NA
+chiari malformation type ii	Q07	disgenet	741;742	NA	NA
+uterine fibroids	D25	disgenet;Ruiz2021	218		218
+multiple acyl coenzyme a dehydrogenase deficiency	E71	disgenet;Ruiz2021;symptom	270;272;277	NA	NA
+ellis-van creveld syndrome	Q77	disgenet;symptom	756		756
+lymphoid leukemia	C91	disgenet;Ruiz2021	204;202		204;V10
+myelodysplasia	D46	disgenet	238	238	238
+hereditary multiple exostoses	Q78	disgenet	756	NA	NA
+conductive hearing loss	H90	disgenet	389		389
+weaver syndrome	Q87	disgenet	755;756;759	NA	NA
+thrombophilia	D68	disgenet;Ruiz2021;symptom	286;289	NA	NA
+mesenteric vascular insufficiency	K55	disgenet	557;569	NA	NA
+factor ii deficiency	D68	disgenet	286;289	NA	NA
+gastroenteritis	K52	disgenet;Ruiz2021	558;787;535	NA	558;005;008;009;007;003;004;001
+purpura, thrombotic thrombocytopenic	M31	disgenet	446;447	NA	NA
+hereditary factor v deficiency	D68	disgenet	286;289	NA	NA
+hepatic vein thrombosis	I82	disgenet	453	NA	453
+thrombophilia, hereditary	D68	disgenet	286;289	NA	NA
+factor vii deficiency	D68	disgenet;Ruiz2021	286;289	NA	NA
+hemophilia b	D67	disgenet;Ruiz2021;symptom	286	286	286
+hereditary factor xi deficiency	D68	disgenet	286;289		286
+acute kidney tubular necrosis	N17	disgenet	584;583	NA	NA
+tyrosinemias	E70	disgenet;symptom	270	NA	NA
+hypertrophic obstructive cardiomyopathy	I42	disgenet	425		425
+ectopia lentis	Q12	disgenet;symptom	743		743
+fructose-1,6-diphosphatase deficiency	E74	disgenet	271	NA	NA
+visual cortex disorder	H47	disgenet	377		377
+porokeratosis, disseminated superficial actinic	L56	disgenet	692		692
+dysfibrinogenemia, congenital	D68	disgenet	286;289	NA	NA
+congenital hypofibrinogenemia	D68	disgenet	286;289	NA	NA
+fibrinogen deficiency	D68	disgenet	286;289	NA	NA
+congenital foot deformity	Q66	disgenet	754;755	NA	NA
+aarskog syndrome	Q87	disgenet	755;756;759	NA	NA
+dental diseases	K08	disgenet	525		525
+holoprosencephaly	Q04	disgenet;symptom	742	NA	NA
+achondroplasia	Q77	disgenet;symptom	756	NA	NA
+malignant tumor of cervix	C53	disgenet	180		180
+seborrheic keratosis	L82	disgenet	702		702
+thanatophoric dysplasia	Q77	disgenet;symptom	756	NA	NA
+plagiocephaly	Q67	disgenet	754	NA	NA
+hypochondroplasia (disorder)	Q77	disgenet	756	NA	NA
+carcinoma in situ of uterine cervix	D06	disgenet	233		233
+apert syndrome	Q87	disgenet	755;756;759	NA	NA
+ankylosis	M24	disgenet;symptom	718;728		524;718;81.;385;521
+craniofacial dysostosis	Q75	disgenet;symptom	756	NA	NA
+developmental coordination disorder	F82	disgenet	315		315
+motor skills disorders	F82	disgenet;symptom	315	NA	NA
+bannayan-riley-ruvalcaba syndrome	E71	disgenet	270;272;277	NA	NA
+renal tubular acidosis	N25	disgenet;Ruiz2021	588	NA	NA
+pendred's syndrome	E07	disgenet	246;790	NA	NA
+choanal atresia	Q30	disgenet;symptom	748		748
+ichthyosis vulgaris	Q80	disgenet;Ruiz2021;symptom	757	NA	NA
+smith-magenis syndrome	Q93	disgenet	758	NA	NA
+other restrictive cardiomyopathy	I42	disgenet	425	NA	NA
+acute myeloid leukemia, minimal differentiation	C92	disgenet	205	NA	NA
+strawberry nevus of skin	Q82	disgenet	757	NA	NA
+milroy disease	Q82	disgenet	757	NA	NA
+trimethylaminuria	E72	disgenet	270;271	NA	NA
+mixed anxiety and depressive disorder	F41	disgenet;Ruiz2021	300	NA	NA
+lateral medullary syndrome	G46	disgenet	435;437	NA	NA
+fucosidase deficiency disease	E77	disgenet	272;271	NA	NA
+glycogen storage disease type i	E74	disgenet;symptom	271	NA	NA
+favism	D55	disgenet	282	NA	NA
+glycogen storage disease type ii	E74	disgenet;symptom	271	NA	NA
+generalized glycogen storage disease of infants	E74	disgenet	271	NA	NA
+essential tremor	G25	disgenet;Ruiz2021;symptom	333	NA	NA
+familial tremor	G25	disgenet	333	NA	NA
+schizoaffective disorder, bipolar type	F25	disgenet	295	NA	NA
+febrile convulsions	R56	disgenet;Ruiz2021	780	780	780
+seizure, febrile, simple	R56	disgenet	780	NA	NA
+seizure, febrile, complex	R56	disgenet	780		
+globoid cell leukodystrophy	E75	disgenet	330;272	NA	NA
+galactosemias	E74	disgenet;symptom	271		271
+deficiency of galactokinase	E74	disgenet	271	NA	NA
+mucopolysaccharidosis iv	E76	disgenet;symptom	277	NA	NA
+mucopolysaccharidosis, mps-iv-a	E76	disgenet	277	NA	NA
+mucopolysaccharidosis type ivb	E76	disgenet	277	NA	NA
+arhinencephaly	Q04	disgenet	742	NA	NA
+acute basophilic leukemia	C94	disgenet;Ruiz2021	207;238	NA	NA
+eosinophilia	D72	disgenet;symptom	288	288	710;288;518
+eosinophilia, tropical	J82	disgenet	518	NA	NA
+neonatal diabetes mellitus	P70	disgenet	775		775
+atrioventricular septal defect	Q21	disgenet	745	NA	NA
+glycogen storage disease type iv	E74	disgenet	271	NA	NA
+glutaric aciduria, type 1	E72	disgenet	270;271	NA	NA
+deuteranomaly	H53	disgenet	368	368	368
+taussig-bing anomaly	Q20	disgenet	745;746	NA	NA
+toxic effect of carbon tetrachloride	T53	disgenet	982;E86;V58;909;E95;E96;E98;987		982
+congenital deficiency of intrinsic factor	D51	disgenet	281	NA	NA
+cellulitis	L03	disgenet;Ruiz2021;symptom	681;682	NA	682;681;614;528;478;728;375;376
+xeroderma	E50	disgenet	264	NA	373
+scarring alopecia	L66	disgenet	704;697;701	NA	NA
+gangliosidosis gm1	E75	disgenet	330;272	NA	NA
+coronary vessel anomalies	Q24	disgenet;symptom	746	NA	NA
+polydactyly preaxial type 1	Q69	disgenet	755	NA	NA
+polysyndactyly	Q70	disgenet	755		755
+tay-sachs disease	E75	disgenet;symptom	330;272	NA	NA
+atrioventricular block	I44	disgenet;Ruiz2021;symptom	426		426
+malignant neoplasm of adrenal cortex	C74	disgenet	194	NA	NA
+albinism, ocular	E70	disgenet;symptom	270	NA	NA
+sturge-weber syndrome	Q85	disgenet	237;759	NA	NA
+port-wine stain	Q82	disgenet;symptom	757	NA	NA
+fibrous dysplasia, monostotic	M85	disgenet;symptom	733	NA	NA
+polyostotic fibrous dysplasia	Q78	disgenet	756		756
+pseudohypoparathyroidism	E20	disgenet;Ruiz2021;symptom	252;275	NA	NA
+precocious puberty	E30	disgenet;Ruiz2021	259	NA	NA
+cafe-au-lait spots	L81	disgenet;symptom	709	NA	NA
+mccune-albright syndrome	Q78	disgenet	756	NA	NA
+central precocious puberty	E22	disgenet	253	NA	NA
+vomiting	R11	disgenet;Ruiz2021	787;536;078;569	NA	787;643;779;578;009;078;307;564;536;008;569
+mucopolysaccharidosis type iiia	E76	disgenet	277	NA	NA
+mps iii b	E76	disgenet	277	NA	NA
+mps iii c	E76	disgenet	277	NA	NA
+mps iii d	E76	disgenet	277	NA	NA
+primary sclerosing cholangitis	K83	disgenet	576	NA	NA
+cluttering	F80	disgenet	315	NA	NA
+landau-kleffner syndrome	G40	disgenet;symptom	345	NA	NA
+female pseudohermaphroditism	Q56	disgenet	752	NA	NA
+fibromatosis	M72	disgenet	728;729	NA	237;728;607;756
+raynaud disease	I73	disgenet	443;785	443	443
+raynaud phenomenon	I73	disgenet	443;785		443
+rales	R09	disgenet	799;511;786;478;784;785	NA	780;V73;323;E93;968;646;647;358;597;E90;528;747;88.;711;714;803;379;331;330;079;435;713;049;066;078;01.;327;368;742;779;373;851;E92;348;057;394;801;800;812;573;432;070;58.;060;961;974;218;959;929;904;59.;374;197;225;189;192;191;239;434;433;732;839;593;343;792;294;275;599;132;310;526;02.;589;E95;094;081;722;424;396;372;338;437
+stridor	R06	disgenet	786;784	786	786;478
+wheezing	R06	disgenet	786;784	786	786
+meconium ileus	P76	disgenet	777	NA	277
+mucopolysaccharidosis vii	E76	disgenet	277	NA	NA
+choroidal sclerosis	H31	disgenet	363;362		363
+histidinemia	E70	disgenet	270	NA	NA
+hemoglobin bart's hydrops syndrome	D56	disgenet	282	NA	NA
+hemoglobin m disease	D74	disgenet	289	NA	NA
+hemoglobin c disease	D58	disgenet	282	NA	282
+hemoglobin e disease	D58	disgenet	282	NA	NA
+delta-beta thalassemia	D56	disgenet	282		282
+hemoglobin d disease	D58	disgenet	282	NA	NA
+hemoglobin e/beta thalassemia disease	D56	disgenet	282		
+sandhoff disease	E75	disgenet;symptom	330;272	NA	NA
+hellp syndrome	O14	disgenet	642	NA	NA
+alkaptonuria	E70	disgenet	270	NA	NA
+cholangitis, sclerosing	K83	disgenet	576	NA	NA
+hypoxic-ischemic encephalopathy	P91	disgenet	779;768		
+pseudomyotonia (finding)	G71	disgenet	359	NA	NA
+parapsoriasis	L41	disgenet;symptom	696		696
+parapsoriasis en plaques	L41	disgenet	696	NA	NA
+bullous pemphigoid	L12	disgenet	694;695		694
+kleine-levin syndrome	G47	disgenet	780;327;347	NA	NA
+lichen planus follicularis	L66	disgenet	704;697;701	NA	NA
+typhoid fever	A01	disgenet;symptom	002		002;99.
+systemic onset juvenile chronic arthritis	M08	disgenet;Ruiz2021	714;720	NA	NA
+holocarboxylase synthetase deficiency	D81	disgenet	279;277;266	NA	NA
+deficiency of mevalonate kinase	M04	disgenet;Ruiz2021		NA	NA
+gastroparesis	K31	disgenet;Ruiz2021;symptom	536;537;211	536	536
+mastocytosis, systemic	D47	disgenet;Ruiz2021;symptom	238;273;289	NA	NA
+indolent systemic mastocytosis	D47	disgenet	238;273;289	NA	NA
+aggressive systemic mastocytosis	C96	disgenet	202;277	NA	NA
+trichotillomania	F63	disgenet;symptom	312;307	NA	NA
+roussy-levy syndrome (disorder)	G60	disgenet	356	NA	NA
+vater association	Q87	disgenet	755;756;759	NA	NA
+transient hypertension of pregnancy	O13	disgenet	642		642
+pregnancy associated hypertension	O13	disgenet	642	NA	NA
+albinism, oculocutaneous	E70	disgenet;symptom	270	NA	NA
+hermanski-pudlak syndrome	E70	disgenet;symptom	270	NA	NA
+compartment syndromes	T79	disgenet;symptom	958;V58;908		958
+malignant neoplasm of spleen	C26	disgenet	159	NA	159
+malignant neoplasm of penis	C60	disgenet	187		187
+verrucous epidermal nevus	Q82	disgenet	757	NA	NA
+allergic rhinitis (disorder)	J30	disgenet;Ruiz2021	477		NA
+zellweger syndrome	E71	disgenet;Ruiz2021;symptom	270;272;277	NA	NA
+adrenoleukodystrophy, neonatal	E71	disgenet	270;272;277	NA	NA
+peroxisomal disorders	E71	disgenet;Ruiz2021;symptom	270;272;277		277
+zellweger-like syndrome	E71	disgenet	270;272;277	NA	NA
+pleurisy	R09	disgenet;symptom	799;511;786;478;784;785	511	074;511;012;010
+enchondromatosis	Q78	disgenet;symptom	756	NA	NA
+maffucci syndrome	Q78	disgenet	756	NA	NA
+mucopolysaccharidosis ii	E76	disgenet;Ruiz2021;symptom	277	NA	NA
+mucopolysaccharidosis i	E76	disgenet;symptom	277	NA	NA
+mucopolysaccharidosis v	E76	disgenet	277	NA	NA
+hurler-scheie syndrome	E76	disgenet	277	NA	NA
+pfaundler-hurler syndrome	E76	disgenet	277	NA	NA
+malignant vaginal neoplasm	C52	disgenet	184		184
+abdominal pain	R10	disgenet;Ruiz2021	789;608;625	789	789
+meningism	R29	disgenet;symptom	781;796;719;729		781
+nausea	R11	disgenet;Ruiz2021	787;536;078;569	NA	787;994
+somatoform disorder	F45	disgenet	300;307;306		300;307
+optic neuropathy, ischemic	H47	disgenet	377		
+somatization disorder	F45	disgenet	300;307;306		
+pulsatile tinnitus	H93	disgenet	388;315;V41	NA	NA
+appendicitis	K37	disgenet;symptom	541	540;541	540;542;541
+arthritis, infectious	M00	disgenet;symptom	711;041		711
+cardiac arrest	I46	disgenet;Ruiz2021	427	427	427;39.;779;99.;V12
+legionnaires' disease	A48	disgenet;symptom	040;482		482
+leishmaniasis, cutaneous	B55	disgenet;symptom	085	NA	085
+infection by trichuris trichiura	B79	disgenet	127		
+pontiac fever	A48	disgenet	040;482	NA	NA
+aplastic anemia, idiopathic	D61	disgenet	284	NA	NA
+mucocutaneous leishmaniasis	B55	disgenet	085		085
+job syndrome	D82	disgenet	279	NA	NA
+entamoeba histolytica infection	A06	disgenet	006	NA	NA
+polyhydramnios	O40	disgenet;symptom	657		761;657
+placenta disorders	O43	disgenet	656;663;667	NA	NA
+short stature	R62	disgenet	783	783	783;253
+infectious myositis	M60	disgenet	728;040;729		
+igg deficiency disorder	D80	disgenet	279	NA	NA
+endemic cretinism	E00	disgenet	243	NA	NA
+kearns-sayre syndrome	H49	disgenet	378;277	NA	NA
+melas syndrome	E88	disgenet;symptom	273;272;277	NA	NA
+merrf syndrome	E88	disgenet;symptom	273;272;277	NA	NA
+chronic progressive external ophthalmoplegia	H49	disgenet	378;277		378
+pyogenic arthritis, pyoderma gangrenosum and acne	M04	disgenet		NA	NA
+relapsing fever	A68	disgenet;symptom	087		087
+interleukin 1 receptor antagonist deficiency	M04	disgenet		NA	NA
+recurrent fevers	A68	disgenet	087	NA	NA
+asthenia	R53	disgenet	780;799	NA	306;300;780;358;784;775;438;781
+intracranial arteriovenous malformation	Q28	disgenet	747	NA	NA
+angiolymphoid hyperplasia	D47	disgenet;Ruiz2021	238;273;289	NA	NA
+premature obstetric labor	O60	disgenet;Ruiz2021	644	NA	NA
+kaposi sarcoma	C46	disgenet;Ruiz2021	176		176
+arteriovenous malformations, cerebral	Q28	disgenet	747	NA	NA
+oxalosis	E72	disgenet	270;271	NA	NA
+myocardial preinfarction syndrome	I20	disgenet	411;413	NA	NA
+ileitis	K52	disgenet	558;787;535	NA	569;555
+chronic interstitial cystitis	N30	disgenet	595		595
+formication	R20	disgenet	782	NA	NA
+delirium, dementia, amnestic, cognitive disorders	F09	disgenet	310	NA	NA
+cystic kidney diseases	Q61	disgenet	753	NA	753
+herpes encephalitis	B00	disgenet;Ruiz2021	054	NA	NA
+van der woude syndrome	Q38	disgenet	750	NA	NA
+bladder exstrophy	Q64	disgenet;symptom	752;753		753;57.
+thrombasthenia	D69	disgenet;Ruiz2021	287	NA	NA
+leukocyte disorders	D72	disgenet;symptom	288		
+coronary thrombosis	I24	disgenet;Ruiz2021;symptom	411	NA	NA
+posttransfusion purpura	D69	disgenet	287		287
+epidermolysis bullosa	Q81	disgenet;symptom	757	NA	NA
+herlitz disease	Q81	disgenet	757	NA	NA
+isovaleryl-coa dehydrogenase deficiency	E71	disgenet	270;272;277	NA	NA
+malignant tumor of mediastinum	C38	disgenet	164;163		
+nasal type extranodal nk/t-cell lymphoma	C86	disgenet	202;200	NA	NA
+familial periodic paralysis	G72	disgenet	359	NA	NA
+periodic paralysis (finding)	G72	disgenet	359		NA
+deficiency of fructokinase	E74	disgenet	271	NA	NA
+leukemia, mast-cell	C94	disgenet;symptom	207;238	NA	NA
+piebaldism	E70	disgenet	270	NA	NA
+telangiectasia macularis eruptiva perstans	D47	disgenet	238;273;289	NA	NA
+skin mastocytoma	D47	disgenet	238;273;289	NA	NA
+cutaneous mastocytosis	D47	disgenet	238;273;289	NA	NA
+smoldering systemic mastocytosis	D47	disgenet	238;273;289	NA	NA
+isolated bone marrow mastocytosis	D47	disgenet	238;273;289	NA	NA
+hyperesthesia	R20	disgenet;symptom	782	NA	NA
+steatocystoma multiplex	L72	disgenet	706;704	NA	NA
+monilethrix	Q84	disgenet	757	NA	NA
+aphasia	R47	disgenet;symptom	784;V41		784;438
+spastic gait	R26	disgenet	781;719	NA	NA
+gait, rigid	R26	disgenet	781;719	NA	NA
+dysphasia	R47	disgenet	784;V41	NA	315;438;93.
+nail diseases	L60	disgenet;symptom	703		
+lecithin acyltransferase deficiency	E78	disgenet	272;759	NA	NA
+chronic kidney insufficiency	N18	disgenet	585	NA	NA
+lactase deficiency, congenital	E73	disgenet	271	NA	NA
+myoglobinuria	R82	disgenet;symptom	791;796		791
+polydipsia	R63	disgenet	783		783
+upper respiratory infections	J06	disgenet	465	NA	465
+overweight	E66	disgenet	278		278
+isolated lutropin deficiency (disorder)	E23	disgenet	253;628	NA	NA
+dubowitz syndrome	Q87	disgenet	755;756;759	NA	NA
+wolman disease	E75	disgenet	330;272	NA	NA
+niemann-pick disease, type c	E75	disgenet;Ruiz2021;symptom	330;272	NA	NA
+niemann-pick disease, type d	E75	disgenet	330;272	NA	NA
+sinoatrial block	I45	disgenet;Ruiz2021;symptom	426	NA	NA
+congenital clubfoot	Q66	disgenet	754;755		754
+nail-patella syndrome	Q87	disgenet	755;756;759	NA	NA
+hypolipoproteinemias	E78	disgenet;symptom	272;759		
+atrophoderma vermiculatum	L66	disgenet	704;697;701	NA	NA
+osteosclerosis	Q78	disgenet	756	NA	756
+developmental absence of tooth	K00	disgenet	520		
+oral candidiasis	B37	disgenet	112;995		112
+candidiasis of vagina	B37	disgenet	112;995	NA	NA
+arthropathy	M12	disgenet	714;716;719		274;719;716;713;711;712;696;714;715;731;036;099
+candidiasis, vulvovaginal	B37	disgenet;symptom	112;995		
+congenital heart disease	Q24	disgenet	746	NA	NA
+radioulnar synostosis	Q74	disgenet	755;754		755
+antisocial personality disorder	F60	disgenet;symptom	301		301
+progressive supranuclear palsy	G23	disgenet	333	NA	NA
+pick disease of the brain	G31	disgenet;symptom	331;330		
+ophthalmoplegia, progressive supranuclear	G23	disgenet	333	NA	NA
+oculocutaneous albinism type 2	E70	disgenet	270	NA	NA
+macular corneal dystrophy	H18	disgenet	371		371
+measles	B05	disgenet;symptom	055	055	V04;V73;99.;E94;055;V01;046;056;370;979;V06
+myoclonus	G25	disgenet;symptom	333		333;327
+myoclonus, palatal	G25	disgenet	333	NA	NA
+intermittent joint effusion	M12	disgenet	714;716;719	NA	NA
+acne	L70	disgenet;Ruiz2021	706	NA	706;695
+restless legs syndrome	G25	disgenet;symptom	333		333
+islet cell tumor	D13	disgenet	211	NA	157
+klippel-feil syndrome	Q76	disgenet;symptom	756;754		756
+cornelia de lange syndrome	Q87	disgenet	755;756;759	NA	NA
+acute myeloid leukemia, 11q23 abnormalities	C92	disgenet	205	NA	NA
+muckle-wells syndrome	M04	disgenet;Ruiz2021		NA	NA
+familial cold urticaria	M04	disgenet		NA	NA
+chronic infantile neurological, cutaneous, and articular syndrome	M04	disgenet;Ruiz2021		NA	NA
+avascular necrosis of bone	M87	disgenet	733	NA	NA
+bone necrosis	M87	disgenet	733	NA	733
+cancer of nose	C76	disgenet	195	NA	NA
+cerebral edema	G93	disgenet;Ruiz2021	348;780;331		348
+stable angina	I20	disgenet	411;413	NA	411
+anencephaly	Q00	disgenet;symptom	740	740	740
+meningomyelocele	Q05	disgenet;symptom	741	NA	NA
+thyrotoxicosis	E05	disgenet;Ruiz2021;symptom	242		242;376;775
+myelocele	Q05	disgenet	741	NA	741
+methylenetetrahydrofolate reductase deficiency	E72	disgenet	270;271	NA	NA
+optic atrophies, hereditary	H47	disgenet;symptom	377		
+abetalipoproteinemia	E78	disgenet;Ruiz2021	272;759	NA	NA
+acidosis, lactic	E87	disgenet	276	NA	NA
+idiopathic hypertrophic subaortic stenosis	I42	disgenet	425	NA	NA
+merkel cell carcinoma	C4A	disgenet	209	NA	209
+polycystic kidney, autosomal dominant	Q61	disgenet;Ruiz2021;symptom	753		
+waldenstrom macroglobulinemia	C88	disgenet;symptom	273;203;200;238		273
+simple pulmonary eosinophilia	J82	disgenet	518	NA	NA
+eosinophilic pneumonia	J82	disgenet	518	518	518
+atrial septal defects	Q21	disgenet	745	NA	NA
+ebstein anomaly	Q22	disgenet;symptom	746		746
+distal muscular dystrophies	G71	disgenet	359	NA	NA
+may-hegglin anomaly	D72	disgenet	288	NA	NA
+nodular fasciitis	M72	disgenet	728;729	NA	NA
+other primary thrombocytopenia	D69	disgenet	287		
+hereditary retinal dystrophy	H35	disgenet	362;363		362
+goldenhar syndrome	Q87	disgenet	755;756;759	NA	NA
+exudative retinopathy	H35	disgenet	362;363		362
+optic atrophy	H47	disgenet;symptom	377		377;094
+type i mucolipidosis	E77	disgenet	272;271	NA	NA
+neurofibromatoses	Q85	disgenet;symptom	237;759		
+schwannomatosis	Q85	disgenet	237;759		237
+metabolic acidosis	E87	disgenet	276	NA	775
+malignant neoplasm of nasopharynx	C11	disgenet	147		147
+aspiration pneumonia	J69	disgenet	507	NA	997
+urinary tract infection	N39	disgenet;Ruiz2021	599;625;788	599	646;771;599
+mendelson syndrome	J95	disgenet	519;518;997;998;512;V46	NA	NA
+hypertension, renovascular	I15	disgenet;Ruiz2021;symptom	405	NA	NA
+premature ventricular contractions	I49	disgenet;Ruiz2021	427	NA	NA
+scoliosis, unspecified	M41	disgenet	737	NA	NA
+bronchitis, chronic	J42	disgenet;Ruiz2021;symptom	491		491
+cadasil syndrome	I67	disgenet	443;437;046;348;435;436	NA	NA
+purine-nucleoside phosphorylase deficiency	D81	disgenet	279;277;266	NA	NA
+external ophthalmoplegia	H49	disgenet	378;277		378
+nephronophthisis	Q61	disgenet	753	NA	NA
+bardet-biedl syndrome	Q87	disgenet	755;756;759	NA	NA
+lipoid nephrosis	N04	disgenet	581	NA	NA
+nephrosis, congenital	N04	disgenet	581	NA	NA
+lymphomatoid papulosis	C86	disgenet;symptom	202;200	NA	NA
+primary cutaneous anaplastic large cell lymphoma	C86	disgenet	202;200	NA	NA
+dyspnea	R06	disgenet;Ruiz2021;symptom	786;784	786	786
+dilatation of aorta	I77	disgenet	447;443		447;093
+toothache	K08	disgenet	525	NA	NA
+iron deficiency anemia	D50	disgenet;Ruiz2021	280		280;V78
+nyctalopia	H53	disgenet	368		368
+nystagmus	H55	disgenet;Ruiz2021	379	379	379;386
+ocular albinism, type i	E70	disgenet	270	NA	NA
+oculocerebrorenal syndrome	E72	disgenet;symptom	270;271	NA	NA
+hypotension, orthostatic	I95	disgenet;Ruiz2021;symptom	458		
+ornithine carbamoyltransferase deficiency	E72	disgenet	270;271	NA	NA
+panhypopituitarism	E23	disgenet	253;628		253
+otocephaly	Q18	disgenet	744	NA	NA
+classical phenylketonuria	E70	disgenet;Ruiz2021	270	NA	NA
+bilateral renal hypoplasia	Q60	disgenet	753	NA	NA
+anophthalmos	Q11	disgenet;symptom	743		743
+foster-kennedy syndrome	H47	disgenet	377		377
+coloboma of optic disc	H47	disgenet	377		377
+hypoplasia of the optic nerve	H47	disgenet	377		377
+coloboma of lens	Q12	disgenet	743	NA	NA
+coloboma of eyelid	Q10	disgenet	743	NA	NA
+optic nerve hypoplasia, bilateral	H47	disgenet	377	NA	NA
+pyruvate carboxylase deficiency disease	E74	disgenet	271	NA	NA
+propionic acidemia	E71	disgenet;Ruiz2021;symptom	270;272;277	NA	NA
+phosphoenolpyruvate carboxykinase deficiency	E74	disgenet	271	NA	NA
+anus, imperforate	Q42	disgenet	751	NA	NA
+mouth abnormalities	Q38	disgenet	750	NA	NA
+sensory disorders	H02	disgenet	374	NA	374
+infantile refsum disease (disorder)	G60	disgenet	356	NA	NA
+peroxisome biogenesis disorders	E71	disgenet	270;272;277	NA	NA
+refsum disease	G60	disgenet;symptom	356	356	356
+chondrodysplasia punctata, rhizomelic	E71	disgenet;symptom	270;272;277	NA	NA
+glycogen storage disease type vii	E74	disgenet;symptom	271	NA	NA
+esophagitis	K20	disgenet;Ruiz2021;symptom	530	530	530;112
+escherichia coli infections	B96	disgenet;Ruiz2021;symptom	041		041;008
+panniculitis, nodular nonsuppurative	M35	disgenet;symptom	710;517;359;583;136;711;725;728;729	NA	NA
+alpha 1-antitrypsin deficiency	E88	disgenet;symptom	273;272;277		273
+cold paroxysmal hemoglobinuria	D59	disgenet	283	NA	NA
+back pain	M54	disgenet;Ruiz2021;symptom	723;724;729	724	722;724
+cardiac tamponade	I31	disgenet;symptom	423		423
+meningoencephalitis	G04	disgenet;symptom	323;344;320	NA	130;063;062;054;036;364;363
+compression of spinal cord	G95	disgenet	336	NA	721
+cholesterol embolism	I75	disgenet	445		445
+chylopericardium	I31	disgenet	423	NA	NA
+cerebral vasospasm	G45	disgenet	435;362;437	NA	NA
+conus medullaris syndrome	G95	disgenet	336	NA	NA
+lambert-eaton myasthenic syndrome	G70	disgenet;symptom	358		358
+hypoplasminogenemia	E88	disgenet	273;272;277	NA	NA
+ligneous conjunctivitis	H10	disgenet	372	NA	NA
+plasminogen deficiency, type i	E88	disgenet	273;272;277	NA	NA
+locked-in syndrome	G83	disgenet	344		
+quadriplegia	G82	disgenet;symptom	344	344	343;344;780
+myoclonic absence epilepsy	G40	disgenet	345	NA	NA
+cancer, supratentorial	C71	disgenet	191	NA	NA
+diffuse cerebral sclerosis of schilder	G37	disgenet;symptom	341;323		
+alpers syndrome (disorder)	G31	disgenet	331;330	NA	NA
+facial paralysis	G51	disgenet;Ruiz2021	351	NA	351
+hirsutism	L68	disgenet;symptom	704	704	704
+hypernatremia	E87	disgenet;symptom	276	NA	276
+little's disease	G80	disgenet	343;333	NA	NA
+eye pain	H57	disgenet;symptom	379;V41	NA	NA
+pituitary-dependent cushing's disease	E24	disgenet	255;253	NA	NA
+athetoid cerebral palsy	G80	disgenet	343;333		333
+spastic cerebral palsy	G80	disgenet	343;333	NA	343
+facial paresis	R29	disgenet	781;796;719;729		438;781
+calcium pyrophosphate deposition disease	M11	disgenet	712		712
+pituitary dwarfism	E23	disgenet;Ruiz2021	253;628	253	253
+alcoholic liver diseases	K70	disgenet	571;572	NA	NA
+retrograde amnesia	R41	disgenet	780;781;797;V62;799	NA	NA
+familial hemophagocytic lymphocytosis	D76	disgenet	288	NA	NA
+gynecomastia	N62	disgenet;Ruiz2021	611	NA	778
+infant gynecomastia	P83	disgenet	778		
+kuru	A81	disgenet;symptom	046		046
+fatal familial insomnia	A81	disgenet	046	046	046
+purpura fulminans	D65	disgenet	286	NA	036
+protein c deficiency	D68	disgenet	286;289	NA	NA
+protein s deficiency	D68	disgenet	286;289	NA	NA
+activated protein c resistance	D68	disgenet;symptom	286;289	NA	NA
+anisometropia	H52	disgenet;symptom	367		367
+lipomatosis	E88	disgenet	273;272;277	NA	NA
+pemphigoid, benign mucous membrane	L12	disgenet;symptom	694;695		
+insufficient sleep syndrome	F51	disgenet	307;327	NA	NA
+bladder neck obstruction	N32	disgenet;Ruiz2021	596		596
+congenital absent nipple	Q83	disgenet	757	NA	NA
+congenital absence of breast with absent nipple	Q83	disgenet	757	NA	NA
+poliomyelitis	A80	disgenet;symptom	045		V01;045;138;99.;V06;V04;730;V12;979;E94;V73
+herpes simplex infections	B00	disgenet	054		
+b virus infection	B00	disgenet	054	NA	NA
+vitamin b 12 deficiency	E53	disgenet;Ruiz2021;symptom	266	NA	NA
+keratomalacia	H18	disgenet	371		264;371
+protanomaly	H53	disgenet	368	NA	NA
+multiple endocrine neoplasia type 2a	E31	disgenet;symptom	258	258	258
+multiple endocrine neoplasia type 2b	E31	disgenet;symptom	258		258
+congenital absence of kidneys syndrome	Q60	disgenet	753	NA	NA
+mobius syndrome	Q87	disgenet	755;756;759	NA	NA
+stomatocytic anemia	D58	disgenet	282	NA	NA
+anemia, hemolytic, congenital	D58	disgenet;symptom	282		282
+oguchi disease	H53	disgenet	368		368
+triphalangeal thumb	Q74	disgenet	755;754	NA	NA
+myelodysplastic syndrome with isolated del(5q)	D46	disgenet	238		NA
+retinoschisis	H33	disgenet	361;360		361
+central core myopathy (disorder)	G71	disgenet	359	NA	NA
+hemeralopia	H53	disgenet	368	NA	356
+metamorphopsia	H53	disgenet	368	NA	NA
+gait ataxia	R26	disgenet;symptom	781;719	NA	NA
+paramyotonia congenita (disorder)	G71	disgenet	359	NA	NA
+myotonia fluctuans (disorder)	G71	disgenet	359	NA	NA
+potassium aggravated myotonia	G71	disgenet	359	NA	NA
+bundle-branch block	I45	disgenet	426		426
+erythromelalgia	I73	disgenet;symptom	443;785		443
+malignant carcinoid syndrome	E34	disgenet;Ruiz2021;symptom	259;253		
+pyle metaphyseal dysplasia	Q78	disgenet	756	NA	NA
+cherubism	M27	disgenet	526;525	NA	NA
+longitudinal deficiency of radius	Q71	disgenet	755	NA	NA
+cyclocephaly	Q87	disgenet	755;756;759	NA	NA
+lens diseases	H27	disgenet;symptom	379	NA	NA
+cystinuria	E72	disgenet;Ruiz2021;symptom	270;271	NA	NA
+congenital glucose-galactose malabsorption	E74	disgenet	271	NA	NA
+glycosuria, renal	E74	disgenet	271		
+anxiety	F41	disgenet;Ruiz2021	300	NA	300;309;293
+avoidant personality disorder	F60	disgenet	301		301
+inadequate personality	F60	disgenet	301	NA	NA
+personality disorders	F60	disgenet;symptom	301		301;300
+asperger syndrome	F84	disgenet;symptom	299;330	NA	NA
+megacolon	K59	disgenet;symptom	564	NA	564
+intestinal obstruction	K56	disgenet;symptom	560		560;777
+buruli ulcer	A31	disgenet;symptom	031	NA	NA
+cold hemagglutinin disease	D59	disgenet	283	NA	NA
+spinal muscular atrophy	G12	disgenet	335		335
+distal spinal muscular atrophy	G12	disgenet	335	NA	NA
+scapuloperoneal form of spinal muscular atrophy	G12	disgenet	335	NA	NA
+spinal muscular atrophy, type iv	G12	disgenet	335	NA	NA
+niemann-pick disease, type a	E75	disgenet	330;272	NA	NA
+niemann-pick disease, type b	E75	disgenet;symptom	330;272	NA	NA
+bipolar ii disorder	F31	disgenet	296	NA	NA
+lateral sclerosis	G12	disgenet	335		335
+familial motor neuron disease	G12	disgenet	335	NA	NA
+extrinsic allergic alveolitis	J67	disgenet;Ruiz2021	495		495
+esophageal stenosis	K22	disgenet	530	530	530
+esophageal stricture	K22	disgenet	530		530;42.
+pierre robin syndrome	Q87	disgenet	755;756;759	NA	NA
+anonychia	Q84	disgenet	757	NA	NA
+paraplegia	G82	disgenet;symptom	344		334;344
+esophageal varices	I85	disgenet;Ruiz2021	456	NA	456;42.
+gastric varix	I86	disgenet	456	NA	NA
+benign neoplasm of testis	D29	disgenet	222		
+neoplasm of uncertain or unknown behavior of testis	D40	disgenet	236		
+sulfite oxidase deficiency	E72	disgenet	270;271	NA	NA
+palmoplantar keratosis	L85	disgenet;Ruiz2021	701;706	NA	NA
+3-methylglutaconic aciduria type 2	E78	disgenet	272;759	NA	NA
+abnormal renal morphology	Q63	disgenet	753	NA	NA
+transcobalamin ii deficiency	D51	disgenet	281	NA	NA
+autoimmune thyroiditis	E06	disgenet;Ruiz2021	245	245	245
+camurati-engelmann syndrome	Q78	disgenet;symptom	756	NA	NA
+peyronie disease	N48	disgenet	607		607
+posterior reversible encephalopathy syndrome	I67	disgenet	443;437;046;348;435;436	NA	NA
+hernia, inguinal	K40	disgenet;symptom	550		550
+inguinal hernia, direct	K40	disgenet	550	NA	NA
+inguinal hernia, indirect	K40	disgenet	550	NA	NA
+ventral hernia	K43	disgenet	552;551;553	NA	551;552;553
+incomplete anencephaly, hemicrania	Q00	disgenet	740	NA	NA
+rheumatic chorea	I02	disgenet	392		392
+neuroendocrine cell hyperplasia of infancy	J84	disgenet	516;515		
+wernicke encephalopathy	E51	disgenet;symptom	265	NA	NA
+melioidosis	A24	disgenet;symptom	024;025		025
+pleural effusion disorder	J90	disgenet;Ruiz2021	511		
+restrictive cardiomyopathy	I42	disgenet	425	NA	NA
+balkan nephropathy	N15	disgenet;symptom	583;590	NA	NA
+neuromuscular diseases	G70	disgenet;symptom	358		358
+evans syndrome	D69	disgenet	287		287
+stupor	R40	disgenet;symptom	780;NoD	NA	345
+vitamin e deficiency	E56	disgenet;Ruiz2021;symptom	269	NA	NA
+carpal tunnel syndrome	G56	disgenet;symptom	354		354
+familial amyloid polyneuropathy, type v	H18	disgenet	371		371
+amyloid neuropathies, familial	E85	disgenet;Ruiz2021;symptom	277	NA	NA
+oculocutaneous albinism type 1a	E70	disgenet	270	NA	NA
+cleft uvula	Q35	disgenet	749	NA	NA
+cleft of hard palate	Q35	disgenet	749	NA	NA
+cleft soft palate	Q35	disgenet	749	NA	749
+gilbert disease (disorder)	E80	disgenet	277	NA	NA
+thrombotic microangiopathies	M31	disgenet;symptom	446;447		
+scleral staphyloma	H15	disgenet	379		379;12.
+heartburn	R12	disgenet;Ruiz2021	787		787
+sneezing	R06	disgenet	786;784	NA	NA
+dextrocardia	Q24	disgenet;symptom	746	NA	NA
+megaloblastic anemia due to inborn errors of metabolism	D51	disgenet	281	NA	NA
+megaloblastic anemia 1	D51	disgenet	281	NA	NA
+gray platelet syndrome	D69	disgenet	287	NA	NA
+bloch sulzberger syndrome	Q82	disgenet	757	NA	NA
+neonatal jaundice	P59	disgenet	774	NA	774
+halitosis	R19	disgenet	789;787;792;784	NA	NA
+peliosis hepatis	K76	disgenet;symptom	571;573;570;572	NA	NA
+obstruction of pelviureteric junction	Q62	disgenet	753	NA	NA
+immune thrombocytopenic purpura	D69	disgenet;Ruiz2021	287		287
+pseudofolliculitis barbae (disorder)	L73	disgenet	706;704;705	NA	NA
+rothmund-thomson syndrome	Q82	disgenet	757	NA	NA
+hallucinations	R44	disgenet;symptom	780;368;799	780	780;291;292;293
+hallucinations, organic	F06	disgenet	293;294		
+hallucinations, auditory	R44	disgenet	780;368;799	NA	NA
+hallucinations, visual	R44	disgenet	780;368;799	NA	NA
+congenital dyserythropoietic anemia	D64	disgenet	285	NA	NA
+majeed syndrome	M04	disgenet		NA	NA
+contracture	M62	disgenet;symptom	728;724	NA	723;611;727;789;718;728;958;86.
+acquired clubfoot	M21	disgenet	736;734		736
+thrombocytopenia-absent radius syndrome	Q87	disgenet	755;756;759	NA	NA
+enteritis	K52	disgenet;Ruiz2021	558;787;535	NA	555;008;558;005;112;007;009;001;003;004;567;711
+clumsiness - motor delay	F82	disgenet	315	NA	NA
+adjustment disorders	F43	disgenet;symptom	308;309	NA	309
+inclusion body myositis (disorder)	G72	disgenet	359		NA
+hyperlysinemias	E72	disgenet	270;271	NA	NA
+hhh syndrome	E72	disgenet	270;271	NA	NA
+congenital absence, atresia and stricture of auditory canal (external)	Q16	disgenet	744	NA	NA
+lacrimal apparatus diseases	H04	disgenet;symptom	375		
+excessive tearing	H04	disgenet	375	375	375
+sotos' syndrome	Q87	disgenet	755;756;759	NA	NA
+ectopic pregnancy	O00	disgenet;Ruiz2021	633		633;761;66.;639;V23;74.
+neuropathy	G62	disgenet	357	NA	357;951;351;377;354;356;950;352;250;355;371;335;334;337;072;350;053;341;378;386;078
+severe congenital neutropenia	D70	disgenet	288	288	288
+threatened abortion	O20	disgenet	640		640
+truncus arteriosus, persistent	Q20	disgenet;symptom	745;746		
+pulmonary alveolar microlithiasis	J84	disgenet	516;515		
+rotor syndrome	E80	disgenet	277	NA	NA
+brachial plexus neuritis	G54	disgenet	353	NA	NA
+neuralgic amyotrophy	G54	disgenet	353	353	353
+eating disorders	F50	disgenet;symptom	307		307
+conduction disorder of the heart	I45	disgenet	426		426
+microcornea	Q13	disgenet	743	NA	NA
+photophobia	H53	disgenet	368	NA	NA
+schizophrenia, catatonic	F20	disgenet;symptom	295		
+reduced fetal movement	O36	disgenet	656;V23;655;678	NA	NA
+meckel-gruber syndrome	Q61	disgenet	753	NA	NA
+recurrent major depressive episodes	F33	disgenet	296;298		296
+cryptophthalmos syndrome	Q87	disgenet	755;756;759	NA	NA
+refractory anemia with ringed sideroblasts	D46	disgenet	238	NA	NA
+selective immunoglobulin a deficiency	D80	disgenet	279		
+osteopoikilosis (disorder)	Q78	disgenet	756		NA
+congenital chromosomal disease	Q99	disgenet	758;759		
+stuttering	F80	disgenet	315	NA	NA
+contracture of joint	M24	disgenet	718;728		718
+generalized pustular psoriasis	L40	disgenet	696;694	NA	NA
+acrodermatitis continua of hallopeau	L40	disgenet	696;694	NA	NA
+familial benign pemphigus	Q82	disgenet	757	NA	NA
+malignant neoplasm of thymus	C37	disgenet	164		164
+hereditary corneal dystrophy	H18	disgenet	371		
+granular dystrophy, corneal	H18	disgenet	371		
+vibratory urticaria	L50	disgenet	708		
+dengue fever	A90	disgenet	061	061	061
+hypertrichosis	L68	disgenet;Ruiz2021;symptom	704	NA	374
+chylomicron retention disease	E78	disgenet	272;759	NA	NA
+pentosuria	E74	disgenet	271	NA	NA
+occipital encephalocele	Q01	disgenet	742	NA	NA
+wolff-parkinson-white syndrome	I45	disgenet	426	NA	NA
+chronic kidney disease stage 5	N18	disgenet;Ruiz2021	585	NA	NA
+toxic effect of heavy metal	T56	disgenet	984;E86;V58;909;E95;E96;980;985;E98		
+polyarteritis nodosa	M30	disgenet;symptom	446		446
+apraxias	R48	disgenet;symptom	315;784;368	NA	NA
+crigler najjar syndrome, type 1	E80	disgenet	277	NA	NA
+kernicterus	P57	disgenet;symptom	773;774	NA	773;774
+refractory anaemia with excess blasts	D46	disgenet;Ruiz2021	238	NA	NA
+acute myeloid leukemia with multilineage dysplasia	C92	disgenet	205	NA	NA
+congenital posterior urethral valves	Q64	disgenet	752;753	NA	NA
+tetany	R29	disgenet;Ruiz2021;symptom	781;796;719;729		781
+tetany, neonatal	P71	disgenet	775	NA	NA
+hydranencephaly	Q04	disgenet	742	NA	NA
+riboflavin deficiency	E53	disgenet;symptom	266		266
+klippel-trenaunay-weber syndrome	Q87	disgenet	755;756;759	NA	NA
+hypochromic anemia	D50	disgenet	280	NA	NA
+sinus histiocytosis	D76	disgenet	288	NA	NA
+curvature of spine	M43	disgenet	738;724;718;723;737		737
+alopecia universalis	L63	disgenet	704	NA	NA
+idiopathic hypercalciuria	R82	disgenet	791;796	NA	NA
+dissociated nystagmus	H55	disgenet	379		
+spontaneous ocular nystagmus	H55	disgenet	379		
+mucolipidosis type iv	E75	disgenet	330;272	NA	NA
+sweet syndrome	L98	disgenet;symptom	686;698;695;682;707;701;709	NA	NA
+hydroxyprolinemia	E72	disgenet	270;271	NA	NA
+confusion	R41	disgenet	780;781;797;V62;799	NA	327;290;298;345;293;368;346;780
+speech impairment	R47	disgenet	784;V41	NA	NA
+hypersomnia, recurrent	G47	disgenet	780;327;347		
+synovitis, granulomatous, with uveitis and cranial neuropathies (disorder)	M04	disgenet		NA	NA
+marie cerebellar ataxia	G11	disgenet	334	NA	NA
+cerebellar ataxia, early onset	G11	disgenet	334	NA	NA
+cerebellar ataxia, late onset	G11	disgenet	334	NA	NA
+oropharyngeal dysphagia	R13	disgenet	787		
+cystic liver disease	Q44	disgenet	751	751	751;753
+pityriasis rubra pilaris	L44	disgenet;Ruiz2021;symptom	696;697;057;709		696
+complete hydatidiform mole	O01	disgenet	630	NA	NA
+early myoclonic encephalopathy	G40	disgenet	345	NA	NA
+congenital ptosis	Q10	disgenet	743		743
+paralytic ileus	K56	disgenet;Ruiz2021	560		560
+hallervorden-spatz syndrome	G23	disgenet	333	NA	NA
+hydrocephalus, normal pressure	G91	disgenet;symptom	331	NA	NA
+developmental reading disorder	F81	disgenet	315;V40		
+arterial tortuosity syndrome	Q87	disgenet	755;756;759	NA	NA
+frank hematuria	R31	disgenet	599		599
+reactive hemophagocytic syndrome	D76	disgenet	288	NA	NA
+subcutaneous panniculitis-like t-cell lymphoma	C86	disgenet	202;200	NA	NA
+renal dysplasia	Q61	disgenet	753	753	753
+malabsorption syndrome	K90	disgenet;Ruiz2021	579;040		579
+fazio-londe syndrome	G12	disgenet	335	NA	NA
+progressive bulbar palsy	G12	disgenet	335		335
+hyperlipoproteinemia type iv	E78	disgenet;Ruiz2021;symptom	272;759		
+hepatosplenomegaly	R16	disgenet	789	NA	NA
+d-glycericacidemia	E72	disgenet	270;271	NA	NA
+immune hydrops fetalis	P56	disgenet	773		778;773
+hydatidiform mole, partial	O01	disgenet	630	NA	NA
+dyslexia	F81	disgenet	315;V40	NA	315;784;93.
+nodular sclerosis classical hodgkin lymphoma	C81	disgenet	201	201	201
+spontaneous pneumothorax	J93	disgenet	512	NA	512
+pneumothorax, primary spontaneous	J93	disgenet	512		
+hypermobility syndrome	M35	disgenet	710;517;359;583;136;711;725;728;729		724;728
+multiple sulfatase deficiency disease	E75	disgenet	330;272	NA	NA
+dystrophia unguium	L60	disgenet;Ruiz2021	703	NA	NA
+hartnup disease	E72	disgenet;symptom	270;271	NA	NA
+underweight	R63	disgenet	783		783;764
+tumor lysis syndrome	E88	disgenet;symptom	273;272;277	277	277
+carcinoid tumor	D3A	disgenet	209	NA	209;259
+binswanger disease	I67	disgenet	443;437;046;348;435;436	NA	NA
+arteriosclerotic dementia	F01	disgenet	290	NA	290
+cerebral aneurysm	I67	disgenet	443;437;046;348;435;436	NA	437;094
+psoriatic arthritis	L40	Ruiz2021	696;694		696
+aids with kaposi's sarcoma	B21	Ruiz2021		NA	NA
+hepatocellular carcinoma (hcc)	C22	Ruiz2021	155	NA	NA
+pulmonary embolism (pe)	I26	Ruiz2021	415	NA	NA
+hiv wasting syndrome	B22	Ruiz2021		NA	NA
+hodgkin's lymphoma	C81	Ruiz2021	201		200;202;201
+hemarthrosis	M25	Ruiz2021;symptom	719;718;726;721		719
+non-hodgkin lymphoma (nhl)	C85	Ruiz2021	202;200	NA	NA
+peyronie's disease	N48	Ruiz2021	607		607
+crohn's disease	K50	Ruiz2021	555;560;569;566	NA	555
+ventricular tachycardia (vt)	I47	Ruiz2021	427	NA	NA
+ventricular fibrillation (vf)	I49	Ruiz2021	427	NA	NA
+chronic lymphocytic leukemia (cll)	C91	Ruiz2021	204;202		NA
+follicular lymphoma	C82	Ruiz2021	202		202
+dry eye syndrome	H04	Ruiz2021	375	NA	NA
+carcinoid tumors	D3A	Ruiz2021	209	NA	209;259
+tyrosinemia	E70	Ruiz2021	270	NA	NA
+muscle pain	M79	Ruiz2021	729;719	NA	NA
+joint pain	M25	Ruiz2021	719;718;726;721	719	719;524
+chronic renal failure	N18	Ruiz2021	585	585	585
+nasal congestion (finding)	R09	Ruiz2021	799;511;786;478;784;785	NA	NA
+megaloblastic anemia	D53	Ruiz2021	281	NA	281
+vitamin b6 deficiency	E53	Ruiz2021	266		266
+obsessive compulsive disorder (ocd)	F42	Ruiz2021	300		NA
+huntington's disease	G10	Ruiz2021	333	333	333
+spondylolysis	M43	Ruiz2021;symptom	738;724;718;723;737	NA	756
+spasms	M62	Ruiz2021	728;724		728;564;333;493;530;378;345;478;576;537
+attention-deficit/hyperactivity disorder (adhd)	F90	Ruiz2021	314		NA
+absence epilepsy	G40	Ruiz2021	345	NA	NA
+panic disorders	F41	Ruiz2021	300	NA	NA
+parkinson's disease	G20	Ruiz2021	332	332	332;094
+osteoarthritis	M19	Ruiz2021;symptom	715		715
+infection of bone	M86	Ruiz2021	730		730
+increased frequency of micturition	R35	Ruiz2021	788		
+urgency of micturition	R39	Ruiz2021	788		
+urinary incontinence	R32	Ruiz2021;symptom	788	788	788
+zollinger-ellison syndrome	E16	Ruiz2021	251	NA	NA
+gastroesophageal reflux disease (gerd)	K21	Ruiz2021	530		NA
+hepatic cirrhosis	K74	Ruiz2021	571	NA	571
+seborrheic dermatitis	L21	Ruiz2021	690;706		690;706
+postherpetic neuralgia	G53	Ruiz2021	352	NA	NA
+dysuria	R30	Ruiz2021	788	788	788;306
+iridocyclitis	H20	Ruiz2021;symptom	364		364;098;054;053;363;091
+episcleritis	H15	Ruiz2021	379	NA	379;095
+conjunctivitis	H10	Ruiz2021;symptom	372	372	372;077;477;370;130;098;076;032;053;055;771;V74
+deep vein thrombosis (dvt)	I82	Ruiz2021	453	NA	NA
+restless leg syndrome	G25	Ruiz2021	333		
+infantile spasms	G40	Ruiz2021	345	345	345
+symptomatic dermographism	L50	Ruiz2021	708		
+menorrhagia	N92	Ruiz2021;symptom	626;627	NA	627;626
+chronic myeloid leukemia (cml)	C92	Ruiz2021	205	NA	NA
+acute leukemia	C95	Ruiz2021	208		208;204;205
+blepharitis	H01	Ruiz2021;symptom	373		373;054
+hypertensive crisis	I16	Ruiz2021		NA	NA
+patent ductus arteriosus (pda)	Q25	Ruiz2021	747	NA	NA
+cushing's syndrome	E24	Ruiz2021	255;253		255
+mydriasis	H57	Ruiz2021;symptom	379;V41	NA	379
+grave's disease	E05	Ruiz2021	242	NA	NA
+metrorrhagia	N92	Ruiz2021;symptom	626;627	626	626
+secondary physiologic amenorrhea	N91	Ruiz2021	626	NA	NA
+priapism	N48	Ruiz2021;symptom	607		607
+onychomycosis	B35	Ruiz2021;symptom	110	NA	110
+erysipelas	A46	Ruiz2021;symptom	035		035;728
+nausea and vomiting	R11	Ruiz2021	787;536;078;569		787
+sinus bradycardia	R00	Ruiz2021	785;427	NA	NA
+tremors	R25	Ruiz2021	781;729	NA	NA
+keratoconjunctivitis	H16	Ruiz2021;symptom	370;360;372		370;077;053;055
+kidney stones	N20	Ruiz2021	592	592	592
+exfoliative dermatitis	L26	Ruiz2021	695	NA	NA
+laryngeal edema	J38	Ruiz2021;symptom	478	478	478
+addison's disease	E27	Ruiz2021	255	NA	NA
+thyroiditis	E06	Ruiz2021;symptom	245		245
+raynaud's disease	I73	Ruiz2021	443;785	443	443
+tourette's disorder	F95	Ruiz2021	307		
+burkitt's lymphoma	C83	Ruiz2021	200		200
+waldenstrom's macroglobulinemia (wm)	C88	Ruiz2021	273;203;200;238	NA	NA
+toxic multinodular goiter	E05	Ruiz2021	242		241;242
+gastrointestinal stromal tumors (gist)	C49	Ruiz2021	171	NA	NA
+testicular hypogonadism	E29	Ruiz2021	257	NA	NA
+deficiency of testosterone biosynthesis	E29	Ruiz2021	257	NA	NA
+wolff-parkinson-white syndrome (wpw)	I45	Ruiz2021	426	NA	NA
+cystic ovaries	N83	Ruiz2021	620	NA	256
+precocious puberty, central	E22	Ruiz2021	253	NA	NA
+cardiomyopathy	I42	Ruiz2021	425		425;086;674;429
+acute promyelocytic leukemia (apl)	C92	Ruiz2021	205	NA	NA
+amyotrophic lateral sclerosis (als)	G12	Ruiz2021	335	NA	NA
+obstructive sleep apnea	G47	Ruiz2021	780;327;347		327
+metabolic alkalosis	E87	Ruiz2021	276	NA	NA
+aortic coarctation	Q25	Ruiz2021;symptom	747		747
+cerebrovascular disorders	I67	Ruiz2021;symptom	443;437;046;348;435;436		437;430;674
+paronychia inflammation	L03	Ruiz2021	681;682	NA	NA
+fluid overload	E87	Ruiz2021	276		276
+gestational trophoblastic disease (gtd)	O01	Ruiz2021	630	NA	NA
+hepatic encephalopathy (he)	K72	Ruiz2021	570;572	NA	NA
+mastocytosis	D47	Ruiz2021;symptom	238;273;289	NA	202
+vitamin k deficiency	E56	Ruiz2021;symptom	269		269;776
+erythema nodosum	L52	Ruiz2021;symptom	695		695;017
+esotropia	H50	Ruiz2021;symptom	378		378
+myocardial ischemia	I25	Ruiz2021;symptom	414;429;411;413;412		414;410;411
+nocturia	R35	Ruiz2021	788		788
+hypermagnesemia	E83	Ruiz2021	275;686	NA	NA
+epididymitis	N45	Ruiz2021;symptom	604	NA	604;016
+chronic myelomonocytic leukemia (cmmol)	C93	Ruiz2021	206	NA	NA
+gallstones	K80	Ruiz2021	574;576	574	574;560
+biliary tract diseases	K83	Ruiz2021;symptom	576		
+lactose intolerance	E73	Ruiz2021;symptom	271	NA	271
+ehlers-danlos syndrome (eds)	Q79	Ruiz2021	756	NA	NA
+peripheral t-cell lymphoma (ptcl)	C84	Ruiz2021	202;200	NA	NA
+wilson's disease	E83	Ruiz2021	275;686	NA	NA
+idiopathic pulmonary fibrosis (ipf)	J84	Ruiz2021	516;515	NA	NA
+hypocupremia	E61	Ruiz2021	269	NA	NA
+amblyopia	H53	Ruiz2021	368		368;264
+chronic kidney disease (ckd)	N18	Ruiz2021	585		NA
+irregular periods	N92	Ruiz2021	626;627		
+lumbago	M54	Ruiz2021	723;724;729		724
+adrenogenital syndrome	E25	Ruiz2021	255	NA	NA
+brittle bone disease	Q78	Ruiz2021	756		756
+cavities	K02	Ruiz2021	521	521	212;521;160;V10
+autoimmune diseases	M30	Ruiz2021	446	NA	NA
+scoliosis	M41	symptom	737	NA	737;416
+joint diseases	M25	symptom	719;718;726;721		
+malabsorption syndromes	K90	symptom	579;040		
+meningitis, meningococcal	A39	symptom	036		036
+psittacosis	A70	symptom	073	073	073
+tularemia	A21	symptom	021		021;99.;V03
+diphtheria	A36	symptom	032		E94;032;99.;V02;978;V03;V06;V74
+botulism	A05	symptom	005	NA	99.;005;040
+discitis	M46	symptom	720;730;722	NA	NA
+paracoccidioidomycosis	B41	symptom	116		116
+mycoses	B49	symptom	117		039;711;111;117;116;114;110;202;118;484
+histoplasmosis	B39	symptom	115		115
+meningitis, viral	A87	symptom	047;049		
+common cold	J00	symptom	460		460;E94;975;99.;V04
+trematode infections	B66	symptom	121		
+fascioliasis	B66	symptom	121		121
+intestinal diseases, parasitic	B82	symptom	127;129		
+trichomonas infections	A59	symptom	131		
+leukemia, hairy cell	C91	symptom	204;202		202
+leukemia, lymphoid	C91	symptom	204;202		204
+lymphoma, large-cell, immunoblastic	C83	symptom	200	NA	NA
+plasmacytoma	C90	symptom	203	NA	238;273
+spondylitis, ankylosing	M45	symptom	720		
+muscular diseases	M62	symptom	728;724		359;358
+gastroesophageal reflux	K21	symptom	530	530	530
+intussusception	K56	symptom	560	560	560;96.
+postgastrectomy syndromes	K91	symptom	564;579;997;576;998;569		
+liver diseases	K76	symptom	571;573;570;572		573
+hepatitis	K75	symptom	572;573;571	573	V02;V05;571;070;573;072;774;130;091
+wegener granulomatosis	M31	symptom	446;447	446	446
+cough	R05	symptom	786	786	033;786;493;339;495;484;99.
+autonomic nervous system diseases	G90	symptom	337;742;333		337
+parkinson disease, postencephalitic	G21	symptom	333;332	NA	NA
+brain concussion	S06	symptom	850;V58;907;348;854;851;853;852		
+vertebrobasilar insufficiency	G45	symptom	435;362;437		
+akathisia, drug-induced	G25	symptom	333	NA	NA
+cranial nerve diseases	G52	symptom	352		352;388;350;378;351
+neck pain	M54	symptom	723;724;729	723	723
+diplopia	H53	symptom	368		368
+bartter syndrome	E26	symptom	255		255
+hypophosphatemia, familial	E83	symptom	275;686	NA	NA
+postpartum hemorrhage	O72	symptom	666		666;664
+lactation disorders	O92	symptom	676		676
+tachycardia, supraventricular	I47	symptom	427	NA	427
+heart aneurysm	I25	symptom	414;429;411;413;412	NA	37.
+cryoglobulinemia	D89	symptom	273;289;279	NA	NA
+lymphadenitis	I88	symptom	289	NA	683;289;099;091
+giant lymph node hyperplasia	D47	symptom	238;273;289	NA	NA
+immunoblastic lymphadenopathy	C86	symptom	202;200	NA	NA
+fructose intolerance	E74	symptom	271		271
+porphyrias	E80	symptom	277		277
+ascorbic acid deficiency	E54	symptom	267		267
+thyroid diseases	E07	symptom	246;790		252;246;240
+munchausen syndrome	F68	symptom	301;300	NA	NA
+histrionic personality disorder	F60	symptom	301		
+schizoid personality disorder	F60	symptom	301		
+paranoid disorders	F22	symptom	297	NA	297
+hypochondriasis	F45	symptom	300;307;306		300
+neurasthenia	F48	symptom	300;310;V40		300
+jaundice	R17	symptom	782	NA	782;282;100;774;773
+malignant hyperthermia	T88	symptom	999;V58;909;995		995
+meningitis, haemophilus	G00	symptom	320		320
+meningitis, pneumococcal	G00	symptom	320		320
+conjunctivitis, bacterial	H10	symptom	372	NA	NA
+tuberculosis, ocular	A18	symptom	015;711;720;730;737;016;601;017;014;379;370;363;364;420;422;424;425		
+fournier gangrene	N49	symptom	608	NA	NA
+ehrlichiosis	A77	symptom	082		082
+bartonella infections	A44	symptom	088		
+cat-scratch disease	A28	symptom	027;078		078
+trench fever	A79	symptom	083		083
+whooping cough	A37	symptom	033;484		033;484;99.
+salmonella infections	A02	symptom	003;995		003
+paratyphoid fever	A01	symptom	002		002;99.
+salmonella food poisoning	A02	symptom	003;995		
+plague	A20	symptom	020	020	V03;E94;020;021;99.;978
+rat-bite fever	A25	symptom	026		026
+leptospirosis	A27	symptom	100		100
+gonorrhea	A54	symptom	098;995		V02;098;647
+pasteurella infections	A28	symptom	027;078		
+boutonneuse fever	A77	symptom	082		
+rocky mountain spotted fever	A77	symptom	082	NA	NA
+typhus, endemic flea-borne	A75	symptom	080;081		
+typhus, epidemic louse-borne	A75	symptom	080;081		
+scrub typhus	A75	symptom	080;081		081
+syphilis, congenital	A50	symptom	090		090
+syphilis, latent	A53	symptom	097		090;092;096;097
+actinomycosis	A42	symptom	039;038;995		039
+whipple disease	K90	symptom	579;040		040
+leprosy, lepromatous	A30	symptom	030		030
+leprosy, borderline	A30	symptom	030		030
+peritonitis, tuberculous	A18	symptom	015;711;720;730;737;016;601;017;014;379;370;363;364;420;422;424;425		
+tuberculosis, miliary	A19	symptom	018		
+tuberculosis, osteoarticular	A18	symptom	015;711;720;730;737;016;601;017;014;379;370;363;364;420;422;424;425		
+tuberculosis, pleural	A15	symptom	011;012;010		
+tuberculosis, splenic	A18	symptom	015;711;720;730;737;016;601;017;014;379;370;363;364;420;422;424;425		
+tuberculosis, urogenital	A18	symptom	015;711;720;730;737;016;601;017;014;379;370;363;364;420;422;424;425		
+nocardia infections	A43	symptom	039	NA	NA
+mycetoma	B47	symptom	117;039	039	110;117;039
+anthrax	A22	symptom	022;484;995	022	022;680;484;V01;795;V71
+gas gangrene	A48	symptom	040;482		040
+erysipeloid	A26	symptom	027;995	027	027
+staphylococcal food poisoning	A05	symptom	005		
+impetigo	L01	symptom	684		694;684
+pneumonia, pneumococcal	J13	symptom	481		481;482
+scarlet fever	A38	symptom	034		034
+fasciitis, necrotizing	M72	symptom	728;729		
+spondylitis	M46	symptom	720;730;722		720;098;721;015
+pelvic inflammatory disease	N73	symptom	614;616		614
+empyema, pleural	J86	symptom	510;530;511	NA	NA
+blastomycosis	B40	symptom	116		116;117
+sporotrichosis	B42	symptom	117		117
+liver abscess	K75	symptom	572;573;571		006;572
+liver abscess, amebic	A06	symptom	006		
+subphrenic abscess	K65	symptom	567	NA	NA
+psoas abscess	K68	symptom	998;567;568		567
+otitis media, suppurative	H66	symptom	382		
+urinary tract infections	N39	symptom	599;625;788	599	646;599
+bacteriuria	R82	symptom	791;796	NA	646
+candidiasis, oral	B37	symptom	112;995		
+coccidioidomycosis	B38	symptom	114		114;116
+pneumonia, pneumocystis	B59	symptom	136		
+zygomycosis	B46	symptom	117		117
+mucormycosis	B46	symptom	117	117	117
+dengue hemorrhagic fever	A91	symptom	065	NA	NA
+encephalitis, california	A83	symptom	062		062
+encephalitis, st. louis	A83	symptom	062		062
+encephalomyelitis, venezuelan equine	A92	symptom	065;066		
+phlebotomus fever	A93	symptom	066		
+colorado tick fever	A93	symptom	066	NA	NA
+hemorrhagic fever, crimean	A98	symptom	065;078		
+yellow fever	A95	symptom	060	060	V73;V04;060;E94;99.;979
+central nervous system viral diseases	A88	symptom	048;078;049	NA	NA
+encephalitis, herpes simplex	B00	symptom	054	NA	054
+subacute sclerosing panencephalitis	A81	symptom	046		046
+lymphocytic choriomeningitis	A87	symptom	047;049	049	049
+paraparesis, tropical spastic	G04	symptom	323;344;320	NA	NA
+chickenpox	B01	symptom	052		052
+herpes zoster	B02	symptom	053	053	053;052
+herpes zoster ophthalmicus	B02	symptom	053		
+exanthema subitum	B08	symptom	051;059;078;058;057;074		058
+erythema infectiosum	B08	symptom	051;059;078;058;057;074		057
+cowpox	B08	symptom	051;059;078;058;057;074		051
+monkeypox	B04	symptom	059		059
+smallpox	B03	symptom	050	050	V01;E94;050;99.;V04;979;083;V73;059
+conjunctivitis, viral	B30	symptom	077	NA	NA
+hemorrhagic fevers, viral	A99	symptom	065	NA	NA
+marburg virus disease	A98	symptom	065;078	NA	NA
+mumps	B26	symptom	072	072	V04;072;99.;V06
+pleurodynia, epidemic	B33	symptom	074;066;078;079		
+rubella	B06	symptom	056	056	V01;V04;V73;056;99.;V06;771;647;058
+neurocysticercosis	B69	symptom	123	NA	NA
+helminthiasis	B83	symptom	128;134		120;128;127;711;V75
+sparganosis	B70	symptom	123		123
+trichinellosis	B75	symptom	124		124
+trichuriasis	B79	symptom	127		
+anisakiasis	B81	symptom	127	127	127
+ascariasis	B77	symptom	127;484		127;133
+enterobiasis	B80	symptom	127		127
+strongyloidiasis	B78	symptom	127;686		127
+filariasis	B74	symptom	125		125;V75
+loiasis	B74	symptom	125		125
+mansonelliasis	B74	symptom	125	NA	NA
+onchocerciasis	B73	symptom	125		125
+hookworm infections	B76	symptom	126	NA	NA
+clonorchiasis	B66	symptom	121		121
+paragonimiasis	B66	symptom	121		121
+cryptosporidiosis	A07	symptom	007;136		007
+babesiosis	B60	symptom	088;136;372;370		088
+protozoan infections	B64	symptom	088;136	NA	NA
+cyclosporiasis	A07	symptom	007;136		007
+toxoplasmosis, congenital	P37	symptom	771	NA	NA
+lice infestations	B85	symptom	132		
+myiasis	B87	symptom	134		134
+bone cysts	M85	symptom	733		733
+epidermal cyst	L72	symptom	706;704		706
+pancreatic cyst	K86	symptom	577	NA	52.;577
+pancreatic pseudocyst	K86	symptom	577	NA	NA
+pilonidal sinus	L05	symptom	685		86.;685
+sarcoma, myeloid	C92	symptom	205		
+lymphangioma	D18	symptom	228		228
+immunoproliferative small intestinal disease	C88	symptom	273;203;200;238	NA	NA
+lymphoma, b-cell, marginal zone	C88	symptom	273;203;200;238	NA	NA
+lymphoma, primary cutaneous anaplastic large cell	C86	symptom	202;200	NA	NA
+urticaria pigmentosa	D47	symptom	238;273;289	NA	NA
+eosinophilic granuloma	C96	symptom	202;277	NA	NA
+spinal stenosis	M48	symptom	724;723;721;733;V54;905;720	724	723;724
+polychondritis, relapsing	M94	symptom	733	NA	NA
+jaw diseases	M27	symptom	526;525		
+shoulder pain	M25	symptom	719;718;726;721	NA	NA
+arthritis, juvenile rheumatoid	M08	symptom	714;720	NA	NA
+rheumatoid nodule	M06	symptom	714	NA	NA
+gastroschisis	Q79	symptom	756		54.;756
+cholecystitis, acute	K81	symptom	575		574;575
+digestive system abnormalities	Q45	symptom	751		
+meckel diverticulum	Q43	symptom	751		152;751
+biliary fistula	K83	symptom	576	576	576;51.
+esophageal perforation	K22	symptom	530	530	530
+duodenitis	K29	symptom	535	535	535
+melena	K92	symptom	578;538;569	NA	777
+duodenal obstruction	K31	symptom	536;537;211	NA	537
+intestinal volvulus	K56	symptom	560		560
+reye syndrome	G93	symptom	348;780;331		331
+peritoneal diseases	K66	symptom	568		
+mesenteric lymphadenitis	I88	symptom	289		289
+lip diseases	K13	symptom	528		
+salivary gland diseases	K11	symptom	527		527
+sialadenitis	K11	symptom	527		527
+tongue diseases	K14	symptom	529		
+glossitis	K14	symptom	529		529
+bronchitis	J40	symptom	490		V81;466;491;464;493;490;506
+cryptogenic organizing pneumonia	J84	symptom	516;515		516
+laryngeal diseases	J38	symptom	478		
+laryngismus	J38	symptom	478		478
+croup	J05	symptom	464		464
+invasive pulmonary aspergillosis	B44	symptom	117;484;518	NA	NA
+alveolitis, extrinsic allergic	J67	symptom	495		
+bird fancier's lung	J67	symptom	495		
+farmer's lung	J67	symptom	495		495
+byssinosis	J66	symptom	504	NA	NA
+pneumonia, lipid	J69	symptom	507	NA	NA
+pulmonary atelectasis	J98	symptom	519;518		518
+granuloma, lethal midline	M31	symptom	446;447		
+respiration disorders	J98	symptom	519;518		
+bronchopulmonary sequestration	Q33	symptom	748	NA	NA
+mediastinitis	J98	symptom	519;518		519
+earache	H92	symptom	388		388
+labyrinthitis	H83	symptom	386;388	386	386;078
+mastoiditis	H70	symptom	383		383;015
+polyradiculoneuropathy, chronic inflammatory demyelinating	G61	symptom	357		
+horner syndrome	G90	symptom	337;742;333	NA	NA
+persistent vegetative state	R40	symptom	780;NoD		780
+myelinolysis, central pontine	G37	symptom	341;323	NA	NA
+cadasil	I67	symptom	443;437;046;348;435;436	NA	NA
+hematoma, epidural, cranial	S06	symptom	850;V58;907;348;854;851;853;852	NA	NA
+creutzfeldt-jakob syndrome	A81	symptom	046		
+spasms, infantile	G40	symptom	345		
+migraine with aura	G43	symptom	346		346
+hypertensive encephalopathy	I67	symptom	443;437;046;348;435;436		
+pseudotumor cerebri	G93	symptom	348;780;331		348
+dyskinesias	G24	symptom	333	NA	333
+nystagmus, pathologic	H55	symptom	379		
+papilledema	H47	symptom	377	377	377
+spina bifida occulta	Q76	symptom	756;754		756
+coma	R40	symptom	780;NoD	780	176;202;780;201;200;205;V80;V73;076;365;070;371;779;V19;V65;94.;377;759;853;854;851;366;801;803;800;804;251;348;250;572;850;364;139;852;12.;95.;778;V10;204;077;344;292;249;304;303;648
+amnesia, retrograde	R41	symptom	780;781;797;V62;799	NA	NA
+fasciculation	R25	symptom	781;729	NA	NA
+brachial plexus neuropathies	G54	symptom	353	NA	NA
+radiculopathy	M54	symptom	723;724;729	NA	357
+somnambulism	F51	symptom	307;327	NA	NA
+xerophthalmia	E50	symptom	264	375	375;264
+corneal edema	H18	symptom	371		371
+retinal hemorrhage	H35	symptom	362;363		362
+orbital diseases	H05	symptom	376		
+exophthalmos	H05	symptom	376		376
+chorioretinitis	H30	symptom	363		363;130;091;094
+scleritis	H15	symptom	379		379;095
+klinefelter syndrome	Q98	symptom	758	758	758
+diabetes insipidus, nephrogenic	N25	symptom	588		588
+urethral diseases	N36	symptom	599;596	NA	NA
+hemoglobinuria	R82	symptom	791;796	791	791;283;084
+pruritus vulvae	L29	symptom	698	NA	NA
+abortion, missed	O02	symptom	631;632		
+placenta previa	O44	symptom	641	NA	641;762
+embolism, amniotic fluid	O88	symptom	673		673
+pregnancy in diabetics	O24	symptom	648		
+pregnancy, abdominal	O00	symptom	633		
+cor triatriatum	Q24	symptom	746		746
+eisenmenger complex	I27	symptom	416	NA	NA
+tachycardia, paroxysmal	I47	symptom	427		427
+ventricular flutter	I49	symptom	427	427	427
+postpericardiotomy syndrome	I97	symptom	429;997;457;998	NA	NA
+pulmonary heart disease	I27	symptom	416	NA	415;416
+iliac aneurysm	I72	symptom	442		442
+embolism, cholesterol	I75	symptom	445		
+splenic infarction	D73	symptom	289	NA	NA
+purpura, schoenlein-henoch	D69	symptom	287		
+churg-strauss syndrome	M30	symptom	446	NA	NA
+anemia, dyserythropoietic, congenital	D64	symptom	285	NA	NA
+sickle cell trait	D57	symptom	282;517;289		V78;282
+anemia, pernicious	D51	symptom	281		281
+igg deficiency	D80	symptom	279	NA	NA
+leukemoid reaction	D72	symptom	288		288
+job's syndrome	D82	symptom	279	NA	NA
+lymphangitis	I89	symptom	457		457;116
+chromosome disorders	Q99	symptom	758;759		758
+birth injuries	P15	symptom	767		767
+jaundice, neonatal	P59	symptom	774	NA	NA
+panniculitis	M79	symptom	729;719		729;723
+dermatitis, contact	L25	symptom	692	NA	NA
+diaper rash	L22	symptom	691	691	691
+dermatitis, exfoliative	L26	symptom	695	NA	NA
+dermatitis, perioral	L71	symptom	695	NA	NA
+dermatitis, seborrheic	L21	symptom	690;706		
+epidermal necrolysis, toxic	L51	symptom	695		
+radiodermatitis	L58	symptom	692	NA	NA
+pyoderma	L08	symptom	686;039		686
+pressure ulcer	L89	symptom	707		707
+sweat gland diseases	L74	symptom	705		
+hyperhidrosis	R61	symptom	780	NA	780;705
+protein-energy malnutrition	E46	symptom	263		263
+parathyroid diseases	E21	symptom	252		252
+arthus reaction	T78	symptom	995;V58;909;988	995	995
+schizophrenia, disorganized	F20	symptom	295		
+somatoform disorders	F45	symptom	300;307;306		300
+hernia, diaphragmatic	K44	symptom	552;551;553	NA	NA
+hypovolemia	E86	symptom	276		276
+surgical wound dehiscence	T81	symptom	998;V58;909;997;999	NA	NA
+shock, traumatic	T79	symptom	958;V58;908		958
+arachnidism	T63	symptom	989;E90;V58;909;E98;E95;E92;E96	NA	NA
+snake bites	T63	symptom	989;E90;V58;909;E98;E95;E92;E96	NA	NA
+lightning injuries	T75	symptom	994;V58;909;E90		
+heat exhaustion	T67	symptom	992;V58;909		992
+tietze's syndrome	M94	symptom	733		733
+osteoarthritis, hip	M16	symptom	715	NA	NA
+liver cirrhosis, biliary	K74	symptom	571		
+hematemesis	K92	symptom	578;538;569		777;578
+megacolon, toxic	K59	symptom	564	NA	NA
+hemoperitoneum	K66	symptom	568	568	568
+urinary bladder calculi	N21	symptom	594	NA	NA
+lichen planus	L43	symptom	697		697
+conversion disorder	F44	symptom	300;298		300
+syphilis, cardiovascular	A52	symptom	093;094;357;713;095;096;097		
+fecal incontinence	R15	symptom	787	787	787;307
+autonomic dysreflexia	G90	symptom	337;742;333		337
+amnesia, transient global	G45	symptom	435;362;437		
+fetofetal transfusion	O43	symptom	656;663;667	NA	NA
+sclerema neonatorum	P83	symptom	778		
+kwashiorkor	E40	symptom	260		281;260;263
+puberty, precocious	E30	symptom	259	NA	NA
+carbon tetrachloride poisoning	T53	symptom	982;E86;V58;909;E95;E96;E98;987		
+ciguatera poisoning	T61	symptom	988;E86;V58;909;E92;E95;E96;E98	NA	NA
+fractures, stress	M84	symptom	733;V54;905	NA	NA
+chilblains	T69	symptom	991;V58;909		991
+crush syndrome	T79	symptom	958;V58;908	NA	NA
+conjunctivitis, inclusion	A74	symptom	077;079;078		
+gingivitis, necrotizing ulcerative	A69	symptom	101;528;088;104	NA	NA
+leprosy, tuberculoid	A30	symptom	030		030
+spirochaetales infections	A69	symptom	101;528;088;104		
+postpoliomyelitis syndrome	G14	symptom	138	NA	NA
+ecthyma, contagious	B08	symptom	051;059;078;058;057;074		
+diphyllobothriasis	B70	symptom	123		123
+hymenolepiasis	B71	symptom	123		123
+taeniasis	B68	symptom	123		
+dracunculiasis	B72	symptom	125		125
+ancylostomiasis	B76	symptom	126	NA	126
+necatoriasis	B76	symptom	126	NA	126
+trichostrongylosis	B81	symptom	127		
+sarcocystosis	A07	symptom	007;136		
+scabies	B86	symptom	133	133	133
+leukemia, plasma cell	C90	symptom	203		
+mast-cell sarcoma	C96	symptom	202;277		
+exostoses, multiple hereditary	Q78	symptom	756	NA	NA
+prostatic intraepithelial neoplasia	N42	symptom	602;600	NA	233
+nelson syndrome	E24	symptom	255;253	NA	NA
+funnel chest	Q67	symptom	754	754	754
+renal osteodystrophy	N25	symptom	588		588
+scheuermann disease	M42	symptom	732		732
+legg-perthes disease	M91	symptom	732	NA	NA
+lordosis	M40	symptom	737	NA	737
+spondylolisthesis	M43	symptom	738;724;718;723;737	756;738	738;756
+felty's syndrome	M05	symptom	714;359;357		714
+arthropathy, neurogenic	M14	symptom	713		713
+esophageal motility disorders	K22	symptom	530		
+plummer-vinson syndrome	D50	symptom	280	NA	NA
+sprue, tropical	K90	symptom	579;040		
+achlorhydria	K31	symptom	536;537;211		536
+macroglossia	K14	symptom	529	750	750
+malocclusion	M26	symptom	524;525		524
+malocclusion, angle class i	M26	symptom	524;525		524
+malocclusion, angle class ii	M26	symptom	524;525	524	524
+tooth abrasion	K03	symptom	521;523		
+tooth erosion	K03	symptom	521;523		521
+tooth resorption	K03	symptom	521;523		521
+laryngostenosis	J38	symptom	478		478
+meconium aspiration syndrome	P24	symptom	770	NA	NA
+obesity hypoventilation syndrome	E66	symptom	278		278
+mouth breathing	R06	symptom	786;784	NA	NA
+presbycusis	H91	symptom	389;388		388
+otosclerosis	H80	symptom	387		387
+dystonia musculorum deformans	G24	symptom	333	333	333
+hypoglossal nerve diseases	G52	symptom	352		
+trigeminal nerve diseases	G50	symptom	350		
+bulbar palsy, progressive	G12	symptom	335		335
+mononeuropathies	G58	symptom	354;355	NA	NA
+aphakia	H27	symptom	379		379;743
+astigmatism	H52	symptom	367		367
+hyperopia	H52	symptom	367		367
+spermatocele	N43	symptom	603;608		63.;608
+polycystic kidney, autosomal recessive	Q61	symptom	753		
+glycosuria	R81	symptom	791		271;791
+vesicovaginal fistula	N82	symptom	619	NA	NA
+abortion, threatened	O20	symptom	640		640
+hyperemesis gravidarum	O21	symptom	643		643
+oligohydramnios	O41	symptom	658		761;658
+ductus arteriosus, patent	Q25	symptom	747		
+mucopolysaccharidoses	E76	symptom	277		277
+hernia, umbilical	Q79	symptom	756	NA	NA
+fibrocystic breast disease	N60	symptom	610		610
+acanthosis nigricans	L83	symptom	701	NA	701
+hypervitaminosis a	E67	symptom	278		278
+beriberi	E51	symptom	265		265
+puberty, delayed	E30	symptom	259	NA	NA
+euthyroid sick syndromes	E07	symptom	246;790		
+goiter, endemic	E01	symptom	240;241;244		
+agoraphobia	F40	symptom	300	NA	300
+binge-eating disorder	F50	symptom	307	NA	NA
+schizophrenia, paranoid	F20	symptom	295		
+transsexualism	F64	symptom	302		302
+body dysmorphic disorders	F45	symptom	300;307;306	NA	NA
+hernia, femoral	K41	symptom	552;551;553	NA	NA
+hernia, ventral	K43	symptom	552;551;553	NA	NA
+xyy karyotype	Q98	symptom	758	NA	NA
+forearm injuries	S59	symptom	813;V54;733;905;959;V58;908	NA	959
+shoulder dislocation	S43	symptom	831;V58;905;839;840		831;718;79.
+mandibular fractures	S02	symptom	800;V54;733;905;801;802;873;803	NA	NA
+hip dislocation	S73	symptom	835;V58;905;843		754;835
+neck injuries	S19	symptom	959;V58;908	NA	NA
+bell palsy	G51	symptom	351		351
+nevus, pigmented	D22	symptom	216	NA	NA
+foot deformities, congenital	Q66	symptom	754;755	NA	NA
+hearing loss, conductive	H90	symptom	389		389
+vestibulocochlear nerve diseases	H93	symptom	388;315;V41		
+exotropia	H50	symptom	378		378
+testicular hydrocele	N43	symptom	603;608		
+multicystic dysplastic kidney	Q61	symptom	753	NA	NA
+vaginismus	N94	symptom	625;629		306;625
+uterine cervical incompetence	N88	symptom	622	622	622
+pemphigoid gestationis	O26	symptom	646;669;649;679	NA	NA
+pregnancy, tubal	O00	symptom	633		
+pulmonary atresia	Q22	symptom	746	746	746
+endocardial fibroelastosis	I42	symptom	425		425
+factor xi deficiency	D68	symptom	286;289	286	286
+conduct disorder	F91	symptom	312;313		312;313;314
+uterine inversion	N85	symptom	621	665	665
+uterine inertia	O62	symptom	661	NA	661
+cysticercosis	B69	symptom	123		123
+kashin-beck disease	M12	symptom	714;716;719		716
+pouchitis	K91	symptom	564;579;997;576;998;569		569
+rectocele	N81	symptom	618		70.;618
+migraine without aura	G43	symptom	346		346
+tension-type headache	G44	symptom	339;784;307		339;307
+cluster headache	G44	symptom	339;784;307		339
+femoral neuropathy	G57	symptom	355	NA	NA
+epispadias	Q64	symptom	752;753	752	752;58.
+multiple personality disorder	F44	symptom	300;298		
+molluscum contagiosum	B08	symptom	051;059;078;058;057;074		078
+dicrocoeliasis	B66	symptom	121	NA	NA
+esophageal spasm, diffuse	K22	symptom	530	NA	NA
+colitis, collagenous	K52	symptom	558;787;535	NA	NA
+fecal impaction	K56	symptom	560		560
+pyloric stenosis, hypertrophic	Q40	symptom	750		
+dysphonia	R49	symptom	784	784	784
+oculomotor nerve diseases	H49	symptom	378;277	NA	NA
+hereditary sensory and motor neuropathy	G60	symptom	356	NA	NA
+dysgeusia	R43	symptom	781;V41	NA	NA
+enophthalmos	H05	symptom	376		376
+urinary incontinence, urge	N39	symptom	599;625;788		
+epidermolysis bullosa acquisita	L12	symptom	694;695	NA	NA
+scleroderma, localized	L94	symptom	701;709;696;136		
+keratosis, seborrheic	L82	symptom	702		702
+hernia, abdominal	K46	symptom	552;551;553		550;53.
+hematometra	N85	symptom	621		621
+tabes dorsalis	A52	symptom	093;094;357;713;095;096;097		094
+night blindness	H53	symptom	368	368	368;264
+heavy chain disease	C88	symptom	273;203;200;238	NA	NA
+hemothorax	J94	symptom	511	NA	860
+tinea pedis	B35	symptom	110		110
+tennis elbow	M77	symptom	726		726
+pruritus ani	L29	symptom	698		698
+nesidioblastosis	E16	symptom	251	NA	NA
+anterior spinal artery syndrome	G83	symptom	344	NA	NA
+nystagmus, congenital	H55	symptom	379		379
+vagus nerve diseases	G52	symptom	352		
+parasomnias	G47	symptom	780;327;347	NA	NA
+eye hemorrhage	H44	symptom	360	NA	NA
+ectropion	H02	symptom	374		374;08.;622
+ocular hypotension	H44	symptom	360		
+nocturnal enuresis	N39	symptom	599;625;788		788
+postthrombotic syndrome	I87	symptom	459	459	459
+postphlebitic syndrome	I87	symptom	459		459
+acne keloid	L73	symptom	706;704;705	NA	NA
+intertrigo	L30	symptom	692;705;690;695;696	NA	110
+calcium metabolism disorders	E83	symptom	275;686		275
+dependent personality disorder	F60	symptom	301		
+malocclusion, angle class iii	M26	symptom	524;525		
+factor v deficiency	D68	symptom	286;289	NA	NA
+diverticulum, stomach	K31	symptom	536;537;211		
+aortopulmonary septal defect	Q21	symptom	745	NA	NA
+aortic stenosis, supravalvular	Q25	symptom	747	NA	NA
+color vision defects	H53	symptom	368	368	368
+levocardia	Q24	symptom	746	NA	NA
+pulmonary subvalvular stenosis	Q24	symptom	746		
+twins, conjoined	Q89	symptom	759		
+ophthalmia neonatorum	A54	symptom	098;995	098	098
+chancroid	A57	symptom	099		099
+paronychia	L03	symptom	681;682	NA	681
+leishmaniasis, mucocutaneous	B55	symptom	085		
+bone cysts, aneurysmal	M85	symptom	733		
+radicular cyst	K04	symptom	522		522
+parovarian cyst	Q50	symptom	752	NA	NA
+popliteal cyst	M71	symptom	727		727
+hypertelorism	Q75	symptom	756		376
+ainhum	L94	symptom	701;709;696;136		136
+hydrarthrosis	M25	symptom	719;718;726;721		719
+joint loose bodies	M24	symptom	718;728		
+synovitis, pigmented villonodular	M12	symptom	714;716;719	NA	NA
+dupuytren contracture	M72	symptom	728;729		728
+rectal fistula	K60	symptom	565	NA	48.
+mallory-weiss syndrome	K22	symptom	530		
+melkersson-rosenthal syndrome	G51	symptom	351	NA	NA
+salivary gland calculi	K11	symptom	527		
+tongue, fissured	K14	symptom	529		
+dental pulp necrosis	K04	symptom	522		
+tooth fractures	S02	symptom	800;V54;733;905;801;802;873;803	NA	NA
+otitis externa	H60	symptom	380	380	380;112;054;053
+tympanic membrane perforation	H72	symptom	384		384
+gangliosidoses	E75	symptom	330;272	NA	NA
+abducens nerve injury	S04	symptom	950;V58;907;951		951
+phantom limb	G54	symptom	353		353
+brown-sequard syndrome	G83	symptom	344	NA	NA
+miosis	H57	symptom	379;V41	379	617;379;728
+tarsal tunnel syndrome	G57	symptom	355		355
+corneal dystrophies, hereditary	H18	symptom	371		
+balanitis	N48	symptom	607	NA	607
+phimosis	N47	symptom	605;607	NA	374;605
+paraphimosis	N47	symptom	605;607	NA	NA
+uterine cervicitis	N72	symptom	616	NA	616
+panniculitis, lupus erythematosus	L93	symptom	695	NA	NA
+mucinosis, follicular	L65	symptom	704	NA	NA
+cyclothymic disorder	F34	symptom	301;300;296		301
+respiratory system abnormalities	J98	symptom	519;518		
+pre-excitation syndromes	I45	symptom	426	NA	NA
+rhinosporidiosis	B48	symptom	116;117;118		117
+dental deposits	K03	symptom	521;523		
+anemia, myelophthisic	D61	symptom	284	NA	NA
+choroid hemorrhage	H31	symptom	363;362		
+tinea versicolor	B36	symptom	111		111
+shoulder impingement syndrome	M75	symptom	726;727	NA	NA
+aphonia	R49	symptom	784	784	784
+dystonic disorders	G24	symptom	333	NA	NA
+jet lag syndrome	G47	symptom	780;327;347		
+anisocoria	H57	symptom	379;V41		379
+nocturnal myoclonus syndrome	G47	symptom	780;327;347		
+menopause, premature	E28	symptom	256		
+gilbert disease	E80	symptom	277	NA	NA
+encopresis	F98	symptom	307;313	307	307
+subarachnoid hemorrhage, traumatic	S06	symptom	850;V58;907;348;854;851;853;852	NA	NA
+rhinitis, vasomotor	J30	symptom	477	NA	NA
+leriche syndrome	I74	symptom	444		444
+presbyopia	H52	symptom	367		367
+glossalgia	K14	symptom	529		
+sphingolipidoses	E75	symptom	330;272	NA	NA
+agnosia	R48	symptom	315;784;368	NA	784
+crigler-najjar syndrome	E80	symptom	277	NA	NA
+nose deformities, acquired	M95	symptom	738		
+hearing loss, mixed conductive-sensorineural	H90	symptom	389		
+skull fracture, basilar	S02	symptom	800;V54;733;905;801;802;873;803		801
+pantothenate kinase-associated neurodegeneration	G23	symptom	333	NA	NA
+spondylosis	M47	symptom	721		721
+gangliosidoses, gm2	E75	symptom	330;272	NA	NA
+night terrors	F51	symptom	307;327	NA	NA
+multiple carboxylase deficiency	D81	symptom	279;277;266	NA	NA
+insomnia, fatal familial	A81	symptom	046		
+de quervain disease	M65	symptom	727		
+trigger finger disorder	M65	symptom	727	NA	NA
+aniseikonia	H52	symptom	367		367
+firesetting behavior	F63	symptom	312;307		
+vestibular neuronitis	H81	symptom	386		386;078
+marchiafava-bignami disease	G37	symptom	341;323	NA	NA
+pedophilia	F65	symptom	302		302
+paranoid personality disorder	F60	symptom	301		301
+gingival recession	K06	symptom	523		523
+amnesia, anterograde	R41	symptom	780;781;797;V62;799	NA	NA
+glossopharyngeal nerve diseases	G52	symptom	352	NA	NA
+exhibitionism	F65	symptom	302		302
+herpes zoster oticus	B02	symptom	053		
+hematocolpos	N89	symptom	623;626	NA	NA
+amaurosis fugax	G45	symptom	435;362;437	NA	NA
+microstomia	Q18	symptom	744		744
+urea cycle disorders, inborn	E72	symptom	270;271		
+olfactory nerve diseases	G52	symptom	352		
+vulvodynia	N94	symptom	625;629		625
+nails, ingrown	L60	symptom	703		
+onycholysis	L60	symptom	703	NA	NA
+heel spur	M77	symptom	726		726
+colitis, lymphocytic	K52	symptom	558;787;535	NA	NA
+dry socket	M27	symptom	526;525		526
+balantidiasis	A07	symptom	007;136		007
+lymphogranuloma venereum	A55	symptom	099		099
+leukemia, myelomonocytic, juvenile	C93	symptom	206	NA	NA
+keratosis, actinic	L57	symptom	702;692;701;709		
+osteophyte	M25	symptom	719;718;726;721	NA	NA
+chondromalacia patellae	M22	symptom	718;717		717
+hallux rigidus	M20	symptom	736;727;735		735
+metatarsalgia	M77	symptom	726	NA	NA
+post-traumatic headache	G44	symptom	339;784;307		339
+vulvar vestibulitis	N94	symptom	625;629		625
+granuloma annulare	L92	symptom	695;709;701;686	NA	NA
+iliotibial band syndrome	M76	symptom	726	NA	NA
+flail chest	S22	symptom	805;V54;733;905;807;809		807
+spinal osteochondrosis	M42	symptom	732	732	732
+actinomycosis, cervicofacial	A42	symptom	039;038;995		
+tooth ankylosis	K03	symptom	521;523		
+cracked tooth syndrome	K03	symptom	521;523		
+hydatidiform mole, invasive	D39	symptom	236	NA	NA
+salivary gland fistula	K11	symptom	527	527	750;26.;527
+dens in dente	K00	symptom	520	NA	NA
+hypercementosis	K03	symptom	521;523		521
+chalazion	H00	symptom	373	373	373;08.
+retinal telangiectasis	H35	symptom	362;363		362
+pityriasis rosea	L42	symptom	696		696
+herpangina	B08	symptom	051;059;078;058;057;074		074
+granuloma inguinale	A58	symptom	099		099
+isosporiasis	A07	symptom	007;136	NA	NA
+postcholecystectomy syndrome	K91	symptom	564;579;997;576;998;569		576
+pyonephrosis	N13	symptom	591;593;590;599	NA	590
+hemospermia	R36	symptom	788;608		608
+rhinophyma	L71	symptom	695	NA	NA
+chromoblastomycosis	B43	symptom	117		117
+lichen nitidus	L44	symptom	696;697;057;709		697
+fox-fordyce disease	L75	symptom	705		705
+erythrasma	L08	symptom	686;039	NA	NA
