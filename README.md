@@ -4,6 +4,8 @@ The goal of this project is to build a disease-multilayer network integrating di
 # Dictionary
 Disease names, MeSH terms, and DOID have been translated into ICD10 and ICD9 codes (International Classification of Diseases) using the Unified Medical Language System (UMLS), followed by manual curation. The generated dictionary ("DiseaseName_ICD10_dictionary.txt") provides disease name - ICD10 associations indicating the disease category they belong to and provides a palette color.
 
+./images/Layers.png
+
 # Transcriptomic layer
 Expression data has been downloaded from GEO, focusing only on those experiments conducted on human samples with the microarray platform HG U133Plus2. After quality filtering, normalization, and filtering of lowly expressed genes differential expression analyses have been conducted comparing expression levels in disease vs. control state. Cosine similarities between diseases were calculated based on the fold changes obtained by differential expression analysis. Using randomizations, the p-value of the similarities was calculated.
 
