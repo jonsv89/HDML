@@ -4,6 +4,7 @@ The goal of this project is to build a disease-multilayer network integrating di
 # Dictionary
 Disease names, MeSH terms, and DOID have been translated into ICD10 and ICD9 codes (International Classification of Diseases) using the Unified Medical Language System (UMLS), followed by manual curation. The generated dictionary ("DiseaseName_ICD10_dictionary.txt") provides disease name - ICD10 associations indicating the disease category they belong to and provides a palette color.
 
+# Multilayer construction
 ![Construction of the disease multilayer network](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/LayerConstruction.png)
 
 # Transcriptomic layer
