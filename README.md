@@ -33,4 +33,5 @@ Disease-cg associations have been extracted from EWASdb (http://www.bioapp.org/e
 Disease-metabolite associations have been extracted from the Human Metabolome Database (https://hmdb.ca). We have selected disease-metabolite associations, regardless of the concentrations, that were measured in blood. After translating disease names into ICD10 codes a weight has been asigned to each metabolite based on the number of diseases it's associated to. Then, cosine similarities have been calculated between pairs of diseases, calculating a p-value for each pair of diseases through randomizations.
 
 # Diseases by layer
+![Diseases by category in each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DiseaseCategoryLayer.png)
 ![Number of diseases in each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DiseaseByLayer.png)
