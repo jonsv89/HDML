@@ -1,14 +1,10 @@
 # Introduction
 Co-occurrence of diseases decreases patient quality of life, complicates treat- ment choices, and increases mortality. Analyses of electronic health records present a complex scenario of comorbidity relationships that vary by age, sex, and cohort under study. The study of similarities between diseases using ‘omics data, such as genes altered in diseases, gene expression, proteome, and microbiome, are fundamental to uncovering the origin of, and potential treat- ment for, comorbidities. Recent studies have produced a first generation of ge- netic interpretations for as much as 46% of the comorbidities described in large cohorts. Integrating different sources of molecular information and using artificial intelligence (AI) methods are promising approaches for the study of co- morbidities. They may help to improve the treatment of comorbidities, including the potential repositioning of drugs [1](https://www.cell.com/action/showPdf?pii=S0168-9525%2823%2900134-8). 
 The goal of this project is to build a disease-multilayer network integrating different sources of information (genes, miRNAs, drugs, symptoms, metabolome, methylome, microbiome, transcriptome) to better understand comorbidity relationships.
-
+![Construction of the disease multilayer network](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/LayerConstruction.png)
 # Dictionary
 Disease names, MeSH terms, and DOID have been translated into ICD10 and ICD9 codes (International Classification of Diseases) using the Unified Medical Language System (UMLS), followed by manual curation. The generated dictionary ("DiseaseName_ICD10_dictionary.txt") provides disease name - ICD10 associations indicating the disease category they belong to and provides a palette color.
-
-# Multilayer construction
-![Construction of the disease multilayer network](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/LayerConstruction.png)
-
-# Transcriptomic layer
+# Transcriptome layer
 Expression data has been downloaded from GEO, focusing only on those experiments conducted on human samples with the microarray platform HG U133Plus2. After quality filtering, normalization, and filtering of lowly expressed genes differential expression analyses have been conducted comparing expression levels in disease vs. control state. Cosine similarities between diseases were calculated based on the fold changes obtained by differential expression analysis. Using randomizations, the p-value of the similarities was calculated.
 
 # Gene layer
@@ -32,6 +28,6 @@ Disease-cg associations have been extracted from EWASdb (http://www.bioapp.org/e
 # Metabolome layer
 Disease-metabolite associations have been extracted from the Human Metabolome Database (https://hmdb.ca). We have selected disease-metabolite associations, regardless of the concentrations, that were measured in blood. After translating disease names into ICD10 codes a weight has been asigned to each metabolite based on the number of diseases it's associated to. Then, cosine similarities have been calculated between pairs of diseases, calculating a p-value for each pair of diseases through randomizations.
 
-# Diseases by layer
+# Disease Multilayer
+In each of the layers nodes represent diseases and edges represent similarities between them based on the layer information. Similarities have been calculated through cosine similarity, jaccard index, and weighted cosine similarity. The disease categories with a larger representation in the multilayer are infectious diseases and neoplasms (chapters I and II), being the symptom layer the one with the largest number of diseases.
 ![Diseases by category in each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DiseaseCategoryLayer.png)
-![Number of diseases in each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DiseaseByLayer.png)
