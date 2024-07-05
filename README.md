@@ -33,12 +33,7 @@ Disease-metabolite associations have been extracted from the Human Metabolome Da
 # Disease Multilayer
 In each of the layers nodes represent diseases and edges represent similarities between them based on the layer information. Similarities have been calculated through cosine similarity, jaccard index, and weighted cosine similarity on the different weights mentioned above. The disease categories with a larger representation in the multilayer are infectious diseases and neoplasms (chapters I and II), being the symptom layer the one with the largest number of diseases.
 ![Diseases by category in each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DiseaseCategoryLayer.png)
-
-# Recalls:
+We then evaluated the ability of each of the layers to retrieve comorbidity relationships extracted from electronic health records (Westergaard et al. 2019). In the graphs below we show recall (red), precision (green) and percentage of similarities retained with each of the similarity metrics and weighted measures of disease-omics variable associations (blue). 
 ![recalls](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DML_recall.png)
-
-# Precision:
 ![precision](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DML_precision.png)
-
-# Interactions kept:
 ![Percentage of interactions kept](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DML_interactions.png)
