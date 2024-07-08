@@ -21,6 +21,123 @@ def _order_dataframe(df):
     
     return df
 
+
+def compute_backbone(layer, weight, normalization):
+    
+    rGfile = f'Networks/Intralayer/ICD10_{layer}_{weight}_{normalization}.txt'
+    if layer == 'symptom':
+        rGfile += '.zip'
+    
+    df_data = pd.read_csv(rGfile, sep='\t')
+    
+    df_graph = df_data[df_data[normalization] > 0]    
+    df_graph.loc[:, 'distance'] = 1./df_graph[normalization] - 1.
+    
+    # No Filter
+    G = nx.from_pandas_edgelist(df_graph, source='disease1', target='disease2', edge_attr='distance')
+    B = dc.metric_backbone(G, weight='distance')                
+
+    df_backbone = nx.to_pandas_edgelist(B, source='disease1', target='disease2')
+    df_backbone = _order_dataframe(df_backbone)
+    df_backbone['all_backbone'] = 1
+    df_data = pd.merge(df_data, df_backbone, how='outer', on=['disease1', 'disease2'])
+    
+    # FDR Filter
+    df_graph = df_graph[df_graph['fdr_up'] <= 0.05]
+    
+    G = nx.from_pandas_edgelist(df_graph, source='disease1', target='disease2', edge_attr='distance')
+    B = dc.metric_backbone(G, weight='distance')                
+
+    df_backbone = nx.to_pandas_edgelist(B, source='disease1', target='disease2')
+    df_backbone = _order_dataframe(df_backbone)
+    df_backbone['fdr_backbone'] = 1
+    df_data = pd.merge(df_data, df_backbone, how='outer', on=['disease1', 'disease2'])
+    
+    df_data.fillna(0, inplace=True)
+    df_data.drop(columns=['distance_x', 'distance_y'], inplace=True)                
+    
+    #print(df_data.sort_values('all_backbone'))
+    
+    wGfile = f'Backbone/Networks/Intralayer/ICD10_{layer}_{weight}_{normalization}.txt'
+    ensurePathExists(wGfile)
+    df_data.to_csv(wGfile, sep='\t')
+
+
+def compute_backbone_transcriptome():
+    
+    layer = 'transcriptome'
+    weight = 'fc'
+    normalization = 'cosinesimilarities'
+    rGfile = f'Networks/Intralayer/ICD10_{layer}_{weight}_{normalization}.txt'
+    if layer == 'symptom':
+        rGfile += '.zip'
+    
+    df_data = pd.read_csv(rGfile, sep='\t')
+    
+    df_graph = df_data[df_data[normalization] > 0]    
+    df_graph.loc[:, 'distance'] = 1./df_graph[normalization] - 1.
+    
+    # No Filter
+    G = nx.from_pandas_edgelist(df_graph, source='disease1', target='disease2', edge_attr='distance')
+    B = dc.metric_backbone(G, weight='distance')                
+
+    df_backbone = nx.to_pandas_edgelist(B, source='disease1', target='disease2')
+    df_backbone = _order_dataframe(df_backbone)
+    df_backbone['all_backbone'] = 1
+    df_data = pd.merge(df_data, df_backbone, how='outer', on=['disease1', 'disease2'])
+    
+    # FDR Filter
+    df_graph = df_graph[df_graph['fdr'] <= 0.05]
+    
+    G = nx.from_pandas_edgelist(df_graph, source='disease1', target='disease2', edge_attr='distance')
+    B = dc.metric_backbone(G, weight='distance')                
+
+    df_backbone = nx.to_pandas_edgelist(B, source='disease1', target='disease2')
+    df_backbone = _order_dataframe(df_backbone)
+    df_backbone['fdr_backbone'] = 1
+    df_data = pd.merge(df_data, df_backbone, how='outer', on=['disease1', 'disease2'])
+    
+    df_data.fillna(0, inplace=True)
+    df_data.drop(columns=['distance_x', 'distance_y'], inplace=True)                
+    
+    #print(df_data.sort_values('all_backbone'))
+    
+    wGfile = f'Backbone/Networks/Intralayer/ICD10_{layer}_{weight}_{normalization}.txt'
+    ensurePathExists(wGfile)
+    df_data.to_csv(wGfile, sep='\t')    
+ 
+ 
+def compute_backbone_epidemiology():
+    
+    layer = 'epidemiology'
+    normalization = 'relativerisk'
+    rGfile = f'Networks/Multilayer/{layer}.txt'
+    
+    df_data = pd.read_csv(rGfile, sep='\t')
+    
+    maxRR = 1.01+df_data['RR'].max()
+    df_data['weight'] = df_data['RR']/maxRR 
+    df_data.loc[:, 'distance'] = 1./df_data['weight'] - 1.
+    
+    # No Filter
+    G = nx.from_pandas_edgelist(df_data, source='disease1', target='disease2', edge_attr='distance')
+    B = dc.metric_backbone(G, weight='distance')                
+
+    df_backbone = nx.to_pandas_edgelist(B, source='disease1', target='disease2')
+    df_backbone = _order_dataframe(df_backbone)
+    df_backbone['all_backbone'] = 1
+    df_data = pd.merge(df_data, df_backbone, how='outer', on=['disease1', 'disease2'])
+    
+    df_data.fillna(0, inplace=True)    
+    df_data.drop(columns=['distance_x', 'distance_y'], inplace=True)                
+    
+    #print(df_data.sort_values('all_backbone'))
+    
+    wGfile = f'Backbone/Networks/Multilayer/{layer}.txt'
+    ensurePathExists(wGfile)
+    df_data.to_csv(wGfile, sep='\t')    
+
+
 if __name__ == "__main__":
     
     # Layers that have FS/IFS and weighted by cosine and jaccards
@@ -28,50 +145,33 @@ if __name__ == "__main__":
     weight_type = ['fs', 'ifs']
     normalization_type = ['cosinesimilarities', 'jaccardindex', 'weightedjaccardindex']
     
+    '''
     for layer in layer_type:
         for weight in weight_type:
             for normalization in normalization_type:
                 
                 print(layer, weight, normalization)
-                
-                rGfile = f'Networks/Intralayer/ICD10_{layer}_{weight}_{normalization}.txt'
-                if layer == 'symptom':
-                    rGfile += '.zip'
-                
-                df_data = pd.read_csv(rGfile, sep='\t')
-                
-                df_graph = df_data[df_data[normalization] > 0]    
-                df_graph.loc[:, 'distance'] = 1./df_graph[normalization] - 1.
-                
-                # No Filter
-                G = nx.from_pandas_edgelist(df_graph, source='disease1', target='disease2', edge_attr='distance')
-                B = dc.metric_backbone(G, weight='distance')                
-
-                df_backbone = nx.to_pandas_edgelist(B, source='disease1', target='disease2')
-                df_backbone = _order_dataframe(df_backbone)
-                df_backbone['all_backbone'] = 1
-                df_data = pd.merge(df_data, df_backbone, how='outer', on=['disease1', 'disease2'])
-                
-                # FDR Filter
-                df_graph = df_graph[df_graph['fdr_up'] <= 0.05]
-                
-                G = nx.from_pandas_edgelist(df_graph, source='disease1', target='disease2', edge_attr='distance')
-                B = dc.metric_backbone(G, weight='distance')                
-            
-                df_backbone = nx.to_pandas_edgelist(B, source='disease1', target='disease2')
-                df_backbone = _order_dataframe(df_backbone)
-                df_backbone['fdr_backbone'] = 1
-                df_data = pd.merge(df_data, df_backbone, how='outer', on=['disease1', 'disease2'])
-                
-                df_data.fillna(0, inplace=True)
-                df_data.drop(columns=['distance_x', 'distance_y'], inplace=True)                
-                
-                #print(df_data.sort_values('all_backbone'))
-                
-                wGfile = f'Backbone/Networks/Intralayer/ICD10_{layer}_{weight}_{normalization}.txt'
-                ensurePathExists(wGfile)
-                df_data.to_csv(wGfile, sep='\t')
-                
-                #break
-            #break
-        #break
+                compute_backbone(layer, weight, normalization)            
+    
+    weight = 'tfidf'
+    for layer in ['mirna', 'symptom']:
+        for normalization in normalization_type:
+            print(layer, weight, normalization)
+            compute_backbone(layer, weight, normalization)
+    
+    normalization = 'cosinesimilarities'
+    weight = 'tvalue'
+    for layer in ['methylome1e3', 'methylome1e7']:
+        print(layer, weight, normalization)
+        compute_backbone(layer, weight, normalization)
+    
+    layer = 'microbiome'
+    normalization = 'cosinesimilarities'
+    for weight in ['fsd','ifsd']:
+        print(layer, weight, normalization)
+        compute_backbone(layer, weight, normalization)
+    '''
+    
+    #compute_backbone_transcriptome()
+    compute_backbone_epidemiology()
+    
