@@ -43,3 +43,6 @@ As can be seen, after FDR filtering, the weighted Jaccard Index is the similarit
 
 Generally speaking, those networks with the highest recall have very low accuracies, which means that the number of false positives (diseases that resemble each other in a particular omics but do not co-occur more than expected by chance) is very high.
 ![Percentage of interactions kept](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DML_interactions.png)
+
+Best performing weights and similarity metrics by layer:
+![Best recalls obtained by each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/best_recalls_and_precisions.png)
