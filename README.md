@@ -46,3 +46,6 @@ Generally speaking, those networks with the highest recall have very low accurac
 
 Best performing weights and similarity metrics by layer:
 ![Best recalls obtained by each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/best_recalls_and_precisions.png)
+
+Similarities between layers in general and overlapping epidemiology:
+![Layer similarities](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/Layer_similarities.png)
