@@ -35,6 +35,13 @@ Disease-metabolite associations have been extracted from the Human Metabolome Da
 In each of the layers nodes represent diseases and edges represent similarities between them based on the layer information. Similarities have been calculated through cosine similarity, jaccard index, and weighted cosine similarity on the different weights mentioned above. The disease categories with a larger representation in the multilayer are infectious diseases and neoplasms (chapters I and II), being the symptom layer the one with the largest number of diseases.
 ![Diseases by category in each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DiseaseCategoryLayer.png)
 
+Best performing weights and similarity metrics by layer:
+![Best recalls obtained by each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/best_recalls_and_precisions.png)
+
+Similarities between layers in general and overlapping epidemiology:
+![Layer similarities](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/Layer_similarities.png)
+
+# Supplementary Material
 We then evaluated the ability of each of the layers to retrieve comorbidity relationships extracted from electronic health records (Westergaard et al. 2019). In the graphs below we show recall (red), precision (green) and percentage of similarities retained with each of the similarity metrics and weighted measures of disease-omics variable associations (blue). 
 ![recalls](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DML_recall.png)
 
@@ -43,9 +50,3 @@ As can be seen, after FDR filtering, the weighted Jaccard Index is the similarit
 
 Generally speaking, those networks with the highest recall have very low accuracies, which means that the number of false positives (diseases that resemble each other in a particular omics but do not co-occur more than expected by chance) is very high.
 ![Percentage of interactions kept](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DML_interactions.png)
-
-Best performing weights and similarity metrics by layer:
-![Best recalls obtained by each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/best_recalls_and_precisions.png)
-
-Similarities between layers in general and overlapping epidemiology:
-![Layer similarities](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/Layer_similarities.png)
