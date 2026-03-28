@@ -5,7 +5,7 @@ The goal of this project is to build a disease-multilayer network integrating di
 
 # Dictionary
 Disease names, MeSH terms, and DOID have been translated into ICD10 and ICD9 codes (International Classification of Diseases) using the Unified Medical Language System (UMLS), followed by manual curation. The generated dictionary ("DiseaseName_ICD10_dictionary.txt") provides disease name - ICD10 associations indicating the disease category they belong to and provides a palette color.
-![Diseases by category in each layer](https://github.com/jonsv89/HDML/blob/master/Images/LayerInfo.png)
+
 # Transcriptome layer
 Expression data has been downloaded from GEO, focusing only on those experiments conducted on human samples with the microarray platform HG U133Plus2. After quality filtering, normalization, and filtering of lowly expressed genes differential expression analyses have been conducted comparing expression levels in disease vs. control state. Cosine similarities between diseases were calculated based on the fold changes obtained by differential expression analysis. Using randomizations, the p-value of the similarities was calculated.
 
@@ -35,18 +35,3 @@ In each of the layers nodes represent diseases and edges represent similarities 
 
 ![Null model for p-value calculation](https://github.com/jonsv89/HDML/blob/master/Images/Random.png)
 
-Best performing weights and similarity metrics by layer:
-![Best recalls obtained by each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/best_recalls_and_precisions.png)
-
-Similarities between layers in general and overlapping epidemiology:
-![Layer similarities](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/Layer_similarities.png)
-
-# Supplementary Material
-We then evaluated the ability of each of the layers to retrieve comorbidity relationships extracted from electronic health records (Westergaard et al. 2019). In the graphs below we show recall (red), precision (green) and percentage of similarities retained with each of the similarity metrics and weighted measures of disease-omics variable associations (blue). 
-![recalls](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DML_recall.png)
-
-As can be seen, after FDR filtering, the weighted Jaccard Index is the similarity metric that provides the best results when applied to the FS, followed by cosine similarity. 
-![precision](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DML_precision.png)
-
-Generally speaking, those networks with the highest recall have very low accuracies, which means that the number of false positives (diseases that resemble each other in a particular omics but do not co-occur more than expected by chance) is very high.
-![Percentage of interactions kept](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DML_interactions.png)
