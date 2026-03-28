@@ -5,8 +5,7 @@ The goal of this project is to build a disease-multilayer network integrating di
 
 # Dictionary
 Disease names, MeSH terms, and DOID have been translated into ICD10 and ICD9 codes (International Classification of Diseases) using the Unified Medical Language System (UMLS), followed by manual curation. The generated dictionary ("DiseaseName_ICD10_dictionary.txt") provides disease name - ICD10 associations indicating the disease category they belong to and provides a palette color.
-![Null model for p-value calculation](https://github.com/jonsv89/HDML/blob/master/Images/Random.png)
-
+![Diseases by category in each layer](https://github.com/jonsv89/HDML/blob/master/Images/LayerInfo.png)
 # Transcriptome layer
 Expression data has been downloaded from GEO, focusing only on those experiments conducted on human samples with the microarray platform HG U133Plus2. After quality filtering, normalization, and filtering of lowly expressed genes differential expression analyses have been conducted comparing expression levels in disease vs. control state. Cosine similarities between diseases were calculated based on the fold changes obtained by differential expression analysis. Using randomizations, the p-value of the similarities was calculated.
 
@@ -33,7 +32,8 @@ Disease-metabolite associations have been extracted from the Human Metabolome Da
 
 # Disease Multilayer
 In each of the layers nodes represent diseases and edges represent similarities between them based on the layer information. Similarities have been calculated through cosine similarity, jaccard index, and weighted cosine similarity on the different weights mentioned above. The disease categories with a larger representation in the multilayer are infectious diseases and neoplasms (chapters I and II), being the symptom layer the one with the largest number of diseases.
-![Diseases by category in each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/DiseaseCategoryLayer.png)
+
+![Null model for p-value calculation](https://github.com/jonsv89/HDML/blob/master/Images/Random.png)
 
 Best performing weights and similarity metrics by layer:
 ![Best recalls obtained by each layer](https://github.com/jonsv89/Disease_multilayer/blob/master/Images/best_recalls_and_precisions.png)
