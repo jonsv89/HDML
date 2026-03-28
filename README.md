@@ -1,6 +1,6 @@
 # Human Disease Multilayer Network (HDML)
 
-Pipeline for building a **disease multilayer network** that integrates multiple sources of molecular and clinical information to study comorbidity relationships. Developed at the **Barcelona Supercomputing Center (BSC)** in the context of the [COMMUTE project](https://www.commute-project.eu/) (Deliverable 4.2).
+Pipeline for building a **disease multilayer network** that integrates multiple sources of molecular and clinical information to study comorbidity relationships. Developed at the **Barcelona Supercomputing Center (BSC)** in the context of the [COMMUTE project](https://www.commute-project.eu/).
 
 The goal is to connect diseases through shared molecular features — genes, miRNAs, drugs, symptoms, metabolites, methylation marks, microbiome, and transcriptomics — and to use the resulting multilayer structure to understand the biological basis of comorbidities and explore opportunities for drug repositioning.
 
