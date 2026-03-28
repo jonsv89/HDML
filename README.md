@@ -4,8 +4,6 @@ Pipeline for building a **disease multilayer network** that integrates multiple 
 
 The goal is to connect diseases through shared molecular features — genes, miRNAs, drugs, symptoms, metabolites, methylation marks, microbiome, and transcriptomics — and to use the resulting multilayer structure to understand the biological basis of comorbidities and explore opportunities for drug repositioning.
 
-![Construction of the disease multilayer network](https://github.com/jonsv89/HDML/blob/master/Images/LaterCons.png)
-
 ---
 
 ## Overview
@@ -22,6 +20,12 @@ Disease names, MeSH terms, and DOID identifiers are translated into ICD-10 codes
 
 ---
 
+## Data Sources
+
+![Construction of the disease multilayer network](https://github.com/jonsv89/HDML/blob/master/Images/LaterCons.png)
+
+---
+
 ## Pipeline Scripts
 
 The pipeline is structured in five numbered R scripts, each executed from the command line with a step argument:
@@ -32,13 +36,7 @@ Rscript <script.R> <step> [additional arguments]
 
 ### `00_Preprocessing.R`
 
-General preprocessing utilities, including:
-
-- **`Get_disease_mesh_terms`** — Parses the MeSH XML descriptor file (`desc2025.xml`) and extracts all disease-related terms (tree numbers starting with `C`).
-- **`Get_entire_list_of_papers_describing_diseases`** — Collects all PubMed IDs associated with disease and symptom MeSH terms for downstream co-occurrence analyses.
-- **`Paper_year_publication_into_single_table`** — Extracts year, country, and journal information from PubMed JSON records for diseases, symptoms, and COVID-19.
-- **`transcriptomicsandepidemiology`** — Integrates precomputed transcriptomics (cosine similarities and FDR) and epidemiology (adjusted relative risk from Danish registry data) layers into the similarity framework.
-- **`AlphaTom`** — Generates a term dictionary for the COMMUTE WP2 integration.
+General preprocessing utilities, mainly generate a term dictionary for the COMMUTE WP2 integration.
 
 ### `01_generate_intralayers_icd10.R`
 
@@ -48,6 +46,8 @@ Generates the within-layer (intralayer) disease–disease similarity networks fo
 - Assigns weights to molecular variables based on their frequency of association across diseases: frequency score (fs), inverse frequency score (ifs), and TF-IDF where applicable.
 - Computes cosine similarities, Jaccard indexes, and weighted Jaccard indexes between all pairs of diseases.
 - Estimates p-values through randomisations and applies Bonferroni correction for multiple testing.
+
+![Null model for p-value calculation](https://github.com/jonsv89/HDML/blob/master/Images/Random.png)
 
 ### `02_generate_interlayers_icd10.R`
 
@@ -67,23 +67,6 @@ Constructs and analyses the full disease multilayer network using Random Walk wi
 - **`CmmD`** — Performs community detection using [CmmD](https://github.com/alberto-valdeolivas/CmmD) across resolution parameters, with bootstrap-based hierarchical clustering (pvclust) to assess cluster stability.
 - **`get_shortest_paths`** — Computes shortest paths between diseases of interest (e.g. COVID-19 [U07] and Alzheimer's disease [G30]) within each layer.
 - **`calculate_similarities_between_diseases`** — Derives cosine similarities between diseases from the RWR diffusion profiles.
-
----
-
-## Data Sources
-
-| Layer | Source | Notes |
-|---|---|---|
-| Gene | [DisGeNET](https://www.disgenet.org) | Curated disease–gene associations |
-| miRNA | [HMDD](https://www.cuilab.cn/hmdd) | Manually curated disease–miRNA associations |
-| Drug (CTD) | [CTD](https://ctdbase.org) | Therapeutic associations only, no inferred |
-| Drug (ChEMBL) | [ChEMBL](https://www.ebi.ac.uk/chembl/) | Therapeutic associations only, no inferred |
-| Symptom | [Zhou et al., 2014](https://www.nature.com/articles/ncomms5212) | Disease–symptom co-occurrences in PubMed; updated 31/03/2025 by NLP4BIA (BSC) |
-| Microbiome | [DISBIOME](https://disbiome.ugent.be/home) | Gut microbiome associations only |
-| Methylome | [EWASdb](http://www.bioapp.org/ewasdb/) | 450K arrays; p < 1e-3 and p < 1e-7 thresholds |
-| Metabolome | [HMDB](https://hmdb.ca) | Blood metabolite associations |
-| Transcriptome | GEO (HG U133Plus2 arrays) | Cosine similarity of fold changes between diseases |
-| Epidemiology | [Westergaard et al., 2019](https://www.nature.com/articles/s41467-019-08475-9) | Adjusted relative risk from Danish health registry |
 
 ---
 
@@ -112,8 +95,6 @@ To evaluate the biological relevance of each layer, disease–disease similariti
 ## Disease Multilayer
 
 In each layer, nodes represent diseases and edges represent similarities based on the respective molecular source. The disease categories with the largest representation are infectious diseases and neoplasms (ICD-10 chapters I and II). The symptom layer covers the highest number of diseases overall.
-
-![Null model for p-value calculation](https://github.com/jonsv89/HDML/blob/master/Images/Random.png)
 
 ---
 
@@ -150,4 +131,4 @@ BiocManager::install("RCy3")
 
 **Jon Sanchez-Valle** — Barcelona Supercomputing Center (BSC)
 
-Developed in the context of the [COMMUTE project](https://www.commute-project.eu/) (Deliverable 4.2).
+Developed in the context of the [COMMUTE project](https://www.commute-project.eu/).
