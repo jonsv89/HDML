@@ -63,8 +63,7 @@ Constructs and analyses the full disease multilayer network using Random Walk wi
 
 - **`create_directories`** — Sets up the required output directory structure.
 - **`prepare_layers`** — Formats individual networks and builds single-layer multiplex objects.
-- **`multiplex_analysis_ctd`** / **`multiplex_analysis_chembl`** / **`multiplex_analysis_chemblall`** — Runs RWR on the multiplex network using different drug source configurations (CTD, ChEMBL).
-- **`CmmD`** — Performs community detection using [CmmD](https://github.com/alberto-valdeolivas/CmmD) across resolution parameters, with bootstrap-based hierarchical clustering (pvclust) to assess cluster stability.
+- **`multiplex_analysis_ctd`** / **`multiplex_analysis_chembl`** / **`multiplex_analysis_chemblall`** — Runs RWR on the multiplex network using different drug source configurations (CTD, ChEMBL), calculates similarities between diseases and clusters them.
 - **`get_shortest_paths`** — Computes shortest paths between diseases of interest (e.g. COVID-19 [U07] and Alzheimer's disease [G30]) within each layer.
 - **`calculate_similarities_between_diseases`** — Derives cosine similarities between diseases from the RWR diffusion profiles.
 
@@ -118,7 +117,6 @@ if (!require("BiocManager")) install.packages("BiocManager")
 BiocManager::install("UpSetR")
 
 # GitHub
-devtools::install_github("alberto-valdeolivas/CmmD")
 devtools::install_github("dkainer/RWRtoolkit")
 
 # Cytoscape interface (optional, for visualisation)
@@ -130,5 +128,8 @@ BiocManager::install("RCy3")
 ## Author
 
 **Jon Sanchez-Valle** — Barcelona Supercomputing Center (BSC)
+**Davide Cirillo** — Barcelona Supercomputing Center (BSC)
+**Felipe Xavier Costa** — Universidade Catolica Portuguesa
+**Iker Nuñez-Carpintero** — Ludwig Boltzmann Centre for Network Medicine
 
 Developed in the context of the [COMMUTE project](https://www.commute-project.eu/).
