@@ -1,6 +1,6 @@
 # Human Disease Multilayer Network (HDML)
 
-Pipeline for building a **disease multilayer network** that integrates multiple sources of molecular and clinical information to study comorbidity relationships. Developed at the **Barcelona Supercomputing Center (BSC)** in the context of the [COMMUTE project](https://www.commute-project.eu/).
+Pipeline for building a **disease multilayer network** that integrates multiple sources of molecular and clinical information to study comorbidity relationships. Developed at the **Barcelona Supercomputing Center (BSC)**.
 
 The goal is to connect diseases through shared molecular features — genes, miRNAs, drugs, symptoms, metabolites, methylation marks, microbiome, and transcriptomics — and to use the resulting multilayer structure to understand the biological basis of comorbidities and explore opportunities for drug repositioning.
 
@@ -38,7 +38,7 @@ Rscript <script.R> <step> [additional arguments]
 
 ### `00_Preprocessing.R`
 
-General preprocessing utilities: formats externally downloaded source data (see Data Sources) into the structure expected by the pipeline, and generates a term dictionary for the COMMUTE WP2 integration.
+General preprocessing utilities: formats externally downloaded source data (see Data Sources) into the structure expected by the pipeline, and generates a term dictionary.
 
 ### `01_generate_intralayers_icd10.R`
 
@@ -133,5 +133,3 @@ BiocManager::install("RCy3")
 **Davide Cirillo** — Barcelona Supercomputing Center (BSC)
 **Felipe Xavier Costa** — Universidade Catolica Portuguesa
 **Iker Nuñez-Carpintero** — Ludwig Boltzmann Centre for Network Medicine
-
-Developed in the context of the [COMMUTE project](https://www.commute-project.eu/).
